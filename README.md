@@ -26,7 +26,7 @@ Kicad_Library_KienHoang/
 
 Dùng cho máy tính hiện tại hoặc copy thư mục sang bất kỳ máy tính/ổ đĩa nào khác (`C:`, `D:`, `E:`):
 
-1. **Đóng KiCad** (nếu đang mở).
+1. **Xóa các thư viện hiện tại và Đóng KiCad** (nếu đang mở).
 2. Chạy tệp: **`SETUP_KICAD.cmd`**
 3. Nhập phím **`1`** (hoặc nhấn Enter) để chọn chế độ **FULL**.
 4. Script sẽ tự động:
