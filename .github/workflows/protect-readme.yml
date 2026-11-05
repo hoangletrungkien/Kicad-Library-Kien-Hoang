@@ -1,0 +1,28 @@
+﻿name: Enforce README Protection
+
+on:
+  pull_request:
+    paths:
+      - 'README.md'
+  push:
+    paths:
+      - 'README.md'
+
+jobs:
+  block-readme-modifications:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check Actor and Block README Changes
+        run: |
+          echo "=========================================================="
+          echo "Kiem tra quyen thay doi tep README.md..."
+          echo "Nguoi thuc hien: ${{ github.actor }}"
+          echo "=========================================================="
+
+          # Neu khong phai chu repo chinh thuc thi chan tuyet doi
+          if [ "${{ github.actor }}" != "hoangletrungkien" ]; then
+            echo "::error::[TU CHOI] Tep README.md da bi khoa bao ve! Nguoi dung ${{ github.actor }} khong co quyen sua doi, xoa hoac di chuyen file nay."
+            exit 1
+          fi
+
+          echo "Xac thuc chu repo thanh cong."

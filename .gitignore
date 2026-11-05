@@ -1,0 +1,68 @@
+﻿# =============================================================================
+# Gitignore for KiCad Library Kien Hoang
+# Chuyên dụng cho thư viện KiCad chuẩn hóa & đa nền tảng
+# =============================================================================
+
+# --- KiCad Temporary / Lock / Autosave files ---
+*.kicad_prl
+*.lck
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+_autosave-*
+*.tmp
+*~
+
+# --- KiCad Ecosystem Backups (tạo bởi setup/uninstall script) ---
+*.eco-backup-*
+*.backup-*
+
+# --- KiCad Project Output / Generation ---
+fp-info-cache
+*.net
+*.drl
+*.gerber
+*.gbr
+*.gbrjob
+*.pho
+*.pos
+*.rpt
+*.csv.bak
+*.erc
+*.drc
+
+# --- Operating System Junk ---
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Linux
+*~
+.directory
+
+# --- Editor / IDE Caches ---
+.idea/
+.vscode/
+*.swp
+*.swo
+*#
+.#*
+
+# --- Python & Script Cache (nếu có công cụ phụ trợ chạy nền) ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.log

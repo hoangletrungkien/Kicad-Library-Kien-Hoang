@@ -1,0 +1,173 @@
+(footprint "1043"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "6f910793-6765-4cb8-908a-7b53ce4998cb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "1043"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "89521d64-5990-481b-89e0-012269c4cf9c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "efb189a8-ad20-448a-865d-e1fee636fbb0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1c3d061b-1a27-483f-9a1c-f1d17c852d48")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -35 -10.5)
+		(end -26.2 10.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "03b1dea9-ff17-463f-a440-c0ce20201508")
+	)
+	(fp_rect
+		(start -35 -10.488907)
+		(end 35 -4.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "818fc9a8-5385-4847-9f5e-6f9591022a9b")
+	)
+	(fp_rect
+		(start -34.999999 4.111093)
+		(end 35 10.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "f0bb72cf-c888-46c6-ac19-2344c3944de5")
+	)
+	(fp_rect
+		(start 26.2 -10.5)
+		(end 35 10.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "30714d21-fa4b-47b9-84f0-17da44169d13")
+	)
+	(fp_rect
+		(start -35 -10.5)
+		(end 35 10.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "48c6ebb1-707b-4935-ab22-4cc0d8c1377a")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b02e21fd-aa43-4682-98d9-94b1a257c4d8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at -27.6 7.87)
+		(size 0.1 0.1)
+		(drill 3.55)
+		(layers "*.Cu" "*.Mask")
+		(uuid "fdeb1c7d-34ac-4162-8e9e-f7e05d90597f")
+	)
+	(pad "" np_thru_hole circle
+		(at 27.6 -7.87)
+		(size 0.1 0.1)
+		(drill 3.55)
+		(layers "*.Cu" "*.Mask")
+		(uuid "2d363b76-4505-4088-bef4-68f2b089af3d")
+	)
+	(pad "" np_thru_hole circle
+		(at 36.11 7.87)
+		(size 0.1 0.1)
+		(drill 2.39)
+		(layers "*.Cu" "*.Mask")
+		(uuid "7b0a04f5-f507-49b2-a3bd-368e7daa05f7")
+	)
+	(pad "1" thru_hole circle
+		(at 36.11 0)
+		(size 2 2)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f19bf2ff-31c6-430e-bd7a-024ceb0ade32")
+	)
+	(pad "2" thru_hole circle
+		(at -36.11 0)
+		(size 2 2)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f7800ead-7515-4654-8bfc-e4be972212a1")
+	)
+	(embedded_fonts no)
+	(model "${KICAD_LIBRARY}/3D/Batteryholder/Keystone/1043.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 180 90)
+		)
+	)
+)

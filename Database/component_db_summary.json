@@ -1,0 +1,40 @@
+{
+  "schema": "kicad-ecosystem/component-db-summary/v1",
+  "generated_utc": "2026-10-31T04:31:15Z",
+  "source_id": "antmicro/hardware-components",
+  "library_root": "D:\\PCB_LIBRARY\\Kicad Lib\\hardware-components-main",
+  "rows": 3573,
+  "by_status": {
+    "PARTIAL": 3573
+  },
+  "by_category": {
+    "Resistor": 836,
+    "Connector": 581,
+    "IC": 370,
+    "Capacitor": 340,
+    "Power Management": 229,
+    "Memory": 155,
+    "Inductor": 152,
+    "Diode": 149,
+    "Interface": 115,
+    "Crystal/Oscillator": 112,
+    "Module": 108,
+    "Uncategorised": 97,
+    "Transistor": 70,
+    "Sensor": 53,
+    "Switch": 50,
+    "MCU/Processor": 48,
+    "FPGA/CPLD": 35,
+    "Ferrite": 35,
+    "Fuse": 23,
+    "TestPoint": 10,
+    "Relay": 5
+  },
+  "quality_flag_counts": {
+    "ALL_PINS_PASSIVE": 2187,
+    "NO_DATASHEET": 5,
+    "MISSING_ASSET": 11
+  },
+  "distinct_manufacturers": 243,
+  "rows_with_datasheet": 3568
+}
