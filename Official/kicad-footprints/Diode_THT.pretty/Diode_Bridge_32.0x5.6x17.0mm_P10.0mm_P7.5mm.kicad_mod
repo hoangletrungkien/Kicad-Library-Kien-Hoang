@@ -1,0 +1,293 @@
+(footprint "Diode_Bridge_32.0x5.6x17.0mm_P10.0mm_P7.5mm"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Diotec 32x5.6x17mm rectifier package, 7.5mm/10mm pitch, see https://diotec.com/tl_files/diotec/files/pdf/datasheets/b40c3700.pdf")
+	(tags "Diotec rectifier diode bridge")
+	(property "Reference" "REF**"
+		(at 12.6 -3.8 180)
+		(layer "F.SilkS")
+		(uuid "8f75798c-59a4-40fd-b188-717868e4911f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Diode_Bridge_32.0x5.6x17.0mm_P10.0mm_P7.5mm"
+		(at 12.6 4 180)
+		(layer "F.Fab")
+		(uuid "46e11ed1-394b-4a8d-b886-436f2cc6aef3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "53b4347b-7fb0-4345-beab-b73a397fe3dc")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f207fc0e-d61e-4952-8895-a2db812de929")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -3.8 -3.1)
+		(end -2.5 -3.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5db19c1d-d3b6-4da6-9b2e-342d8f968c29")
+	)
+	(fp_line
+		(start -3.8 -1.7)
+		(end -3.8 -3.1)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5d29ab2f-fff2-4f94-9f81-dfd4156dbc58")
+	)
+	(fp_line
+		(start -3.6 -2.9)
+		(end 28.6 -2.9)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b5a88e4f-9a6e-43c9-be44-0b3e31aba171")
+	)
+	(fp_line
+		(start -3.6 2.9)
+		(end -3.6 -2.9)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3ba5772e-25cf-4f12-b4ae-be730a90798d")
+	)
+	(fp_line
+		(start 0.45 -2.9)
+		(end 0.45 -1.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "70cf5b61-ab24-4b60-a93a-71357a128c9f")
+	)
+	(fp_line
+		(start 0.45 2.9)
+		(end 0.45 1.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ef69d6e2-7b2d-4c30-aff4-ddfb30c15433")
+	)
+	(fp_line
+		(start 28.6 -2.9)
+		(end 28.6 2.9)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "291fe087-e456-4a7d-89a0-f852bb78f540")
+	)
+	(fp_line
+		(start 28.6 2.9)
+		(end -3.6 2.9)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "777a501f-8268-4dc7-be04-2bfabedbf1a4")
+	)
+	(fp_line
+		(start -3.75 -3.05)
+		(end 28.75 -3.05)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ada9bc8c-8b7e-44e6-9142-00d7a6f9c54c")
+	)
+	(fp_line
+		(start -3.75 3.05)
+		(end -3.75 -3.05)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2c6535c9-cd63-4fed-9553-3013d029d7a0")
+	)
+	(fp_line
+		(start 28.75 -3.05)
+		(end 28.75 3.05)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1347a7cb-9f6b-4867-b1c1-a7469a5270bb")
+	)
+	(fp_line
+		(start 28.75 3.05)
+		(end -3.75 3.05)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bdb4a31d-fb85-4c20-ad9f-7e7c53b34a9e")
+	)
+	(fp_line
+		(start -3.5 -1.7)
+		(end -3.5 2.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b4a7b446-4214-4f89-9bf3-c85fabb1a040")
+	)
+	(fp_line
+		(start -3.5 2.8)
+		(end 28.5 2.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "11cd0567-6cae-420b-b185-420fb87e1c98")
+	)
+	(fp_line
+		(start -2.5 -2.8)
+		(end -3.5 -1.7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0b4171d6-b6b2-4533-aa98-5e314aecd3ca")
+	)
+	(fp_line
+		(start 0.45 -2.8)
+		(end 0.45 2.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3ac7875d-3830-40f1-8bee-ab12ec36cc86")
+	)
+	(fp_line
+		(start 28.5 -2.8)
+		(end -2.5 -2.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6536d179-c48f-4fd8-bde5-cc3e6904a6b6")
+	)
+	(fp_line
+		(start 28.5 2.8)
+		(end 28.5 -2.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6dc0f153-6a47-4c64-9f20-d1b23f13ad4c")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 12.6 0 180)
+		(layer "F.Fab")
+		(uuid "53a8b6dc-8414-41cd-ac38-a3561910e94b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 2.5 2.5)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8ae2e904-bad1-4a97-b6b4-2313abe30098")
+	)
+	(pad "2" thru_hole circle
+		(at 7.5 0)
+		(size 2.5 2.5)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "14a2592e-9e57-42d9-a9e1-498ddf93cb54")
+	)
+	(pad "3" thru_hole circle
+		(at 15 0)
+		(size 2.5 2.5)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1e6c4195-d827-46cb-9efd-82567cae04cb")
+	)
+	(pad "4" thru_hole circle
+		(at 25 0)
+		(size 2.5 2.5)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "9787f21e-3694-4550-806e-554083b1a0f6")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Diode_THT.3dshapes/Diode_Bridge_32.0x5.6x17.0mm_P10.0mm_P7.5mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -66,3 +66,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 *.log
+
+!Official/**/*.kicad_prl
+!Official/**/fp-info-cache

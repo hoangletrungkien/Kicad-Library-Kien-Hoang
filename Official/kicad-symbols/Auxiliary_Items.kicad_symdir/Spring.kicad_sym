@@ -1,0 +1,502 @@
+(kicad_symbol_lib
+	(version 20251024)
+	(generator "kicad_symbol_editor")
+	(generator_version "10.0")
+	(symbol "Spring"
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
+		(property "Reference" "H"
+			(at 2.54 1.27 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Spring"
+			(at 2.54 -1.27 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Compression spring"
+			(at 0 -5.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(symbol "Spring_1_0"
+			(bezier
+				(pts
+					(xy -1.4943 -3.5565) (xy -1.5154 -3.4042) (xy -1.2922 -3.0922) (xy -1.0643 -3.0439)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy -1.478 3.0973) (xy -1.8284 3.4236) (xy -1.2266 3.6998) (xy -0.7169 3.7594)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy -1.364 -3.3291) (xy -1.6911 -3.1956) (xy -1.551 -2.9502) (xy -1.1184 -2.8439)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy -1.3581 -1.9844) (xy -1.6853 -1.8509) (xy -1.5451 -1.6055) (xy -1.1126 -1.4992)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy -1.3523 -0.6397) (xy -1.6794 -0.5062) (xy -1.5393 -0.2608) (xy -1.1067 -0.1545)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy -1.3464 0.705) (xy -1.6736 0.8385) (xy -1.5335 1.0839) (xy -1.1009 1.1902)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy -1.3338 2.4814) (xy -1.0628 2.5613) (xy -0.7886 2.5955) (xy -0.3233 2.5992)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy -1.3182 2.0565) (xy -1.6495 2.1773) (xy -1.6047 2.4015) (xy -1.3338 2.4814)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.1184 -2.8439) (xy -0.3467 -2.7796)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy -1.1126 -1.4992) (xy -0.969 -1.4639) (xy -0.704 -1.4142) (xy -0.3698 -1.4204)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.1067 -0.1545) (xy -0.3759 -0.096)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy -1.1009 1.1902) (xy -0.9573 1.2255) (xy -0.6923 1.2752) (xy -0.3581 1.269)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -1.0643 -3.0439) (xy -0.8878 -3.0065)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy -0.7749 -4.0857) (xy -1.2265 -3.9321) (xy -1.4705 -3.7273) (xy -1.4943 -3.5565)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy -0.7169 3.7594) (xy -0.2072 3.819) (xy 0.2424 3.814) (xy 0.8141 3.6391)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy -0.4021 2.7309) (xy -0.8814 2.7777) (xy -1.1276 2.771) (xy -1.478 3.0973)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy -0.3759 -0.096) (xy -0.2618 -0.0919) (xy 0.7592 -0.0016) (xy 1.3254 -0.6105)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy -0.3698 -1.4204) (xy -0.3698 -1.4204) (xy 0.7534 -1.3463) (xy 1.3196 -1.9552)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy -0.3581 1.269) (xy -0.3581 1.269) (xy 0.7651 1.3431) (xy 1.3313 0.7342)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy -0.3467 -2.7796) (xy 0.0115 -2.7712) (xy 1.3955 -2.8198) (xy 1.5112 -3.1799)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy -0.3233 2.5992) (xy 0.142 2.6029) (xy 0.7709 2.6878) (xy 1.3371 2.0789)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 0.2995 2.0994) (xy -0.176 1.998) (xy -1.1467 1.9863) (xy -1.3182 2.0565)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 0.8141 3.6391) (xy 1.3857 3.4643) (xy 1.5157 3.1324) (xy 1.4767 2.8205)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 0.9571 -3.0953) (xy 0.1926 -3.5166) (xy -1.0514 -3.4567) (xy -1.364 -3.3291)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 0.9629 -1.7506) (xy 0.1985 -2.1719) (xy -1.0456 -2.112) (xy -1.3581 -1.9844)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 0.9688 -0.4059) (xy 0.2043 -0.8272) (xy -1.0397 -0.7673) (xy -1.3523 -0.6397)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 0.9746 0.9388) (xy 0.2101 0.5175) (xy -1.0339 0.5774) (xy -1.3464 0.705)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 1.1565 2.9001) (xy 0.8145 2.7298) (xy 0.0771 2.684) (xy -0.4021 2.7309)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 1.164 -3.9534) (xy 0.8823 -4.1413) (xy -0.2185 -4.2749) (xy -0.7749 -4.0857)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 1.3196 -1.9552) (xy 1.8844 -2.5626) (xy 1.3753 -2.8648) (xy 0.9571 -3.0953)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 1.3254 -0.6105) (xy 1.8902 -1.2179) (xy 1.3811 -1.5201) (xy 0.9629 -1.7506)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 1.3313 0.7342) (xy 1.8961 0.1268) (xy 1.387 -0.1754) (xy 0.9688 -0.4059)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 1.3371 2.0789) (xy 1.9019 1.4715) (xy 1.3928 1.1693) (xy 0.9746 0.9388)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 1.4509 3.1277) (xy 1.4119 3.0108) (xy 1.4986 3.0704) (xy 1.1565 2.9001)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 1.4767 2.8205) (xy 1.4378 2.5087) (xy 0.7751 2.2007) (xy 0.2995 2.0994)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(bezier
+				(pts
+					(xy 1.5112 -3.1799) (xy 1.627 -3.54) (xy 1.4837 -3.7401) (xy 1.164 -3.9534)
+				)
+				(stroke
+					(width 0.3048)
+					(type solid)
+				)
+				(fill
+					(type none)
+				)
+			)
+		)
+		(embedded_fonts no)
+	)
+)
