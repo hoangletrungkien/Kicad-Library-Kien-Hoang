@@ -34,7 +34,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['W25Q16FW_WSON-8']"
+		(property "Footprint" "Hardware Components Footprints:WSON-8-1EP_6x5mm_P1.27mm_EP3.4x4mm"
 			(at 36.83 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -337,7 +337,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['W25Q32DW_SOIC-8']"
+		(property "Footprint" "Hardware Components Footprints:SOIC-8_5.3x5.3x2mm_P1.27mm"
 			(at 33.02 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -627,7 +627,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['W25Q128JVSIQ_SOIC-8']"
+		(property "Footprint" "Hardware Components Footprints:SOIC-8_5.3x5.3x2mm_P1.27mm"
 			(at 41.91 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -917,7 +917,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['W25Q128JWEIQ']"
+		(property "Footprint" "Hardware Components Footprints:WSON-8_6x8x0.5mm_P1.27mm"
 			(at 40.64 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1226,7 +1226,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['W25Q256JVEIQ']"
+		(property "Footprint" "Hardware Components Footprints:WSON-8_6x8x0.5mm_P1.27mm"
 			(at 40.64 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1535,7 +1535,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['W25Q32FV_SOIC-8']"
+		(property "Footprint" "Hardware Components Footprints:SOIC-8_5.3x5.3x2mm_P1.27mm"
 			(at 41.91 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1825,7 +1825,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['W25Q32JVSNIQ']"
+		(property "Footprint" "Hardware Components Footprints:SOIC-8_3.9x4.9x1.75mm_P1.27mm"
 			(at 33.02 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2115,7 +2115,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['W25Q32JVSSIQ']"
+		(property "Footprint" "Hardware Components Footprints:SOIC-8_5.3x5.3x2mm_P1.27mm"
 			(at 33.02 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2405,7 +2405,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['W25Q32JVTBIQ']"
+		(property "Footprint" "Hardware Components Footprints:BGA-25-24_6x8mm_Layout5x5_P1x1mm"
 			(at 33.02 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2694,7 +2694,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['W25Q32JVXGIQ']"
+		(property "Footprint" "Hardware Components Footprints:XSON-8-1EP_4x4mm_P0.45mm"
 			(at 33.02 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2989,7 +2989,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['W25Q32JW_SOIC-8']"
+		(property "Footprint" "Hardware Components Footprints:SOIC-8_5.3x5.3x2mm_P1.27mm"
 			(at 33.02 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3279,7 +3279,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['W25Q512NWEIQ']"
+		(property "Footprint" "Hardware Components Footprints:WSON-8_6x8x0.5mm_P1.27mm"
 			(at 40.64 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3588,7 +3588,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['W25Q64FV_SOIC8']"
+		(property "Footprint" "Hardware Components Footprints:SOIC-8_5.3x5.3x2mm_P1.27mm"
 			(at 40.64 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3878,7 +3878,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['W25Q64JVZEIQ']"
+		(property "Footprint" "Hardware Components Footprints:WSON-8_6x8x0.5mm_P1.27mm"
 			(at 40.64 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4187,7 +4187,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['W25Q80DV_SOIC-8']"
+		(property "Footprint" "Hardware Components Footprints:SOIC-8_3.9x4.9x1.75mm_P1.27mm"
 			(at 38.1 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4477,7 +4477,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['W25Q80DV_USON']"
+		(property "Footprint" "Hardware Components Footprints:USON-8_2x3mm_P0.5mm"
 			(at 38.1 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4785,7 +4785,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['W634GU6MB15I']"
+		(property "Footprint" "Hardware Components Footprints:BGA-96-48_9x13mm_Layout9x16_P0.8mm"
 			(at 50.8 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6724,7 +6724,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['W956D8MBYA5I']"
+		(property "Footprint" "Hardware Components Footprints:FBGA-25-24_6x8mm_Layout5x5_P1mm"
 			(at 45.72 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)

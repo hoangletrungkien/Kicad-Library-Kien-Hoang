@@ -27,7 +27,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Wuerth:WS-TASV-6x6"
+		(property "Footprint" "PERSONAL_Wuerth:WS-TASV-6x6"
 			(at 0 7.62 0)
 			(effects
 				(font
@@ -244,7 +244,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Wuerth:BarrelJack_Wuerth_6941xx301002"
+		(property "Footprint" "PERSONAL_Connector_Generic:BarrelJack_Wuerth_6941xx301002"
 			(at 1.27 -1.016 0)
 			(effects
 				(font
@@ -447,7 +447,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Wuerth:BarrelJack_Wuerth_6941xx301002"
+		(property "Footprint" "PERSONAL_Connector_Generic:BarrelJack_Wuerth_6941xx301002"
 			(at 1.27 -1.016 0)
 			(effects
 				(font

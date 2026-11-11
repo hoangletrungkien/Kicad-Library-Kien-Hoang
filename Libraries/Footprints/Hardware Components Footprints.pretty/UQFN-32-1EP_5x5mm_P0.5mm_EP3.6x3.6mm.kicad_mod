@@ -1750,7 +1750,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model "${KICAD10_3DMODEL_DIR}/HVQFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm.step"
+	(model "${KICAD_LIBRARY}/3D/Packages/QFN-32-5x5mm_P0.5mm_EP3.6x3.6mm.stp"
 		(offset
 			(xyz -0 -0 0)
 		)

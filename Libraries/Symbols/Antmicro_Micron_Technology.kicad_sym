@@ -33,7 +33,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['JS28F320J3D75A']"
+		(property "Footprint" "Hardware Components Footprints:TSOP-I-56_18.4x14mm_P0.5mm"
 			(at 45.72 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1201,7 +1201,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MT25QL01GBBB1EW9-0SIT']"
+		(property "Footprint" "Hardware Components Footprints:W-PDFN-8-1EP_8x6mm_P1.27mm_EP4.3x3.4mm"
 			(at 43.18 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1491,7 +1491,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MT25QL01GBBB8E_SOP2-16']"
+		(property "Footprint" "Hardware Components Footprints:SOP2-16_7.5x10.3mm"
 			(at 43.18 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1932,7 +1932,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MT25QL256ABA1EW7-0SIT']"
+		(property "Footprint" "Hardware Components Footprints:WDFN-8-1EP_6x5mm_P1.27mm_EP3.4x4mm"
 			(at 41.91 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2240,7 +2240,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MT25QU01GBBB8_T-PBGA-24']"
+		(property "Footprint" "Hardware Components Footprints:BGA-25-24_6x8mm_Layout5x5_P1x1mm"
 			(at 35.56 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2835,7 +2835,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MT25QU01GBBB8_SOIC']"
+		(property "Footprint" "Hardware Components Footprints:SOIC-16_W7.5mm"
 			(at 35.56 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3275,7 +3275,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MT35XU512ABA1G12-0AAT']"
+		(property "Footprint" "Hardware Components Footprints:FBGA-25-24_6x8mm_Layout5x5_P1mm"
 			(at 41.91 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3860,7 +3860,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MT40A512M16TD-062EAAT']"
+		(property "Footprint" "Hardware Components Footprints:BGA-96-48_7.5x13mm_Layout9x16_P0.8mm"
 			(at 57.912 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5793,7 +5793,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MT41K128M16JT-125_K']"
+		(property "Footprint" "Hardware Components Footprints:BGA-96-48_8x14mm_Layout16x9_P0.8mm"
 			(at 50.8 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7731,7 +7731,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MT41K256M16TW-107-P']"
+		(property "Footprint" "Hardware Components Footprints:BGA-96-48_8x14mm_Layout16x9_P0.8mm"
 			(at 53.34 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9668,7 +9668,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MT41K256M16TW-107']"
+		(property "Footprint" "Hardware Components Footprints:BGA-96-48_8x14mm_Layout16x9_P0.8mm"
 			(at 53.34 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11605,7 +11605,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MT41K512M8DA']"
+		(property "Footprint" "Hardware Components Footprints:Micron_FBGA-78"
 			(at 45.72 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13186,7 +13186,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MT47H128M8CF-25_H']"
+		(property "Footprint" "Hardware Components Footprints:FBGA-60-38_8x10mm_Layout9x11_P0.8mm"
 			(at 38.1 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14428,7 +14428,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MT53D512M32D2_WFBGA']"
+		(property "Footprint" "Hardware Components Footprints:BGA-264-200_10x14.5mm_Layout12x22_P0.8x0.65mm"
 			(at 48.26 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18320,7 +18320,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MT53E1G32D2NP-046']"
+		(property "Footprint" "Hardware Components Footprints:BGA-264-200_10x14.5mm_Layout12x22_P0.8x0.65mm"
 			(at 55.88 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22224,7 +22224,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MT53E2G32D4DE-046_AUT']"
+		(property "Footprint" "Hardware Components Footprints:BGA-264-200_10x14.5mm_Layout12x22_P0.8x0.65mm"
 			(at 48.26 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26124,7 +26124,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MT53E2G32D4DE-046']"
+		(property "Footprint" "Hardware Components Footprints:BGA-264-200_10x14.5mm_Layout12x22_P0.8x0.65mm"
 			(at 55.88 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30028,7 +30028,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MT60B2G8HB-48B_A']"
+		(property "Footprint" "Hardware Components Footprints:BGA-82_11x9mm_Layout13x11_P0.8mm_DDR5_MO-210-AN"
 			(at 52.07 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31699,7 +31699,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MT62F1G32D4DR-031']"
+		(property "Footprint" "Hardware Components Footprints:BGA-315_12.4x15mm_Layout15x21_P0.8x0.7mm"
 			(at 44.45 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37788,7 +37788,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MTFC16GAPALNA-AIT']"
+		(property "Footprint" "Hardware Components Footprints:BGA-170-100_18x14mm_Layout17x10_P1mm"
 			(at 33.02 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)

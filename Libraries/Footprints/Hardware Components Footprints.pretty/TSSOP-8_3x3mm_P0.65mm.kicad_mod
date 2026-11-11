@@ -5302,7 +5302,7 @@
 		(uuid "5354aa83-5fc4-40d0-be09-c2f90349fa45")
 	)
 	(embedded_fonts no)
-	(model ""
+	(model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/TSSOP-8_3x3mm_P0.65mm.step"
 		(offset
 			(xyz 0 0 0.59)
 		)

@@ -25,7 +25,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SOIC_Kampi:SOIC-W-FP-28"
+		(property "Footprint" "PERSONAL_Package_SOIC:SOIC-W-FP-28"
 			(at -33.02 20.32 0)
 			(effects
 				(font
@@ -617,7 +617,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Texas Instruments:LFCSP-10"
+		(property "Footprint" "PERSONAL_Texas Instruments:LFCSP-10"
 			(at 36.83 -94.92 0)
 			(effects
 				(font
@@ -1087,7 +1087,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AnalogDevices:MAX30101"
+		(property "Footprint" "PERSONAL_Analog Devices:MAX30101"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2301,7 +2301,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Analog Devices:MAX32664GTG"
+		(property "Footprint" "PERSONAL_Analog Devices:MAX32664GTG"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2688,7 +2688,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_BGA_Kampi:WLP-16_1.6x1.6mm_P0.35mm"
+		(property "Footprint" "PERSONAL_Package_BGA:WLP-16_1.6x1.6mm_P0.35mm"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3041,7 +3041,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_BGA_Kampi:THIN-WLP-20_2.228x1.967mm_P0.4mm"
+		(property "Footprint" "PERSONAL_Package_BGA:THIN-WLP-20_2.228x1.967mm_P0.4mm"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3477,7 +3477,7 @@
 				)
 			)
 		)
-		(property "Footprint" "AnalogDevices:MAX8616"
+		(property "Footprint" ""
 			(at 0 0 0)
 			(effects
 				(font

@@ -24450,7 +24450,7 @@
 		(uuid "577f4b06-84d0-4d6f-ae01-69dc477c9e0f")
 	)
 	(embedded_fonts no)
-	(model ""
+	(model "${KICAD10_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-144_20x20mm_P0.5mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

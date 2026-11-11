@@ -6,7 +6,7 @@
     (property "Value" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "uBlox:NORA-B106" (at 0 0 0)
+    (property "Footprint" "PERSONAL_uBlox:NORA-B106" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 0 0 0)

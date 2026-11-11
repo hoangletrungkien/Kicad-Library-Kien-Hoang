@@ -33,7 +33,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FT2232D']"
+		(property "Footprint" "Hardware Components Footprints:LQFP-48_7x7mm_P0.5mm_PadClearance0.2mm_Pad0.3x1.2mm"
 			(at 48.26 -11.684 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1047,7 +1047,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FT2232HL-REEL']"
+		(property "Footprint" "Hardware Components Footprints:LQFP-64_10x10mm_P0.5mm"
 			(at 48.26 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2357,7 +2357,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FT230X_QFN']"
+		(property "Footprint" "Hardware Components Footprints:QFN-16-1EP_4x4mm_P0.65mm"
 			(at 39.37 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2811,7 +2811,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FT230XS-R']"
+		(property "Footprint" "Hardware Components Footprints:SSOP-16_W3.90mm"
 			(at 38.1 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3247,7 +3247,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FT231XQ-R']"
+		(property "Footprint" "Hardware Components Footprints:QFN-20-1EP_4x4mm_P0.5mm_EP2.45x2.45mm"
 			(at 45.72 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3773,7 +3773,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FT231XS-R']"
+		(property "Footprint" "Hardware Components Footprints:SSOP-20_W3.9mm"
 			(at 45.72 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4280,7 +4280,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FT232H_QFN']"
+		(property "Footprint" "Hardware Components Footprints:QFN-48-1EP_8x8mm_P0.5mm_EP6.2x6.2mm"
 			(at 39.37 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5330,7 +5330,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FT232RNL']"
+		(property "Footprint" "Hardware Components Footprints:SSOP-28_W5.3mm"
 			(at 40.64 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5946,7 +5946,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FT232R_QFN']"
+		(property "Footprint" "Hardware Components Footprints:QFN-32-1EP_5x5mm"
 			(at 40.64 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6694,7 +6694,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FT234XD-R']"
+		(property "Footprint" "Hardware Components Footprints:DFN-12-1EP_3x3mm"
 			(at 35.56 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7075,7 +7075,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FT4222HQ-D-R']"
+		(property "Footprint" "Hardware Components Footprints:QFN-32-1EP_5x5mm"
 			(at 59.69 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7779,7 +7779,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FT4232H_VQFN']"
+		(property "Footprint" "Hardware Components Footprints:QFN-56-1EP_8x8mm_P0.5mm"
 			(at 55.88 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8957,7 +8957,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FT4232H_LQFP']"
+		(property "Footprint" "Hardware Components Footprints:LQFP-64_10x10mm_P0.5mm"
 			(at 40.64 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10267,7 +10267,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FT4232HP_QFN']"
+		(property "Footprint" "Hardware Components Footprints:QFN-68-1EP_8x8mm_P0.4mm"
 			(at 55.88 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11662,7 +11662,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FT4232H_QFN']"
+		(property "Footprint" "Hardware Components Footprints:QFN-64-1EP_9x9mm_P0.5mm"
 			(at 43.18 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12991,7 +12991,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FT4233HPQ']"
+		(property "Footprint" "Hardware Components Footprints:QFN-76-1EP_9x9mm_P0.4mm_EP6.3x6.3mm"
 			(at 45.72 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)

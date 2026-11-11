@@ -24,7 +24,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "JS1400"
+		(property "Footprint" "PERSONAL_E-Switch:JS1400BVQ"
 			(at 26.67 -87.3 0)
 			(effects
 				(font
@@ -411,7 +411,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "E-Switch:JS1400BVQ"
+		(property "Footprint" "PERSONAL_E-Switch:JS1400BVQ"
 			(at 0 0 0)
 			(effects
 				(font
@@ -749,7 +749,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "E-Switch:LP4"
+		(property "Footprint" "PERSONAL_E-Switch:LP4"
 			(at 0 0 0)
 			(effects
 				(font

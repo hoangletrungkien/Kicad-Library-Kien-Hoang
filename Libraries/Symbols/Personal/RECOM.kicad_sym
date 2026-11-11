@@ -33,7 +33,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "RAC05-05SK_277_W:CONV_RAC05-05SK_277_W"
+		(property "Footprint" "PERSONAL_Recom:RAC05"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -181,7 +181,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Recom:RAC10E"
+		(property "Footprint" "PERSONAL_Recom:RAC10E"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

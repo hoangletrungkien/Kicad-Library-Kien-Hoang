@@ -33,7 +33,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x5_P1.27mm_Drill0.65mm']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x5_P1.27mm_Drill0.65mm"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -480,7 +480,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x8_P2.54mm_Drill1.1mm']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x8_P2.54mm_Drill1.1mm"
 			(at 21.59 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1090,7 +1090,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinSocket_2x20_P2.54mm_Drill1.02mm']"
+		(property "Footprint" "Hardware Components Footprints:PinSocket_2x20_P2.54mm_Drill1.02mm"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1959,7 +1959,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MB10S']"
+		(property "Footprint" "Hardware Components Footprints:SOIC-4_W3.9mm"
 			(at 27.94 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2489,7 +2489,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_1x2_P1.27mm_Drill0.7mm']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_1x2_P1.27mm_Drill0.7mm"
 			(at 12.065 -8.255 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2704,7 +2704,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_1x4_P1.27mm_Drill0.7mm']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_1x4_P1.27mm_Drill0.7mm"
 			(at 20.32 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2972,7 +2972,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['R_80R6_0402_EIA']"
+		(property "Footprint" ""
 			(at 20.32 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3166,7 +3166,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['R_80R6_0402_EIA']"
+		(property "Footprint" "Hardware Components Footprints:R_0402_1005Metric_EIA"
 			(at 20.32 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3331,7 +3331,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PTC_20mA_0603']"
+		(property "Footprint" "Hardware Components Footprints:F_0603_1608Metric"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3527,7 +3527,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_1x12_P2.54m_Drill1.1mm']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_1x12_P2.54mm_Drill1.1mm"
 			(at 20.32 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4012,210 +4012,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "R_template_name_0402"
-		(pin_numbers
-			(hide yes)
-		)
-		(pin_names
-			(hide yes)
-		)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "R"
-			(at 20.32 -5.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "R_template_name_0402"
-			(at 20.32 -12.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Hardware Components Footprints:['R_1M8_5%_0402']"
-			(at 20.32 -15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" "template_datasheet"
-			(at 20.32 -17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "template_value resistor in 0402 package with template_tolerance tolerance"
-			(at 20.32 -30.48 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MPN" "template_MPN"
-			(at 20.32 -20.32 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Manufacturer" "template_manufacturer"
-			(at 20.32 -22.86 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 20.32 -25.4 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 20.32 -27.94 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Val" "template_value"
-			(at 20.32 -7.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Tolerance" "template_tolerance"
-			(at 20.32 -10.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(symbol "R_template_name_0402_0_1"
-			(rectangle
-				(start 0.635 0.889)
-				(end 4.445 -0.889)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-		)
-		(symbol "R_template_name_0402_1_1"
-			(pin passive line
-				(at 0 0 0)
-				(length 0.635)
-				(name ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 5.08 0 180)
-				(length 0.635)
-				(name ""
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
 	(symbol "R_1M8_5%_0402"
 		(extends "R_template_name_0402")
 		(property "Reference" "R"
@@ -4243,7 +4039,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['R_1M8_5%_0402']"
+		(property "Footprint" "Hardware Components Footprints:R_0402_1005Metric"
 			(at 20.32 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4407,7 +4203,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['R_0R_1206']"
+		(property "Footprint" ""
 			(at 20.32 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4601,7 +4397,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['R_0R_1206']"
+		(property "Footprint" "Hardware Components Footprints:R_1206_3216Metric"
 			(at 20.32 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4775,7 +4571,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['BarrelJack_Pin2mm_MJ-179PH']"
+		(property "Footprint" "Hardware Components Footprints:BarrelJack_Pin2mm_MJ-179PH"
 			(at 17.78 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)

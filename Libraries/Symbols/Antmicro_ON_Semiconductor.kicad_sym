@@ -38,7 +38,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['1N4148WS']"
+		(property "Footprint" ""
 			(at 20.32 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -230,7 +230,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['1N4148WS']"
+		(property "Footprint" "Hardware Components Footprints:D_SOD-323F"
 			(at 21.59 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -366,7 +366,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['2N7002_SOT-23-3']"
+		(property "Footprint" "Hardware Components Footprints:SOT-23-3"
 			(at 22.86 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -755,7 +755,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['74LCX07_QFN']"
+		(property "Footprint" "Hardware Components Footprints:QFN-14-1EP_2.5x3mm_EP1.15x1.65mm_ONSemi_MLP14A"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1427,7 +1427,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['BSS123']"
+		(property "Footprint" "Hardware Components Footprints:SOT-23-3"
 			(at 22.86 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1818,7 +1818,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['BSS138AKA']"
+		(property "Footprint" ""
 			(at 20.32 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2197,7 +2197,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['BSS138AKA']"
+		(property "Footprint" "Hardware Components Footprints:SOT-23-3"
 			(at 15.24 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2333,7 +2333,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['BSS84']"
+		(property "Footprint" "Hardware Components Footprints:SOT-23-3"
 			(at 16.51 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2727,7 +2727,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['ESD5B5_0ST1G']"
+		(property "Footprint" ""
 			(at 20.32 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2953,7 +2953,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['ESD5B5_0ST1G']"
+		(property "Footprint" "Hardware Components Footprints:SOD-523_NP"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3091,7 +3091,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['ESD9X5.0ST5G']"
+		(property "Footprint" ""
 			(at 20.32 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3307,7 +3307,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['ESD9X5.0ST5G']"
+		(property "Footprint" "Hardware Components Footprints:SOD-923"
 			(at 21.59 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3440,7 +3440,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FDC6330L']"
+		(property "Footprint" "Hardware Components Footprints:FDC6330L"
 			(at 35.56 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3695,7 +3695,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['LVDS_Receiver_1Bit_FIN1002M5X']"
+		(property "Footprint" "Hardware Components Footprints:SOT-23-5"
 			(at 35.56 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3966,7 +3966,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FIN1019MTC']"
+		(property "Footprint" "Hardware Components Footprints:TSSOP-14_4.4x5mm_P0.65mm"
 			(at 55.88 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4503,7 +4503,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FSUSB30MUX']"
+		(property "Footprint" "Hardware Components Footprints:MSOP-10_W3mm"
 			(at 35.56 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5090,7 +5090,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FSUSB43L10X']"
+		(property "Footprint" "Hardware Components Footprints:Onsemi_MicroPak-10_1.6x2.1mm"
 			(at 35.56 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5682,7 +5682,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MBR0520LT1G']"
+		(property "Footprint" ""
 			(at 20.32 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5896,7 +5896,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MBR0520LT1G']"
+		(property "Footprint" "Hardware Components Footprints:D_SOD-123"
 			(at 15.24 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6028,7 +6028,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MM3Z3V0C']"
+		(property "Footprint" ""
 			(at 20.32 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6232,7 +6232,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MM3Z3V0C']"
+		(property "Footprint" "Hardware Components Footprints:D_SOD-323F"
 			(at 15.24 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6334,219 +6334,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol ".D_zener_template"
-		(pin_numbers
-			(hide yes)
-		)
-		(pin_names
-			(hide yes)
-		)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "D"
-			(at 20.32 -2.54 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" ".D_zener_template"
-			(at 20.32 -5.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Hardware Components Footprints:['MM3Z3V3C']"
-			(at 20.32 -7.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 20.32 -10.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "Zener diode template"
-			(at 20.32 -17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 20.32 -12.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 20.32 -15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "ki_keywords" "DIODE, SEMICONDUCTOR, ZENER"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(symbol ".D_zener_template_0_1"
-			(polyline
-				(pts
-					(xy 1.905 0) (xy 0.635 0)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 4.445 0) (xy 3.175 0)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-		)
-		(symbol ".D_zener_template_1_1"
-			(polyline
-				(pts
-					(xy 1.778 -1.016) (xy 1.778 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.159 1.016) (xy 1.778 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.302 -1.016) (xy 3.302 1.016) (xy 1.778 0) (xy 3.302 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(pin passive line
-				(at 0 0 0)
-				(length 0.635)
-				(name "C"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 5.08 0 180)
-				(length 0.635)
-				(name "A"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
 	(symbol "MM3Z3V3C"
 		(extends ".D_zener_template")
 		(property "Reference" "D"
@@ -6574,7 +6361,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MM3Z3V3C']"
+		(property "Footprint" "Hardware Components Footprints:D_SOD-323F"
 			(at 22.86 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6707,7 +6494,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NB3L202KMN']"
+		(property "Footprint" "Hardware Components Footprints:VQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm"
 			(at 55.88 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7173,7 +6960,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NC7SZ126P5X']"
+		(property "Footprint" "Hardware Components Footprints:SC-70-5"
 			(at 31.75 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7459,7 +7246,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NC7WZ07_SC']"
+		(property "Footprint" "Hardware Components Footprints:SOT-363"
 			(at 26.67 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7833,7 +7620,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NCP1117ST25T3G']"
+		(property "Footprint" "Hardware Components Footprints:SOT-223"
 			(at 30.48 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8053,7 +7840,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NCP133AMXADJTCG']"
+		(property "Footprint" "Hardware Components Footprints:XDFN-6_1.2x1.2mm_P0.4mm"
 			(at 30.48 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8324,7 +8111,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NCP1599MNTWG']"
+		(property "Footprint" "Hardware Components Footprints:DFN-6-1EP_3x3mm_P1mm_EP1.5x2.4mm"
 			(at 31.75 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8590,7 +8377,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NCP163ASN330T1G']"
+		(property "Footprint" "Hardware Components Footprints:SOT-23-5"
 			(at 35.56 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8827,7 +8614,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NCP177AMX330TCG']"
+		(property "Footprint" "Hardware Components Footprints:XDFN4"
 			(at 27.94 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9063,7 +8850,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NCP380LSNAJAAT1G']"
+		(property "Footprint" "Hardware Components Footprints:SOT-23-6"
 			(at 35.56 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9317,7 +9104,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NCP451AFCT2G']"
+		(property "Footprint" "Hardware Components Footprints:Onsemi_WLCSP6_1.40x0.90"
 			(at 30.48 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9573,7 +9360,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NCP4683DSQ33T1G']"
+		(property "Footprint" "Hardware Components Footprints:SC-70-5"
 			(at 30.48 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9810,7 +9597,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NCP51400MNTXG']"
+		(property "Footprint" "Hardware Components Footprints:DFN-10-1EP_3x3mm"
 			(at 38.1 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10165,7 +9952,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NCP718ASN500_SOT']"
+		(property "Footprint" "Hardware Components Footprints:SOT-23-5"
 			(at 30.48 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10402,7 +10189,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NCP718BSN330T1G']"
+		(property "Footprint" "Hardware Components Footprints:SOT-23-5"
 			(at 35.56 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10639,7 +10426,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NCP730BMT330_WSON']"
+		(property "Footprint" "Hardware Components Footprints:WSON-6-1EP_2x2mm_P0.65mm"
 			(at 30.48 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10911,7 +10698,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NCV8163ASN330T1G']"
+		(property "Footprint" "Hardware Components Footprints:SOT-23-5"
 			(at 35.56 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11145,7 +10932,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NTTFS5C658NLTAG']"
+		(property "Footprint" "Hardware Components Footprints:PowerDI3333-8"
 			(at 22.86 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11575,7 +11362,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NVMFS024N06CT1G']"
+		(property "Footprint" "Hardware Components Footprints:SO-8FL"
 			(at 22.86 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12005,7 +11792,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NVMFS6H858NLT1G']"
+		(property "Footprint" "Hardware Components Footprints:SO-8FL"
 			(at 22.86 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12432,7 +12219,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PCA9517A_TSSOP']"
+		(property "Footprint" "Hardware Components Footprints:TSSOP-8_3x3mm_P0.65mm"
 			(at 33.02 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12691,231 +12478,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol ".D_schottky_template"
-		(pin_numbers
-			(hide yes)
-		)
-		(pin_names
-			(hide yes)
-		)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "D"
-			(at 20.32 -2.54 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" ".D_schottky_template"
-			(at 20.32 -5.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Hardware Components Footprints:['RB521S30T1G']"
-			(at 20.32 -7.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 20.32 -10.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "Schottky diode template"
-			(at 20.32 -17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 20.32 -12.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 20.32 -15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "ki_keywords" "DIODE, SEMICONDUCTOR, SCHOTTKY"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(symbol ".D_schottky_template_0_1"
-			(polyline
-				(pts
-					(xy 1.905 0) (xy 0.635 0)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 4.445 0) (xy 3.175 0)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-		)
-		(symbol ".D_schottky_template_1_1"
-			(polyline
-				(pts
-					(xy 1.778 1.016) (xy 1.778 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 1.778 1.016) (xy 1.397 1.016) (xy 1.397 0.762)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 1.778 -1.016) (xy 2.159 -1.016) (xy 2.159 -0.762)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.302 1.016) (xy 3.302 -1.016) (xy 1.778 0) (xy 3.302 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(pin passive line
-				(at 0 0 0)
-				(length 0.635)
-				(name "C"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 5.08 0 180)
-				(length 0.635)
-				(name "A"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
 	(symbol "RB521S30T1G"
 		(extends ".D_schottky_template")
 		(property "Reference" "D"
@@ -12943,7 +12505,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['RB521S30T1G']"
+		(property "Footprint" "Hardware Components Footprints:SOD-523"
 			(at 22.86 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13076,7 +12638,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['BC807-25W']"
+		(property "Footprint" "Hardware Components Footprints:SOT-323"
 			(at 17.018 -2.286 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -36,7 +36,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Samtec_ADM6_4x10_ADM6-10-01.5-L-4-0-A-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Samtec_ADM6_4x10_ADM6-10-01.5-L-4-0-A-TR"
 			(at 36.83 -7.366 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1402,7 +1402,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Samtec_ADM6_4x60_ADM6-60-01.5-L-4-0-A-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Samtec_ADM6_4x60_ADM6-60-01.5-L-4-0-A-TR"
 			(at 36.83 -7.366 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8565,7 +8565,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Samtec_ADM6_4x60_ADM6-60-01.5-L-4-2-A-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Samtec_ADM6_4x60_ADM6-60-01.5-L-4-2-A-TR"
 			(at 36.83 -7.366 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15728,7 +15728,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Samtec_ARF6-16-S-D-A-K-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Samtec_ARF6-16-S-D-A-K-TR"
 			(at 43.18 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16792,7 +16792,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['ASP-134486-01']"
+		(property "Footprint" "Hardware Components Footprints:FMC_SAMTEC_ASP-134486-01"
 			(at 45.72 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24200,7 +24200,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['ASP-134488-01']"
+		(property "Footprint" "Hardware Components Footprints:ASP-134488-01"
 			(at 36.83 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31608,7 +31608,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_ASP_10x40_ASP-134602-01']"
+		(property "Footprint" "Hardware Components Footprints:Conn_FMC_Samtec_ASP_134602-01"
 			(at 36.83 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39016,7 +39016,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['ASP-134603-01_mounting_holes']"
+		(property "Footprint" "Hardware Components Footprints:ASP-134603-01_mounting_holes"
 			(at 41.91 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42065,7 +42065,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['ASP-184329-01']"
+		(property "Footprint" "Hardware Components Footprints:ASP-184329-01"
 			(at 58.42 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -52379,7 +52379,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['ASP-184330-01']"
+		(property "Footprint" "Hardware Components Footprints:ASP-184330-01"
 			(at 36.83 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62693,7 +62693,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['ASP-208571-01_mounting_holes']"
+		(property "Footprint" "Hardware Components Footprints:ASP-208571-01_mounting_holes"
 			(at 36.83 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -73007,7 +73007,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['ASP-218650-01_mounting_holes']"
+		(property "Footprint" "Hardware Components Footprints:ASP-218650-01_mounting_holes"
 			(at 36.83 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -83324,7 +83324,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Samtec_EHF_2x13_EHF-113-01-L-D']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Samtec_EHF_2x13_EHF-113-01-L-D"
 			(at 22.86 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -83941,7 +83941,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Samtec_EHF_2x20_EHF-120-01-L-D-SM']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Samtec_EHF_2x20_EHF-120-01-L-D-SM"
 			(at 22.86 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -84807,7 +84807,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_ERF5_2x20_ERF5-020-05.0-L-DV-K-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Samtec_ERF5_2x20_ERF5-020-05.0-L-DV-K-TR"
 			(at 26.67 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -85696,7 +85696,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_ERF8_2x5_ERF8-005-05.0-L-DV-K-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Samtec_ERF8_2x5_ERF8-005-05.0-L-DV-K-TR"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -86049,7 +86049,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_ERF8_2x20_ERF8-020-05.0-L-DV-K-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Samtec_ERF8_2x20_ERF8-020-05.0-L-DV-K-TR"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -86948,7 +86948,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_ERF8_2x25_ERF8-025-05.0-L-DV-L-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Samtec_ERF8_2x25_ERF8-025-05.0-L-DV-L-TR"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -88024,7 +88024,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_ERF8_2x40_ERF8-040-01-L-D-RA-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Samtec_ERF8_2x40_ERF8-040-01-L-D-RA-TR"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -89652,7 +89652,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_ERF8_2x40_ERF8-040-05.0-L-DV-K-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Samtec_ERF8_2x40_ERF8-040-05.0-L-DV-K-TR"
 			(at 30.48 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -91261,7 +91261,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_ERF8_2x40_ERF8-040-07.0-L-DV-K-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Samtec_ERF8_2x40_ERF8-040-07.0-L-DV-K-TR"
 			(at 30.48 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -92870,7 +92870,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_ERF8_2x40_ERF8-040-09.0-L-DV-K-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Samtec_ERF8_2x40_ERF8-040-09.0-L-DV-K-TR"
 			(at 30.48 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -94479,7 +94479,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_ERF8_2x75_ERF8-075-01-L-D-RA-L-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Samtec_ERF8_2x75_ERF8-075-01-L-D-RA-L-TR"
 			(at 36.83 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -97355,7 +97355,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Samtec_ERM5_2x20_ERM5-020-05.0-L-DV-K-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Samtec_ERM5_2x20_ERM5-020-05.0-L-DV-K-TR"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -98244,7 +98244,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Samtec_ERM5_2x30_ERM5-030-02.0-L-DV-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Samtec_ERM5_2x30_ERM5-030-02.0-L-DV-TR"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -99494,7 +99494,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Samtec_ERM8_2x5_ERM8-005-02.0-L-DV-K-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Samtec_ERM8_2x5_ERM8-005-02.0-L-DV-K-TR"
 			(at 33.02 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -99843,7 +99843,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Samtec_ERM8_2x5_ERM8-005-05.0-L-DV-K-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Samtec_ERM8_2x5_ERM8-005-05.0-L-DV-K-TR"
 			(at 33.02 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -100192,7 +100192,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Samtec_ERM8_2x20_ERM8-020-01-L-D-EM2-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Samtec_ERM8_2x20_ERM8-020-01-L-D-EM2-TR"
 			(at 35.56 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -101088,7 +101088,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Samtec_ERM8_2x20_ERM8-020-05.0-L-DV-K-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Samtec_ERM8_2x20_ERM8-020-05.0-L-DV-K-TR"
 			(at 35.56 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -101966,7 +101966,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Samtec_ERM8_2x40_ERM8-040-02.0-L-DV-K-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Samtec_ERM8_2x40_ERM8-040-02.0-L-DV-K-TR"
 			(at 33.02 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -103575,7 +103575,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Samtec_ERM8_2x40_ERM8-040-05.0-L-DV-K-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Samtec_ERM8_2x40_ERM8-040-05.0-L-DV-K-TR"
 			(at 33.02 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -105184,7 +105184,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Samtec_ERM8_2x40_ERM8-040-08.0-L-DV-K-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Samtec_ERM8_2x40_ERM8-040-08.0-L-DV-K-TR"
 			(at 33.02 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -106793,7 +106793,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Samtec_ERM8_2x40_ERM8-040-09.0-L-DV-K-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Samtec_ERM8_2x40_ERM8-040-09.0-L-DV-K-TR"
 			(at 33.02 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -108402,7 +108402,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Samtec_ERM8_2x75_ERM8-075-05.0-L-DV-K-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Samtec_ERM8_2x75_ERM8-075-05.0-L-DV-K-TR"
 			(at 33.02 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -111271,7 +111271,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinSocket_2x26_P2.54mm_Drill1.1mm_H13.59mm_L9.65mm_Stackthrough']"
+		(property "Footprint" "Hardware Components Footprints:PinSocket_2x26_P2.54mm_Drill1.1mm_Stackthrough"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -113025,7 +113025,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinSocket_2x15_P1.27mm_SMD']"
+		(property "Footprint" "Hardware Components Footprints:PinSocket_2x15_P1.27mm_SMD"
 			(at 33.02 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -113711,7 +113711,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x4_P1.27mm_SMD_FTSH-104-01-L-DV']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x4_P1.27mm_SMD_FTSH-104-01-L-DV"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -114089,7 +114089,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x5_P1.27mm_SMD']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x5_P1.27mm_SMD"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -114525,7 +114525,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x5_P1.27mm_SMD_Latch']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x5_P1.27mm_SMD_Latch"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -114961,7 +114961,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x10_P1.27mm_SMD_Latch']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x10_P1.27mm_SMD_Latch"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -115687,7 +115687,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Guide_Samtec_GPPK-02-01']"
+		(property "Footprint" "Hardware Components Footprints:Guide_Samtec_GPPK-02-01"
 			(at 22.86 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -115863,7 +115863,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_HSEC6_2x42_HSEC6-042-01-S-DV-WT-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Samtec_HSEC6_2x42_HSEC6-042-01-S-DV-WT-TR"
 			(at 62.23 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -117598,7 +117598,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_HSEC8_2x20_HSEC8-120-01-S-D-EM2']"
+		(property "Footprint" "Hardware Components Footprints:Socket_Samtec_HSEC8_2x20_HSEC8-120-01-S-D-EM2"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -118473,7 +118473,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_HSEC8_2x20_HSEC8-120-01-S-DV-A']"
+		(property "Footprint" "Hardware Components Footprints:Socket_Samtec_HSEC8_2x20-HSEC8-120-01-S-DV-A"
 			(at 35.56 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -119351,7 +119351,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x5_P2.54mm_SMD_Shrouded']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x5_P2.54mm_SMD_Shrouded"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -119787,7 +119787,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x6_P2.54mm_SMD_HTST-106-01-L-DV']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x6_P2.54mm_SMD_HTST-106-01-L-DV"
 			(at 25.4 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -120281,7 +120281,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x7_P2.54mm_SMD_HTST-107-01-L-DV']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x7_P2.54mm_SMD_HTST-107-01-L-DV"
 			(at 25.4 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -120833,7 +120833,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x10_P2.54mm_SMD_HTST-110-01-L-DV']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x10_P2.54mm_SMD_HTST-110-01-L-DV"
 			(at 25.4 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -121559,7 +121559,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x5_P2.54mm_Drill1.1mm']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x5_P2.54mm_Drill1.1mm"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -121994,7 +121994,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Spacer_Drill4.45mm_H5.15mm_JSOM-0515-01']"
+		(property "Footprint" ""
 			(at 22.86 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -122139,7 +122139,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Spacer_Drill4.45mm_H5.15mm_JSOM-0515-01']"
+		(property "Footprint" "Hardware Components Footprints:Spacer_Drill4.45mm_H5.15mm_JSOM-0515-01"
 			(at 22.86 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -122273,7 +122273,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Hermaphroditic_Samtec_LSHM_2x10_LSHM-110-02.5-L-DV-A-N-K']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Hermaphroditic_Samtec_LSHM_2x10_LSHM-110-02.5-L-DV-A-N-K"
 			(at 30.48 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -122802,7 +122802,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Hermaphroditic_Samtec_LSHM_2x10_LSHM-110-02.5-L-DV-A-S-K-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Hermaphroditic_Samtec_LSHM_2x10_LSHM-110-02.5-L-DV-A-S-K-TR"
 			(at 35.56 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -123349,7 +123349,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Hermaphroditic_Samtec_LSHM_2x30_LSHM-130-01-L-DH-A-S-K-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Hermaphroditic_Samtec_LSHM_2x30_LSHM-130-01-XXX-DH-A-S-XX"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -124616,7 +124616,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Hermaphroditic_Samtec_LSHM_2x30_LSHM-130-01-L-RH-A-S-K-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Hermaphroditic_Samtec_LSHM_2x30_LSHM-130-01-XXX-RH-A-S-K-XX"
 			(at 35.56 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -125883,7 +125883,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Hermaphroditic_Samtec_LSHM_2x40_LSHM-140-01-L-DH-A-S-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Hermaphroditic_Samtec_LSHM_2x40_LSHM-140-01-L-DH-A-S-TR"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -127510,7 +127510,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Hermaphroditic_Samtec_LSS_2x30_LSS-130-03-L-DV-A-K-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Hermaphroditic_Samtec_LSS_2x30_LSS-130-03-L-DV-A-K-TR"
 			(at 34.29 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -128751,7 +128751,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Conn_MMCX-J-P-H-ST-MT1']"
+		(property "Footprint" "Hardware Components Footprints:Conn_MMCX-J-P-H-ST-MT1"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -128981,7 +128981,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x7_P2mm_Drill0.9mm_MTMM-107-05-L-D-195-014']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x7_P2mm_Drill0.9mm_MTMM-107-05-L-D-195-014"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -129505,7 +129505,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_PCIE_PCIe-x4_PCIE-064-02-X-D-EMSX']"
+		(property "Footprint" "Hardware Components Footprints:Socket_Samtec_PCIE_PCIe-x4_PCIE-064-02-X-D-EMSX"
 			(at 48.26 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -130805,7 +130805,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PCIe_x16_164-02-X-D-TH']"
+		(property "Footprint" "Hardware Components Footprints:SAMTEC_PCIE-164-02-X-D-TH"
 			(at 36.83 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -133956,7 +133956,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_PCIe_x16_PCIE-164-02-F-D-TH-TR']"
+		(property "Footprint" "Hardware Components Footprints:PCIe_x16_SAMTEC_PCIE-164-02-F-D-TH-TR"
 			(at 35.56 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -137067,7 +137067,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_QSE_2x40_QSE-040-01-X-D-A']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Samtec_QSE_2x40_QSE-040-01-X-D-A"
 			(at 45.72 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -138705,7 +138705,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_QSH_2x20_QSH-020-01-X-D-DP-A']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Samtec_QSH_2x20_QSH-020-01-X-D-DP-A"
 			(at 30.48 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -139677,7 +139677,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_QSH_2x30_QSH-030-01-L-D-A']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Samtec_QSH_2x30_QSH-030-01-L-D-A"
 			(at 30.48 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -140955,7 +140955,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_QSH_2x60_QSH-060-01-L-D-A']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Samtec_QSH_2x60_QSH-060-01-X-D-A"
 			(at 30.48 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -143313,7 +143313,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_QSH_2x90_QSH-090-01-L-D-A']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Samtec_QSH_2x90_QSH-090-01-L-D-A"
 			(at 27.94 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -146787,7 +146787,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_QTE_2x60_QTE-060-05-L-D-A']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Samtec_QTE_2x60_QTE-060-05-L-D-A"
 			(at 45.72 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -149145,7 +149145,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Samtec_QTH_2x30_QTH-030-01-X-D-A']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Samtec_QTH_2x30_QTH-030-01-X-D-A"
 			(at 27.94 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -150423,7 +150423,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Samtec_QTH_2x60_QTH-060-03-L-D-A']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Samtec_QTH_2x60_QTH-060-03-L-D-A"
 			(at 27.94 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -152781,7 +152781,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Samtec_QTH_2x90_QTH-090-01-L-D-A']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Samtec_QTH_2x90_QTH-090-01-L-D-A"
 			(at 29.21 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -156266,7 +156266,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Samtec_SEAM-50-02.0-L-08-2-A-K-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Samtec_SEAM-50-02.0-S-08-2-A-K-TR"
 			(at 19.05 -9.652 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -163710,7 +163710,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x5_P1.27mm_SMD_Shrouded']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x5_P1.27mm_SMD_Shrouded"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -164146,7 +164146,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x5_P2.54mm_SMD_SHF-105-01-L-D-SM-K-TR']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x5_P2.54mm_SMD_SHF-105-01-L-D-SM-K-TR"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -164582,7 +164582,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x7_P2.54mm_SMD_SHF-107-01-L-D-SM-TR']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x7_P2.54mm_SMD_SHF-107-01-L-D-SM-TR"
 			(at 25.4 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -165134,7 +165134,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x10_P2.54mm_SMD_SHF-110-01-L-D-SM-TR']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x10_P2.54mm_SMD_SHF-110-01-L-D-SM-TR"
 			(at 25.4 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -165860,7 +165860,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinSocket_2x13_P2.54mm_Drill1.02mm']"
+		(property "Footprint" "Hardware Components Footprints:PinSocket_2x13_P2.54mm_Drill1.02mm"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -166761,7 +166761,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinSocket_1x24_P2.54mm_Drill1.02mm']"
+		(property "Footprint" "Hardware Components Footprints:PinSocket_1x24_P2.54mm_Drill1.02mm"
 			(at 20.32 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -167604,7 +167604,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinSocket_2x20_P2.54mm_SMD_Horizontal']"
+		(property "Footprint" "Hardware Components Footprints:PinSocket_2x20_P2.54mm_SMD_Horizontal"
 			(at 27.94 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -168470,7 +168470,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinSocket_2x8_P2.54mm_SMD']"
+		(property "Footprint" "Hardware Components Footprints:PinSocket_2x8_P2.54mm_SMD"
 			(at 27.94 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -168904,7 +168904,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinSocket_2x10_P2.54mm_SMD']"
+		(property "Footprint" "Hardware Components Footprints:PinSocket_2x10_P2.54mm_SMD"
 			(at 27.94 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -169410,7 +169410,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinSocket_2x8_P2.54mm_Drill1.02mm']"
+		(property "Footprint" "Hardware Components Footprints:PinSocket_2x8_P2.54mm_Drill1.02mm"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -170020,7 +170020,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinSocket_2x13_P2.54mm_Drill1.02mm_Stacking']"
+		(property "Footprint" "Hardware Components Footprints:PinSocket_2x13_P2.54mm_Drill1.02mm_Stacking"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -170921,7 +170921,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinSocket_2x6_P2.54mm_Drill1.04mm_Horizontal']"
+		(property "Footprint" "Hardware Components Footprints:PinSocket_2x6_P2.54mm_Drill1.04mm_Horizontal"
 			(at 19.05 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -171415,7 +171415,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinSocket_2x12_P2.54mm_Drill1.04mm_Horizontal']"
+		(property "Footprint" "Hardware Components Footprints:PinSocket_2x12_P2.54mm_Drill1.04mm_Horizontal"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -172258,7 +172258,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_TFM_2x7_TFM-107-01-X-D-RE1-WT']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Samtec_TFM_2x7_TFM-107-01-X-D-RE1-WT"
 			(at 35.56 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -172688,7 +172688,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Samtec_TFM_2x15_TFM-115-02-L-D-A-K-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Samtec_TFM_2x15_TFM-115-02-L-D-A-K-TR"
 			(at 29.21 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -173397,7 +173397,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinSocket_2x10_P2mm_SMD']"
+		(property "Footprint" "Hardware Components Footprints:PinSocket_2x10_P2mm_SMD"
 			(at 27.94 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -173903,7 +173903,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinSocket_2x20_P2mm_SMD']"
+		(property "Footprint" "Hardware Components Footprints:PinSocket_2x20_P2mm_SMD"
 			(at 27.94 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -174769,7 +174769,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x10_P2.00mm_SMD_TMMH-110-01-S-DV']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x10_P2mm_SMD_TMMH-110-01-S-DV"
 			(at 25.4 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -175495,7 +175495,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_1x3_P2.54mm_SMD']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_1x3_P2.54mm_SMD"
 			(at 20.32 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -175728,7 +175728,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x5_P2.54mm_SMD']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x5_P2.54mm_SMD"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -176164,7 +176164,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x6_P2.54mm_SMD']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x6_P2.54mm_SMD"
 			(at 25.4 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -176658,7 +176658,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_1x6_P2.54mm_SMD_Horizontal']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_1x6_P2.54mm_SMD_Horizontal"
 			(at 19.05 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -176978,7 +176978,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x10_P2.54mm_SMD_TSM-110-01-L-DV-TR']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x10_P2.54mm_SMD_TSM-110-01-L-DV-TR"
 			(at 25.4 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -177704,7 +177704,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x4_P2.54mm_Drill1.02mm']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x4_P2.54mm_Drill1.02mm"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -178082,7 +178082,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x6_P2.54mm_Drill1.1mm_Horizontal_TSW-106-08-G-D-RA']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x6_P2.54mm_Drill1.1mm_Horizontal"
 			(at 24.13 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -178573,7 +178573,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x6_P2.54mm_Drill1.1mm_Horizontal_TSW-106-08-G-D-RA']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x6_P2.54mm_Drill1.1mm_Horizontal_ALT"
 			(at 24.13 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -178707,7 +178707,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x7_P2.54mm_Drill1.02mm_TSW-107-07-L-D-014']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x7_P2.54mm_Drill1.02mm_TSW-107-07-L-D-014"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -179242,7 +179242,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x8_P2.54mm_Drill1mm_Samtec']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x8_P2.54mm_Drill1mm"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -179852,7 +179852,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x10_P2.54mm_Drill1mm']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x10_P2.54mm_Drill1mm"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -180578,7 +180578,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x13_P2.54mm_Drill1mm']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x13_P2.54mm_Drill1mm"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -181478,7 +181478,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_UMPS_1x6_UMPS-06-03.5-S-V-S-W-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Samtec_UMPS_1x6_UMPS-06-03.5-S-V-S-W-TR"
 			(at 22.86 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -181769,7 +181769,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Samtec_UMPS_1x6_UMPS-06-07.5-L-V-S-W-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Samtec_UMPS_1x6_UMPS-06-07.5-L-V-S-W-TR"
 			(at 22.86 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -182060,7 +182060,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Samtec_UMPT_1x6_UMPT-06-02.5-L-V-S-W-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Samtec_UMPT_1x6_UMPT-06-02.5-L-V-S-W-TR"
 			(at 22.86 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -182351,7 +182351,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Samtec_UMPT_1x6_UMPT-06-06.5-G-V-S-W-TR']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Samtec_UMPT_1x6_UMPT-06-06.5-G-V-S-W-TR"
 			(at 22.86 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -182642,7 +182642,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['USB-A_Samtec_USB-A-S-F-B-VT_Vertical']"
+		(property "Footprint" "Hardware Components Footprints:USB-A_Receptacle_Samtec_USB-A-S-F-B-VT"
 			(at 27.94 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -182981,7 +182981,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Samtec_1x20_ZF5S-20-03-T-WT']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Samtec_1x20_ZF5S-20-03-T-WT"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -183505,7 +183505,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x26_P2.54mm_Drill1.1mm_H10.16mm']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x26_P2.54mm_Drill1.1mm_H10.16mm"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)

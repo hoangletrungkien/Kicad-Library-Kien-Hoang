@@ -1297,7 +1297,7 @@
 		(uuid "18762c0a-9b41-4169-aaf5-9e050fd81a0f")
 	)
 	(embedded_fonts no)
-	(model ""
+	(model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/TSOP-II-54_22.2x10.16mm_P0.8mm.step"
 		(offset
 			(xyz -0 -0 0)
 		)

@@ -3777,7 +3777,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model ""
+	(model "${KICAD10_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

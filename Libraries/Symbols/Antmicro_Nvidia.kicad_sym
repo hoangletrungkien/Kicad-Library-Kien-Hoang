@@ -31,7 +31,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Jetson-TX1']"
+		(property "Footprint" "Hardware Components Footprints:Module_Jetson-TX1"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -185,7 +185,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Jetson-Orin-AGX']"
+		(property "Footprint" "Hardware Components Footprints:Module_Jetson-Orin-AGX"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -345,7 +345,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Jetson-Orin-NX-16GB']"
+		(property "Footprint" "Hardware Components Footprints:Module_Jetson-Orin-NX-16GB"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -505,7 +505,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Jetson-Orin-NX-8GB']"
+		(property "Footprint" "Hardware Components Footprints:Module_Jetson-Orin-NX-8GB"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -665,7 +665,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Jetson-Orin-Nano-4GB']"
+		(property "Footprint" "Hardware Components Footprints:Module_Jetson-Orin-Nano-4GB"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -825,7 +825,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Jetson-Orin-Nano-8GB']"
+		(property "Footprint" "Hardware Components Footprints:Module_Jetson-Orin-Nano-8GB"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -985,7 +985,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Jetson-Thor-AGX-T5000']"
+		(property "Footprint" "Hardware Components Footprints:Module_Jetson-Thor-AGX-T5000"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1142,7 +1142,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Nvidia_Tesla_T4']"
+		(property "Footprint" "Hardware Components Footprints:Nvidia_Tesla_T4"
 			(at 22.86 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1297,7 +1297,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Jetson-TX2']"
+		(property "Footprint" "Hardware Components Footprints:Module_Jetson-TX2"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1451,7 +1451,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Jetson-Xavier-NX']"
+		(property "Footprint" "Hardware Components Footprints:Module_Jetson-Xavier-NX"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1611,7 +1611,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Jetson-Nano']"
+		(property "Footprint" "Hardware Components Footprints:Module_Jetson-Nano"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1768,7 +1768,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['CD575M-A1']"
+		(property "Footprint" "Hardware Components Footprints:BGA-916-813_23x23mm_Layout31x31_P0.7mm_CD575M-A1"
 			(at 71.12 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17760,7 +17760,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['T20-H-A2']"
+		(property "Footprint" "Hardware Components Footprints:BGA-784-664_23x23mm_Layout28x28_P0.8mm"
 			(at 10.414 -10.414 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17918,7 +17918,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['TA1090SA-A1']"
+		(property "Footprint" "Hardware Components Footprints:BGA-3844_45x45mm_Layout62x62_P0.7mm"
 			(at 10.414 -10.414 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18076,7 +18076,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['TE770D-A2']"
+		(property "Footprint" "Hardware Components Footprints:BGA-1849_18x18mm_Layout43x43_P0.4mm"
 			(at 10.414 -10.414 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18234,7 +18234,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['TE860M-A2']"
+		(property "Footprint" "Hardware Components Footprints:BGA-2704_37.5x37.5mm_Layout52x52_P0.7mm"
 			(at 10.414 -10.414 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18392,7 +18392,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['TE960M-A1']"
+		(property "Footprint" "Hardware Components Footprints:BGA-2704_37.5x37.5mm_Layout52x52_P0.7mm"
 			(at 10.414 -10.414 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18539,7 +18539,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['TE970M-A1']"
+		(property "Footprint" "Hardware Components Footprints:BGA-2704_37.5x37.5mm_Layout52x52_P0.7mm"
 			(at 10.414 -10.414 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18686,7 +18686,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['TE980M-A1']"
+		(property "Footprint" "Hardware Components Footprints:BGA-2704_37.5x37.5mm_Layout52x52_P0.7mm"
 			(at 10.414 -10.414 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18833,7 +18833,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['TE990M-A1']"
+		(property "Footprint" "Hardware Components Footprints:BGA-2704_37.5x37.5mm_Layout52x52_P0.7mm"
 			(at 10.414 -10.414 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18980,7 +18980,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['TM660M-A2']"
+		(property "Footprint" "Hardware Components Footprints:BGA-1296_23x23mm_Layout36x36_P0.6mm"
 			(at 10.414 -10.414 0)
 			(show_name no)
 			(do_not_autoplace no)

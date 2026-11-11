@@ -33,7 +33,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Hirose_BM20_2x18_BM20B-34DP-0.4V']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Hirose_BM20_2x18_BM20B-34DP-04V"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -813,7 +813,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Hirose_DF13_1x10_DF13A-10P-1.25H']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Hirose_DF13_1x10_DF13A-10P-1.25H"
 			(at 22.86 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1292,7 +1292,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Hirose_DF13_1x12_DF13A-12P-1.25H']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Hirose_DF13_1x12_DF13A-12P-1.25H"
 			(at 22.86 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1818,7 +1818,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Hirose_DF13_1x2_DF13A-2P-1.25H']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Hirose_DF13_1x2_DF13A-2P-1.25H"
 			(at 22.86 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2054,7 +2054,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Hirose_DF13_1x12_DF13C-12P-1.25V']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Hirose_DF13_1x12_DF13A-12P-1.25H"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2577,7 +2577,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Hirose_DF13_2x20_DF13EA-40DP-1.25V']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Hirose_DF13_2x20_DF13EA-40DP-1.25V"
 			(at 29.21 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3901,7 +3901,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Hirose_DF33C_1x2_DF33C-2P-3.3DSA']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Hirose_DF33C_1x2_DF33C-2P-3.3DSA"
 			(at 20.32 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4105,7 +4105,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Hirose_DF40_2x50_DF40C-100DP-0.4V']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Hirose_DF40_2x50_DF40C-100DP-0.4V"
 			(at 36.83 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6092,7 +6092,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Hirose_DF40_2x15_DF40C-30DS-0.4V']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Hirose_DF40_2x15_DF40C-30DS-0.4V"
 			(at 25.654 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6793,7 +6793,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Hirose_DF40_2x25_DF40C-50DP-0.4V']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Hirose_DF40_2x25_DF40C-50DP-0.4V"
 			(at 35.56 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7868,7 +7868,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Hirose_DF40_2x25_DF40C-50DS-0.4V']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Hirose_DF40_2x25_DF40C-50DS-0.4V"
 			(at 35.56 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8937,7 +8937,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Hirose_DF40_2x30_DF40C-60DP-0.4V']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Hirose_DF40_2x30_DF40C-60DP-0.4V"
 			(at 35.56 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10192,7 +10192,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Hirose_DF40_2x30_DF40C-60DS-0.4V']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Hirose_DF40_2x30_DF40C-60DS-0.4V"
 			(at 33.02 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11441,7 +11441,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Hirose_DF40_2x40_DF40C-80DP-0.4V']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Hirose_DF40_2x40_DF40C-80DP-0.4V"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13069,7 +13069,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Hirose_DF40_2x50_DF40HC-3.0-100DS-0.4V']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Hirose_DF40_2x50_DF40HC-3.0-100DS-0.4V"
 			(at 35.56 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15038,7 +15038,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Hirose_DF40_2x25_DF40HC-3.0-50DS-0.4V']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Hirose_DF40_2x25_DF40HC-3.0-50DS-0.4V"
 			(at 35.56 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16107,7 +16107,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Hirose_DF40_2x30_DF40HC-3.0-60DS-0.4V']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Hirose_DF40_2x30_DF40HC-3.0-60DS-0.4V"
 			(at 35.56 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17356,7 +17356,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Hirose_DF40_2x40_DF40HC-3.0-80DS-0.4V']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Hirose_DF40_2x40_DF40HC-3.0-80DS-0.4V"
 			(at 33.02 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18970,7 +18970,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Hirose_DF61_1x2_DF61-2P-2.2V']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Hirose_DF61_1x2_DF61-2P-2.2V"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19203,7 +19203,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['DM3AT-SF-PEJM5']"
+		(property "Footprint" "Hardware Components Footprints:MicroSD_DM3AT-SF-PEJM5"
 			(at 57.15 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19649,7 +19649,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FFC_Hirose_1x22_FH12-22S-0.5SH']"
+		(property "Footprint" "Hardware Components Footprints:Conn_FFC_Hirose_1x22_FH12-22S-0.5SH"
 			(at 20.32 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20220,7 +20220,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Conn_FFC_Hirose_FH12-32S-05SVA']"
+		(property "Footprint" "Hardware Components Footprints:Conn_FFC_Hirose_FH12-32S-05SVA"
 			(at 19.05 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21312,7 +21312,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Conn_FFC_Hirose_FH26W-33S-0.3SHW']"
+		(property "Footprint" "Hardware Components Footprints:Conn_FFC_Hirose_FH26W-33S-0.3SHW"
 			(at 19.05 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22444,7 +22444,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FFC_Hirose_1x31_FH35C-31S-0.3SHW']"
+		(property "Footprint" "Hardware Components Footprints:Conn_FFC_Hirose_1x31_FH35C-31S-0.3SHW"
 			(at 19.05 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23518,7 +23518,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Hirose_FH52_1x4_FH52E-8SB-1SH']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Hirose_FH52_1x4_FH52E-8SB-1SH"
 			(at 15.24 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23820,7 +23820,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Hirose_FX10_2x84_FX10A-168S-SV']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Hirose_FX10_2x84_FX10A-168S-SV"
 			(at 35.56 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27031,7 +27031,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['U_FL-R-SMT-1']"
+		(property "Footprint" "Hardware Components Footprints:Coax_Conn_U.FL"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27285,7 +27285,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['U_FL-R-SMT_10_']"
+		(property "Footprint" "Hardware Components Footprints:Coax_Conn_U.FL"
 			(at 17.78 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -33,7 +33,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['N9120']"
+		(property "Footprint" "Hardware Components Footprints:N9120"
 			(at 11.43 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -179,7 +179,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['nPM6001']"
+		(property "Footprint" "Hardware Components Footprints:WLCSP-45_2.175x3.635mm_Layout5x9_P0.39x0.42mm"
 			(at 48.26 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1135,7 +1135,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NRF24L01P-R7']"
+		(property "Footprint" "Hardware Components Footprints:QFN-20-1EP_4x4mm_P0.5mm_EP2.45x2.45mm"
 			(at 38.1 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1664,7 +1664,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NRF24L01P-T']"
+		(property "Footprint" "Hardware Components Footprints:QFN-20-1EP_4x4mm_P0.5mm_EP2.45x2.45mm"
 			(at 38.1 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2193,7 +2193,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NRF51422-QFAC-R']"
+		(property "Footprint" "Hardware Components Footprints:QFN-48-1EP_6x6mm"
 			(at 48.26 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3225,7 +3225,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NRF51822-QFAA-R7']"
+		(property "Footprint" "Hardware Components Footprints:QFN-48-1EP_6x6mm"
 			(at 48.26 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4257,7 +4257,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NRF51822-QFAA-T']"
+		(property "Footprint" "Hardware Components Footprints:QFN-48-1EP_6x6mm"
 			(at 50.8 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5289,7 +5289,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NRF51822-QFAB-R7']"
+		(property "Footprint" "Hardware Components Footprints:QFN-48-1EP_6x6mm"
 			(at 50.8 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6321,7 +6321,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NRF51822-QFAC-R']"
+		(property "Footprint" "Hardware Components Footprints:QFN-48-1EP_6x6mm"
 			(at 50.8 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7353,7 +7353,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NRF51822-QFAC-R7']"
+		(property "Footprint" "Hardware Components Footprints:QFN-48-1EP_6x6mm"
 			(at 50.8 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8385,7 +8385,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NRF52832-QFAA-G-R7']"
+		(property "Footprint" "Hardware Components Footprints:QFN-48-1EP_6x6mm"
 			(at 53.34 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9437,7 +9437,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NRF52832-QFAA-R']"
+		(property "Footprint" "Hardware Components Footprints:QFN-48-1EP_6x6mm"
 			(at 53.34 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10469,7 +10469,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['nRF52833-QIAA-R']"
+		(property "Footprint" "Hardware Components Footprints:aQFN-73-1EP_7x7mm_P0.5mm"
 			(at 55.88 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11825,7 +11825,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NRF52840-QIAA-R']"
+		(property "Footprint" "Hardware Components Footprints:aQFN-73-1EP_7x7mm_P0.5mm"
 			(at 68.58 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13343,7 +13343,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NRF8001-R2Q32-T']"
+		(property "Footprint" "Hardware Components Footprints:QFN-32-1EP_5x5mm"
 			(at 45.72 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14092,7 +14092,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['NRF9161']"
+		(property "Footprint" "Hardware Components Footprints:LGA-127_16x10.5x1.04mm_nRF9161"
 			(at 48.26 -13.97 0)
 			(show_name no)
 			(do_not_autoplace no)

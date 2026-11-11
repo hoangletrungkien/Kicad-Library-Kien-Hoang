@@ -302,7 +302,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_QFN:XQFN-12-1.7x2mm_P0.4mm"
+		(property "Footprint" "PERSONAL_Package_QFN:XQFN-12-1.7x2mm_P0.4mm"
 			(at 0 0 0)
 			(effects
 				(font
@@ -824,7 +824,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SON_Kampi:XSON-8_0.65x0.17mm_P0.35mm"
+		(property "Footprint" "PERSONAL_Package_SON:XSON-8_0.65x0.17mm_P0.35mm"
 			(at 0 0 0)
 			(effects
 				(font

@@ -500,7 +500,7 @@
 		(uuid "d0c40112-4dd0-4aab-b0c9-ca71b0e437b8")
 	)
 	(embedded_fonts no)
-	(model ""
+	(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-323F.step"
 		(offset
 			(xyz 0 -0.001 0)
 		)

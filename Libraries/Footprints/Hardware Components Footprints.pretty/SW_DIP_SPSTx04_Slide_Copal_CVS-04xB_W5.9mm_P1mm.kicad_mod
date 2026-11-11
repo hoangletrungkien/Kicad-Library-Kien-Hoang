@@ -2246,7 +2246,7 @@
 		(uuid "a64de1d7-2299-422c-9d80-1f157c2424e9")
 	)
 	(embedded_fonts no)
-	(model ""
+	(model "${KICAD10_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_DIP_SPSTx04_Slide_Copal_CVS-04xB_W5.9mm_P1mm.step"
 		(offset
 			(xyz -0 -0 0)
 		)

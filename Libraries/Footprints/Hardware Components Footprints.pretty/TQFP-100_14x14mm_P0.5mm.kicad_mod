@@ -76192,7 +76192,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model ""
+	(model "${KICAD10_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-100_14x14mm_P0.5mm.step"
 		(offset
 			(xyz 0 0 0.53)
 		)

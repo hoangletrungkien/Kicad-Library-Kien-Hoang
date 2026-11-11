@@ -39,7 +39,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['1N5806U01A']"
+		(property "Footprint" "Hardware Components Footprints:D_LCC-2A"
 			(at 22.86 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -266,7 +266,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['1N5811U01B']"
+		(property "Footprint" "Hardware Components Footprints:D_LCC-2B"
 			(at 22.86 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -493,7 +493,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['1N5822U01B']"
+		(property "Footprint" "Hardware Components Footprints:D_LCC-2B"
 			(at 22.86 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -738,7 +738,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['EMIF06-MSD02N16']"
+		(property "Footprint" "Hardware Components Footprints:UFDFN-16_3.5x1.2mm"
 			(at 40.64 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1195,7 +1195,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['ESDA25P35-1U1M']"
+		(property "Footprint" ""
 			(at 20.32 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1411,7 +1411,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['ESDA25P35-1U1M']"
+		(property "Footprint" "Hardware Components Footprints:QFN-2L_1.6x1x0.55mm"
 			(at 24.13 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1544,7 +1544,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['IIS2MDCTR']"
+		(property "Footprint" "Hardware Components Footprints:LGA-12_2x2mm_P0.5mm"
 			(at 38.1 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1924,7 +1924,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['LD1117S18TR']"
+		(property "Footprint" "Hardware Components Footprints:SOT-223"
 			(at 30.48 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2144,7 +2144,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['LD1117S33TR']"
+		(property "Footprint" "Hardware Components Footprints:SOT-223"
 			(at 30.48 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2364,7 +2364,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['LD39100PUR']"
+		(property "Footprint" "Hardware Components Footprints:DFN-6-1EP_3x3mm_P1mm_EP1.5x2.4mm"
 			(at 30.48 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2637,7 +2637,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['LDK320AM50R']"
+		(property "Footprint" "Hardware Components Footprints:SOT-23-5L"
 			(at 30.48 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2874,7 +2874,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['LPS25HBTR']"
+		(property "Footprint" "Hardware Components Footprints:HLGA-10L_2.5x2.5mm_P0.6mm"
 			(at 38.1 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3204,7 +3204,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['LSM6DSO32TR']"
+		(property "Footprint" "Hardware Components Footprints:LGA-14L_3x2.5mm_P0.5mm"
 			(at 38.1 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3616,7 +3616,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['M24C64-F_DFN8']"
+		(property "Footprint" "Hardware Components Footprints:DFN-8-1EP_3x2mm_P0.5mm_EP1.36x1.46mm"
 			(at 38.1 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3936,7 +3936,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['M24M01-TSSOP8']"
+		(property "Footprint" "Hardware Components Footprints:TSSOP-8_3x4.4mm_P0.65mm"
 			(at 38.1 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4241,7 +4241,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Conn_STM_MSAK24025P30']"
+		(property "Footprint" "Hardware Components Footprints:Conn_STM_MSAK24025P30"
 			(at 20.32 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5268,7 +5268,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SPV1040TTR']"
+		(property "Footprint" "Hardware Components Footprints:TSSOP-8_3x4.4mm_P0.65mm"
 			(at 43.18 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5558,7 +5558,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['ST25R200']"
+		(property "Footprint" "Hardware Components Footprints:UFQFPN-24-1EP_4x4mm_P0.5mm_EP2.75x2.75mm"
 			(at 44.45 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6165,7 +6165,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32F030C8T6']"
+		(property "Footprint" "Hardware Components Footprints:LQFP-48_7x7mm_P0.5mm"
 			(at 53.34 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7180,7 +7180,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32F072CBU6']"
+		(property "Footprint" "Hardware Components Footprints:UFQFPN-48_7x7mm_P0.5mm"
 			(at 48.26 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8194,7 +8194,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32F103C8T6']"
+		(property "Footprint" "Hardware Components Footprints:LQFP-48_7x7mm_P0.5mm"
 			(at 50.8 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9311,7 +9311,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32F401RET6']"
+		(property "Footprint" "Hardware Components Footprints:LQFP-64_10x10mm_P0.5mm"
 			(at 60.96 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10616,7 +10616,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32F407VET6']"
+		(property "Footprint" "Hardware Components Footprints:LQFP-100_14x14mm_P0.5mm"
 			(at 54.61 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13265,7 +13265,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32F411CEU6']"
+		(property "Footprint" "Hardware Components Footprints:UFQFPN-48_7x7mm_P0.5mm"
 			(at 55.88 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14300,7 +14300,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32F412CGU6']"
+		(property "Footprint" "Hardware Components Footprints:UFQFPN-48_7x7mm_P0.5mm"
 			(at 55.88 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15335,7 +15335,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32F427VIT6']"
+		(property "Footprint" "Hardware Components Footprints:LQFP-100_14x14mm_P0.5mm"
 			(at 54.61 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17984,7 +17984,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32F446VET6']"
+		(property "Footprint" "Hardware Components Footprints:LQFP-100_14x14mm_P0.5mm"
 			(at 45.72 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19977,7 +19977,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32G071GBU6']"
+		(property "Footprint" "Hardware Components Footprints:UFQFPN-28_4x4mm_P0.5mm"
 			(at 58.42 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20627,7 +20627,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32G071GBU6N']"
+		(property "Footprint" "Hardware Components Footprints:UFQFPN-28_4x4mm_P0.5mm"
 			(at 58.42 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21277,7 +21277,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32G474CET6']"
+		(property "Footprint" "Hardware Components Footprints:LQFP-48_7x7mm_P0.5mm"
 			(at 58.42 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22291,7 +22291,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32G491REI6']"
+		(property "Footprint" "Hardware Components Footprints:BGA-64_5x5mm_Layout8x8_P0.5mm_Ball0.255mm"
 			(at 58.42 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23601,7 +23601,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32H743VIT6']"
+		(property "Footprint" "Hardware Components Footprints:LQFP-100_14x14mm_P0.5mm"
 			(at 20.32 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23748,7 +23748,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32H747XIH6']"
+		(property "Footprint" "Hardware Components Footprints:TFBGA-289-265_14x14mm_Layout17x17_P0.8mm"
 			(at 60.96 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28887,7 +28887,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32H753IIK6']"
+		(property "Footprint" "Hardware Components Footprints:UFBGA-225-201_10x10mm_Layout15x15_P0.65mm"
 			(at 43.18 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32776,7 +32776,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32H753IIT6']"
+		(property "Footprint" "Hardware Components Footprints:LQFP-176_24x24mm_P0.5mm"
 			(at 45.72 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -36232,7 +36232,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32H753XIH6']"
+		(property "Footprint" "Hardware Components Footprints:TFBGA-289-265_14x14mm_Layout17x17_P0.8mm"
 			(at 45.72 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41327,7 +41327,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32H753ZIT6']"
+		(property "Footprint" "Hardware Components Footprints:LQFP-144_20x20mm_P0.5mm"
 			(at 48.26 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44129,7 +44129,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32L011F4U3TR']"
+		(property "Footprint" "Hardware Components Footprints:UFQFPN-20_3x3mm_P0.5mm"
 			(at 58.42 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44635,7 +44635,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32L073V8T6']"
+		(property "Footprint" "Hardware Components Footprints:LQFP-100_14x14mm_P0.5mm"
 			(at 45.72 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46623,7 +46623,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32L100RBT6']"
+		(property "Footprint" "Hardware Components Footprints:LQFP-64_10x10mm_P0.5mm"
 			(at 53.34 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48123,7 +48123,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32L151CBT6A']"
+		(property "Footprint" "Hardware Components Footprints:LQFP-48_7x7mm_P0.5mm_PadClearance0.2mm_Pad0.3x1.2mm"
 			(at 53.34 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -49138,7 +49138,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32L552CCT6']"
+		(property "Footprint" "Hardware Components Footprints:LQFP-48_7x7mm_P0.5mm"
 			(at 53.34 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50475,7 +50475,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32L552CET6']"
+		(property "Footprint" "Hardware Components Footprints:LQFP-48_7x7mm_P0.5mm"
 			(at 53.34 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51813,7 +51813,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32L552ZET6']"
+		(property "Footprint" "Hardware Components Footprints:LQFP-144_20x20mm_P0.5mm"
 			(at 50.8 -7.366 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55302,7 +55302,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32L562CET6']"
+		(property "Footprint" "Hardware Components Footprints:LQFP-48_7x7mm_P0.5mm"
 			(at 53.34 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -56639,7 +56639,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32MP157A']"
+		(property "Footprint" "Hardware Components Footprints:TFBGA-529-361_12x12mm_Layout23x23_P0.5mm_P0.65mm"
 			(at 50.8 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62710,7 +62710,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM32MP157C']"
+		(property "Footprint" "Hardware Components Footprints:TFBGA-529-361_12x12mm_Layout23x23_P0.5mm_P0.65mm"
 			(at 50.8 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -68781,7 +68781,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM6322SWY6F']"
+		(property "Footprint" "Hardware Components Footprints:SOT-23-5"
 			(at 38.1 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -69028,7 +69028,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM6601DA2BDM6F']"
+		(property "Footprint" "Hardware Components Footprints:TDFN-12-2x3mm_P0.5mm"
 			(at 45.72 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -69391,7 +69391,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM6823SWY6F']"
+		(property "Footprint" "Hardware Components Footprints:SOT-23-5"
 			(at 38.1 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -69638,7 +69638,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STM6905TWEDS6F']"
+		(property "Footprint" "Hardware Components Footprints:MSOP-8_3x3x1.1mm_P0.65mm"
 			(at 38.1 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -69939,7 +69939,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STP08CP05_HTSSOP']"
+		(property "Footprint" "Hardware Components Footprints:HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3x3mm"
 			(at 35.56 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -70392,7 +70392,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STPMIC1APQR']"
+		(property "Footprint" ""
 			(at 58.42 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71497,7 +71497,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STPS80A45CHR']"
+		(property "Footprint" "Hardware Components Footprints:SMD-0.5"
 			(at 29.21 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71843,7 +71843,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STUSB4500_QFN']"
+		(property "Footprint" "Hardware Components Footprints:QFN-24-1EP_4x4mm_P0.5_EP2.1x2.1mm"
 			(at 45.72 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -72440,7 +72440,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['STUSB4710AQ1TR']"
+		(property "Footprint" "Hardware Components Footprints:QFN-16_3x3mm_P0.5mm"
 			(at 45.72 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -65,6 +65,20 @@ function Write-Err   { param([string]$m) Write-Host "  [FAIL] $m"   -ForegroundC
 # --------------------------------------------------------------------------- #
 # resolve roots
 # --------------------------------------------------------------------------- #
+function Get-DefaultKiCadConfig {
+    # Pick the newest KiCad configuration folder that exists, instead of
+    # assuming a fixed major version.
+    $base = Join-Path $env:APPDATA 'kicad'
+    $slots = @()
+    if (Test-Path -LiteralPath $base -PathType Container) {
+        $slots = @(Get-ChildItem -LiteralPath $base -Directory -ErrorAction SilentlyContinue |
+            Where-Object { $_.Name -match '^\d+\.\d+$' } |
+            Sort-Object { [version]$_.Name } -Descending)
+    }
+    if ($slots.Count -gt 0) { return (Join-Path $base $slots[0].Name) }
+    return (Join-Path $base '10.0')
+}
+
 if (-not $EcoRoot) {
     $EcoRoot = (Resolve-Path (Join-Path $PSScriptRoot '..\..')).Path
 }
@@ -72,9 +86,9 @@ if (-not (Test-Path $EcoRoot)) { Write-Err "ecosystem root not found: $EcoRoot";
 $EcoRoot = (Resolve-Path $EcoRoot).Path
 
 if (-not $KiCadConfig) {
-    $KiCadConfig = Join-Path $env:APPDATA 'kicad\10.0'
+    $KiCadConfig = Get-DefaultKiCadConfig
 }
-$tablesDir = Join-Path $EcoRoot '03_MASTER_LIBRARY\Tables'
+$tablesDir = Join-Path $EcoRoot 'Libraries\Tables'
 
 Write-Host "`nKiCad Ecosystem - library table installer" -ForegroundColor Cyan
 Write-Host ("=" * 62)
@@ -103,9 +117,14 @@ function Backup-File {
     param([string]$Path)
     if (-not (Test-Path $Path)) { return }
     $dest = "$Path.eco-backup-$stamp"
-    if (-not $DryRun) { Copy-Item -LiteralPath $Path -Destination $dest -Force }
+    if (-not $DryRun) {
+        Copy-Item -LiteralPath $Path -Destination $dest -Force
+        Write-Ok "backed up $(Split-Path $Path -Leaf) -> $(Split-Path $dest -Leaf)"
+    }
+    else {
+        Write-Step "would back up $(Split-Path $Path -Leaf) -> $(Split-Path $dest -Leaf)"
+    }
     $script:backups += $dest
-    Write-Ok "backed up $(Split-Path $Path -Leaf) -> $(Split-Path $dest -Leaf)"
 }
 
 Backup-File (Join-Path $KiCadConfig 'sym-lib-table')
@@ -158,7 +177,7 @@ if (Test-Path $commonPath) {
 # optional: KICAD_LIBRARY for the personal 3D models
 # --------------------------------------------------------------------------- #
 if ($RegisterPersonal3D -and (Test-Path $commonPath) -and $null -ne $json) {
-    $personal3d = (Join-Path $EcoRoot '03_MASTER_LIBRARY\Custom_3D_Models\Personal')
+    $personal3d = (Join-Path $EcoRoot 'Libraries\3D_Models\Personal')
     if (-not (Test-Path $personal3d)) {
         Write-Warn2 "personal 3D root not found, KICAD_LIBRARY not set: $personal3d"
     } else {
@@ -169,11 +188,12 @@ if ($RegisterPersonal3D -and (Test-Path $commonPath) -and $null -ne $json) {
         $normalize = { param($v) if ($null -eq $v) { '' } else { $v.ToString().Replace('/', '\').TrimEnd('\').ToLowerInvariant() } }
         if ((& $normalize $existingLib) -eq (& $normalize $personal3d)) {
             Write-Ok "KICAD_LIBRARY already correct: $personal3d"
-        } elseif ($existingLib) {
-            Write-Warn2 "KICAD_LIBRARY already set to '$existingLib' - NOT overwritten."
-            Write-Warn2 "Personal footprints use `${KICAD_LIBRARY}/3D/...; set it manually if that path is wrong."
         } else {
-            Write-Step "KICAD_LIBRARY will be set to: $personal3d"
+            if ($existingLib) {
+                Write-Warn2 "KICAD_LIBRARY changes: '$existingLib' -> '$personal3d'"
+            } else {
+                Write-Step "KICAD_LIBRARY will be set to: $personal3d"
+            }
             if (-not $DryRun) {
                 $json.environment.vars | Add-Member -NotePropertyName KICAD_LIBRARY -NotePropertyValue $personal3d -Force
                 $json | ConvertTo-Json -Depth 100 | Set-Content -LiteralPath $commonPath -Encoding UTF8

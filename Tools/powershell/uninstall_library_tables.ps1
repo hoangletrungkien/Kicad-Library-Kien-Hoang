@@ -39,7 +39,21 @@ function Write-Err   { param([string]$m) Write-Host "  [FAIL] $m" -ForegroundCol
 
 $VarName = 'KICAD_ECO_ROOT'
 
-if (-not $KiCadConfig) { $KiCadConfig = Join-Path $env:APPDATA 'kicad\10.0' }
+function Get-DefaultKiCadConfig {
+    # Pick the newest KiCad configuration folder that exists, instead of
+    # assuming a fixed major version.
+    $base = Join-Path $env:APPDATA 'kicad'
+    $slots = @()
+    if (Test-Path -LiteralPath $base -PathType Container) {
+        $slots = @(Get-ChildItem -LiteralPath $base -Directory -ErrorAction SilentlyContinue |
+            Where-Object { $_.Name -match '^\d+\.\d+$' } |
+            Sort-Object { [version]$_.Name } -Descending)
+    }
+    if ($slots.Count -gt 0) { return (Join-Path $base $slots[0].Name) }
+    return (Join-Path $base '10.0')
+}
+
+if (-not $KiCadConfig) { $KiCadConfig = Get-DefaultKiCadConfig }
 if (-not (Test-Path $KiCadConfig)) { Write-Err "KiCad config directory not found: $KiCadConfig"; exit 2 }
 
 Write-Host "`nKiCad Ecosystem - library table uninstaller" -ForegroundColor Cyan
@@ -108,7 +122,7 @@ if ($Timestamp) {
 
             # KICAD_LIBRARY is removed only when it points at this ecosystem's
             # personal 3D root; any other value belongs to the user.
-            $personal3d = Join-Path (Resolve-Path (Join-Path $PSScriptRoot '..\..')).Path '03_MASTER_LIBRARY\Custom_3D_Models\Personal'
+            $personal3d = Join-Path (Resolve-Path (Join-Path $PSScriptRoot '..\..')).Path 'Libraries\3D_Models\Personal'
             $hasLib = @($json.environment.vars.PSObject.Properties.Name) -contains 'KICAD_LIBRARY'
             if ($hasLib) {
                 $normalize = { param($v) if ($null -eq $v) { '' } else { $v.ToString().Replace('/', '\').TrimEnd('\').ToLowerInvariant() } }

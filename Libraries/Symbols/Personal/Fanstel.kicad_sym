@@ -28,7 +28,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fanstel:BC15C"
+		(property "Footprint" ""
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -762,7 +762,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Fanstel:BM15C"
+		(property "Footprint" "PERSONAL_Fanstel:BM15C"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -177,7 +177,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SOT_SMD:SOT-325-5"
+		(property "Footprint" "PERSONAL_Package_SOT_SMD:SOT-325-5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -921,7 +921,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DFN_Kampi:DFN5"
+		(property "Footprint" "PERSONAL_Package_DFN:DFN-5"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1075,7 +1075,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Packages:BumplessCSP-6"
+		(property "Footprint" "PERSONAL_Packages:BumplessCSP-6"
 			(at -2.54 -1.27 0)
 			(effects
 				(font
@@ -6409,7 +6409,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Packages:UDFN-6"
+		(property "Footprint" "PERSONAL_Packages:UDFN-6"
 			(at 0 0 0)
 			(effects
 				(font

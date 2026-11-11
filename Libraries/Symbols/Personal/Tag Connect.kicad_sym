@@ -6,7 +6,7 @@
     (property "Value" "ESP32" (at -5.08 -11.43 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Tag Connect:TC2030-MCP-NL" (at -1.27 0 0)
+    (property "Footprint" "PERSONAL_Tag Connect:TC2030-MCP-NL" (at -1.27 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/TC2030-MCP-NL_PCB_Footprint_5.pdf" (at 0 0 0)

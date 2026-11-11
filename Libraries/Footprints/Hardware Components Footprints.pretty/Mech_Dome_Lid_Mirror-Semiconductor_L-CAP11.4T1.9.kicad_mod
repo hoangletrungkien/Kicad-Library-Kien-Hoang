@@ -282,15 +282,5 @@
 		)
 	)
 	(embedded_fonts no)
-	(model ""
-		(offset
-			(xyz -5.7 -5.7 -0.02)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 0)
-		)
-	)
+
 )

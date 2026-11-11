@@ -629,7 +629,7 @@
 		(uuid "fbe7b34c-dd01-4a2b-a73b-c030989cf749")
 	)
 	(embedded_fonts no)
-	(model ""
+	(model "${KICAD10_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMB.step"
 		(offset
 			(xyz 0 0 0)
 		)

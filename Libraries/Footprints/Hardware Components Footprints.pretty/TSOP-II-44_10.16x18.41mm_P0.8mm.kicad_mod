@@ -8705,7 +8705,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model ""
+	(model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/TSOP-II-44_10.16x18.41mm_P0.8mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

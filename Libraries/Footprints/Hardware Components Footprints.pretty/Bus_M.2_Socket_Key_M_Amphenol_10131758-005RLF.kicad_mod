@@ -7117,15 +7117,5 @@
 		(uuid "65283612-dd4f-4150-a404-f59764fe9b6c")
 	)
 	(embedded_fonts no)
-	(model ""
-		(offset
-			(xyz -0.025 -1.55 0)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz -90 0 0)
-		)
-	)
+
 )

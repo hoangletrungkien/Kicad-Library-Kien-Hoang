@@ -156,7 +156,7 @@
 		(uuid "9a703759-747e-46b4-b3df-abe2b48cce23")
 	)
 	(embedded_fonts no)
-	(model "${KICAD_LIBRARY}/3D/Packages/SOT1089.stp"
+	(model "${KICAD_LIBRARY}/3D/Packages/SOT-1089.stp"
 		(offset
 			(xyz -1 0.65 0.75)
 		)

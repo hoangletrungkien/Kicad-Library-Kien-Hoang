@@ -1674,7 +1674,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Espressif:ESP32-C3-MINI-1"
+		(property "Footprint" "PERSONAL_Espressif:ESP32-C3-MINI-1"
 			(at 0 -31.75 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2428,7 +2428,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Espressif:ESP32-C3-WROOM-02"
+		(property "Footprint" "PERSONAL_Espressif:ESP32-C3-WROOM-02"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2868,7 +2868,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Espressif:ESP32-PICO-MINI-02"
+		(property "Footprint" "PERSONAL_Espressif:ESP32-PICO-MINI-02"
 			(at 0 -44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5679,7 +5679,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Espressif:ESP32-S2-MINI-1"
+		(property "Footprint" "PERSONAL_Espressif:ESP32-S2-MINI-1"
 			(at 0 -45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6598,7 +6598,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Espressif:ESP32-S2-SOLO"
+		(property "Footprint" "PERSONAL_Espressif:ESP32-S2-SOLO"
 			(at 0 -45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7424,7 +7424,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Espressif:ESP32-S2-WROOM"
+		(property "Footprint" "PERSONAL_Espressif:ESP32-S2-WROOM"
 			(at 0 -48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8277,7 +8277,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Espressif:ESP32-S2-WROVER"
+		(property "Footprint" "PERSONAL_Espressif:ESP32-S2-WROVER"
 			(at 0 -48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10235,7 +10235,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Espressif:ESP32-S3-MINI-1"
+		(property "Footprint" "PERSONAL_Espressif:ESP32-S3-MINI-1"
 			(at 0 -38.1 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11142,7 +11142,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Espressif:ESP32-S3-WROOM-1"
+		(property "Footprint" "PERSONAL_Espressif:ESP32-S3-WROOM-1"
 			(at 1.27 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11959,7 +11959,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Espressif:ESP32-WROOM-32E"
+		(property "Footprint" "PERSONAL_Espressif:ESP32-WROOM-32E"
 			(at 0 -44.45 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12756,7 +12756,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Espressif:ESP32-WROVER-E"
+		(property "Footprint" "PERSONAL_Espressif:ESP32-WROVER-E"
 			(at 0 -44.45 0)
 			(show_name no)
 			(do_not_autoplace no)

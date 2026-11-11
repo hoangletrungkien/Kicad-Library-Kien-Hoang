@@ -33,7 +33,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['ICE40UP5K-SG48']"
+		(property "Footprint" "Hardware Components Footprints:QFN-48-1EP_7x7mm"
 			(at 63.5 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1200,7 +1200,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['LCMXO3D-9400HC-5BG400C']"
+		(property "Footprint" "Hardware Components Footprints:BGA-400-17x17x0.8mm_Layout20x20_P0.8mm"
 			(at 55.88 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8678,7 +8678,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['LCMXO3D-9400HC-6BG256I']"
+		(property "Footprint" "Hardware Components Footprints:BGA-256_14x14mm_Layout16x16_P0.8mm_Pad0.4mm"
 			(at 55.88 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12825,7 +12825,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['LCMXO3LF-1300C-5BG256C']"
+		(property "Footprint" "Hardware Components Footprints:FCCSP-256_14x14mm_Layout16x16_P0.8mm"
 			(at 47.752 -9.144 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17745,7 +17745,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['LCMXO3LF-2100C-5BG256C']"
+		(property "Footprint" "Hardware Components Footprints:FCCSP-256_14x14mm_Layout16x16_P0.8mm"
 			(at 47.752 -9.144 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22665,7 +22665,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['LFCPNX-100-8CBG256C']"
+		(property "Footprint" "Hardware Components Footprints:FCCSP-256_14x14mm_Layout16x16_P0.8mm"
 			(at 58.42 2.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27873,7 +27873,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['LFCPNX-100-9LFG672C']"
+		(property "Footprint" "Hardware Components Footprints:BGA-676-672_27x27mm_Layout26x26_P1mm"
 			(at 20.32 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28020,7 +28020,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['ECP5_LFE5UM5G-85']"
+		(property "Footprint" "Hardware Components Footprints:BGA-1024-756_27x27mm_Layout32x32_P0.8mm"
 			(at 77.47 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42262,7 +42262,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['LFMXO5-25-7BBG400C']"
+		(property "Footprint" "Hardware Components Footprints:BGA-400-17x17x0.8mm_Layout20x20_P0.8mm"
 			(at 66.04 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -49146,7 +49146,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['LFMXO5-55TD-8BBG256C']"
+		(property "Footprint" "Hardware Components Footprints:FCCSP-256_14x14mm_Layout16x16_P0.8mm"
 			(at 19.812 2.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54079,7 +54079,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['CrossLink_LIF-MD6000-6JMG80I']"
+		(property "Footprint" "Hardware Components Footprints:BGA-80_7x7mm_Layout10x10_P0.65mm"
 			(at 78.74 -13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55782,7 +55782,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['CrossLink_LIFCL-40-9BG256C']"
+		(property "Footprint" "Hardware Components Footprints:BGA-256_14x14mm_Layout16x16_P0.8mm"
 			(at 53.34 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -60858,7 +60858,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['CrossLink_LIFCL-40-9MG121I']"
+		(property "Footprint" "Hardware Components Footprints:BGA-121_6x6mm_Layout11x11_P0.5mm"
 			(at 81.28 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -63347,7 +63347,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SII9022A_QFN']"
+		(property "Footprint" "Hardware Components Footprints:QFN-72_10x10mm_P0.5mm"
 			(at 43.18 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)

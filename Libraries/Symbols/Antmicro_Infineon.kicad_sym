@@ -33,7 +33,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['BSC021N08NS5']"
+		(property "Footprint" "Hardware Components Footprints:PG-TSON-8-3_6x5mm_P1.27mm"
 			(at 22.86 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -426,7 +426,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['BSS84PH6327XTSA2']"
+		(property "Footprint" "Hardware Components Footprints:SOT-23-3"
 			(at 12.7 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -815,7 +815,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['CY15B108QN-40SXI']"
+		(property "Footprint" "Hardware Components Footprints:SOIC-8_5.3x5.3x2mm_P1.27mm"
 			(at 33.02 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1106,7 +1106,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['CY7C65219-40LQXIT']"
+		(property "Footprint" "Hardware Components Footprints:QFN-40-1EP_6x6mm_P0.5mm_EP4.6x4.6mm_H0.6mm"
 			(at 45.72 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2065,7 +2065,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['CYEL16B256']"
+		(property "Footprint" "Hardware Components Footprints:SOIC-16_W7.5mm"
 			(at 40.64 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2506,7 +2506,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['CYPD3177-24LQXQ']"
+		(property "Footprint" "Hardware Components Footprints:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm"
 			(at 48.26 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3104,7 +3104,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['CYPD5235-96BZXI']"
+		(property "Footprint" "Hardware Components Footprints:BGA-121-96_6x6mm_Layout11x11_P0.5mm_H1.0mm"
 			(at 71.12 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5068,7 +5068,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['CYRS17B512-133AZMB']"
+		(property "Footprint" "Hardware Components Footprints:TQFP-100_14x20mm_P0.65mm"
 			(at 40.64 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7107,7 +7107,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['DPS310']"
+		(property "Footprint" "Hardware Components Footprints:LGA-8_2x2.5mm"
 			(at 35.56 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7398,7 +7398,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FM25V02A_DFN']"
+		(property "Footprint" "Hardware Components Footprints:DFN-8-1EP_4x4.5mm_P0.95mm"
 			(at 35.56 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7709,7 +7709,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['IM69D130']"
+		(property "Footprint" "Hardware Components Footprints:IM69D130"
 			(at 30.48 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7939,7 +7939,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MK_IM73A135V01XTSA1']"
+		(property "Footprint" "Hardware Components Footprints:MK_IM73A135V01XTSA1"
 			(at 15.24 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8180,7 +8180,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['IRF9317PBF']"
+		(property "Footprint" "Hardware Components Footprints:SOIC-8_3.9x4.9x1.75mm_P1.27mm"
 			(at 17.78 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8690,7 +8690,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['IRHNPC9A7014']"
+		(property "Footprint" ""
 			(at 20.32 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9069,7 +9069,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['IRHNPC9A7014']"
+		(property "Footprint" "Hardware Components Footprints:SMD-0.1"
 			(at 22.86 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9204,7 +9204,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['IRLML2030TRPBF']"
+		(property "Footprint" ""
 			(at 20.32 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9583,7 +9583,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['IRLML2030TRPBF']"
+		(property "Footprint" "Hardware Components Footprints:SOT-23-3"
 			(at 24.13 -13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9714,7 +9714,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['IRLML2502TRPBF']"
+		(property "Footprint" ""
 			(at 22.86 -2.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10074,7 +10074,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['IRLML2502TRPBF']"
+		(property "Footprint" "Hardware Components Footprints:SOT-23-3"
 			(at 22.86 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10210,7 +10210,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['IRLML6344TRPBF']"
+		(property "Footprint" "Hardware Components Footprints:SOT-23-3"
 			(at 22.86 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10602,7 +10602,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['IRLTS2242TRPBF']"
+		(property "Footprint" "Hardware Components Footprints:SOT-23-6"
 			(at 22.86 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11074,7 +11074,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['RIC7S113E4']"
+		(property "Footprint" "Hardware Components Footprints:LCC-18_7.3x9mm_Layout4x5_P1.27mm"
 			(at 33.02 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11514,7 +11514,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['S25FL256SAG_SOIC']"
+		(property "Footprint" "Hardware Components Footprints:SOIC-16_W7.5mm"
 			(at 48.26 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11954,7 +11954,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['S28HS512TGABHM010']"
+		(property "Footprint" "Hardware Components Footprints:FBGA-25-24_6x8mm_Layout5x5_P1mm"
 			(at 45.72 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12533,7 +12533,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['S80KS5123GABHM020']"
+		(property "Footprint" "Hardware Components Footprints:FBGA-25-24_6x8mm_Layout5x5_P1mm"
 			(at 45.72 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13111,7 +13111,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SLB9645TT12']"
+		(property "Footprint" "Hardware Components Footprints:TSSOP-28_4.4x9.7mm_P0.65mm"
 			(at 34.29 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13780,7 +13780,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SLB9672XU20FW1624XTMA1']"
+		(property "Footprint" "Hardware Components Footprints:UQFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm"
 			(at 47.498 -5.842 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14229,7 +14229,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SLB9673AU20FW2610XTMA1']"
+		(property "Footprint" "Hardware Components Footprints:QFN-32-1EP_5x5mm"
 			(at 50.8 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14989,7 +14989,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SLB9673AU20FW2613XTMA1']"
+		(property "Footprint" "Hardware Components Footprints:QFN-32-1EP_5x5mm"
 			(at 50.8 -20.32 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15754,7 +15754,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SMF4L15CA']"
+		(property "Footprint" ""
 			(at 20.32 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15980,7 +15980,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SMF4L15CA']"
+		(property "Footprint" "Hardware Components Footprints:SOD-123FL"
 			(at 26.67 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16082,241 +16082,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol ".TVS_bidir_template"
-		(pin_numbers
-			(hide yes)
-		)
-		(pin_names
-			(hide yes)
-		)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "D"
-			(at 20.32 -2.54 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" ".TVS_bidir_template"
-			(at 20.32 -5.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Hardware Components Footprints:['SMF4L26CA']"
-			(at 20.32 -7.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 20.32 -10.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "Bidirectional TVS, discharge_voltage,  package, working+voltage, capacitance"
-			(at 20.32 -17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 20.32 -12.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 20.32 -15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "ki_keywords" "DIODE, SEMICONDUCTOR, TVS, ESD"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_0_0"
-			(text ""
-				(at 7.62 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_0_1"
-			(polyline
-				(pts
-					(xy 0.635 0) (xy 4.445 0)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_1_1"
-			(polyline
-				(pts
-					(xy 1.016 -1.016) (xy 1.016 1.016) (xy 2.54 0) (xy 1.016 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 1.016) (xy 2.159 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 1.016) (xy 2.54 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.921 -1.016) (xy 2.54 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 4.064 1.016) (xy 4.064 -1.016) (xy 2.54 0) (xy 4.064 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(pin passive line
-				(at 0 0 0)
-				(length 0.635)
-				(name "C"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 5.08 0 180)
-				(length 0.635)
-				(name "A"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
 	(symbol "SMF4L26CA"
 		(extends ".TVS_bidir_template")
 		(property "Reference" "D"
@@ -16344,7 +16109,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SMF4L26CA']"
+		(property "Footprint" "Hardware Components Footprints:SOD-123FL"
 			(at 26.67 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -38,7 +38,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['F_1A_1206']"
+		(property "Footprint" ""
 			(at 21.59 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -192,7 +192,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['F_1A_1206']"
+		(property "Footprint" "Hardware Components Footprints:F_1206_3216Metric"
 			(at 15.24 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -331,7 +331,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['F_3A_1206']"
+		(property "Footprint" "Hardware Components Footprints:F_1206_3216Metric"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -534,7 +534,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['F_4A_1206']"
+		(property "Footprint" "Hardware Components Footprints:F_1206_3216Metric"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -736,7 +736,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['F_1.25A_0603']"
+		(property "Footprint" "Hardware Components Footprints:F_0603_1608Metric"
 			(at 24.13 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -939,7 +939,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['F_15A_1206']"
+		(property "Footprint" "Hardware Components Footprints:F_1206_3216Metric"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1153,7 +1153,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PTC_500mA_0603']"
+		(property "Footprint" "Hardware Components Footprints:F_0603_1608Metric"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1356,7 +1356,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PTC_1A_0603']"
+		(property "Footprint" "Hardware Components Footprints:F_0603_1608Metric"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1558,7 +1558,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PTC_4.5A_1206']"
+		(property "Footprint" "Hardware Components Footprints:F_1206_3216Metric"
 			(at 13.97 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1761,7 +1761,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PTC_3A_1210']"
+		(property "Footprint" "Hardware Components Footprints:F_1210_3225Metric"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1926,169 +1926,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "F_template_Current_Package"
-		(pin_numbers
-			(hide yes)
-		)
-		(pin_names
-			(hide yes)
-		)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "F"
-			(at 21.59 -5.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "F_template_Current_Package"
-			(at 21.59 -7.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Hardware Components Footprints:['PTC_0.14A_1812']"
-			(at 21.59 -10.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 21.59 -12.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "Fuse template"
-			(at 21.59 -20.32 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 21.59 -15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 21.59 -17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(symbol "F_template_Current_Package_1_1"
-			(rectangle
-				(start 0.889 0.889)
-				(end 4.191 -0.762)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0.889 0) (xy 4.191 0)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(pin passive line
-				(at 0 0 0)
-				(length 0.75)
-				(name "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 5.08 0 180)
-				(length 0.75)
-				(name "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
 	(symbol "PTC_0.14A_1812"
 		(extends "F_template_Current_Package")
 		(property "Reference" "F"
@@ -2116,7 +1953,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PTC_0.14A_1812']"
+		(property "Footprint" "Hardware Components Footprints:F_1812_4532Metric"
 			(at 15.24 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2218,169 +2055,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "F_template_Current_Package"
-		(pin_numbers
-			(hide yes)
-		)
-		(pin_names
-			(hide yes)
-		)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "F"
-			(at 21.59 -5.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "F_template_Current_Package"
-			(at 21.59 -7.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Hardware Components Footprints:['F_0.75A_1812']"
-			(at 21.59 -10.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 21.59 -12.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "Fuse template"
-			(at 21.59 -20.32 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 21.59 -15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 21.59 -17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(symbol "F_template_Current_Package_1_1"
-			(rectangle
-				(start 0.889 0.889)
-				(end 4.191 -0.762)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0.889 0) (xy 4.191 0)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(pin passive line
-				(at 0 0 0)
-				(length 0.75)
-				(name "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 5.08 0 180)
-				(length 0.75)
-				(name "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
 	(symbol "F_0.75A_1812"
 		(extends "F_template_Current_Package")
 		(property "Reference" "F"
@@ -2408,7 +2082,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['F_0.75A_1812']"
+		(property "Footprint" "Hardware Components Footprints:F_1812_4532Metric"
 			(at 15.24 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2544,7 +2218,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['AQ24COM-02']"
+		(property "Footprint" "Hardware Components Footprints:SC70-3"
 			(at 22.86 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2881,7 +2555,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['AXGD10402KR']"
+		(property "Footprint" ""
 			(at 20.32 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3107,7 +2781,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['AXGD10402KR']"
+		(property "Footprint" "Hardware Components Footprints:D_0402_1005Metric"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3240,7 +2914,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['CPC1017N']"
+		(property "Footprint" "Hardware Components Footprints:SOIC-4_W3.9mm"
 			(at 33.02 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3785,169 +3459,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "F_template_Current_Package"
-		(pin_numbers
-			(hide yes)
-		)
-		(pin_names
-			(hide yes)
-		)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "F"
-			(at 21.59 -5.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "F_template_Current_Package"
-			(at 21.59 -7.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Hardware Components Footprints:['PTC_100mA_1210']"
-			(at 21.59 -10.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 21.59 -12.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "Fuse template"
-			(at 21.59 -20.32 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 21.59 -15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 21.59 -17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(symbol "F_template_Current_Package_1_1"
-			(rectangle
-				(start 0.889 0.889)
-				(end 4.191 -0.762)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0.889 0) (xy 4.191 0)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(pin passive line
-				(at 0 0 0)
-				(length 0.75)
-				(name "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 5.08 0 180)
-				(length 0.75)
-				(name "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
 	(symbol "PTC_100mA_1210"
 		(extends "F_template_Current_Package")
 		(property "Reference" "F"
@@ -3975,7 +3486,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PTC_100mA_1210']"
+		(property "Footprint" "Hardware Components Footprints:F_1210_3225Metric"
 			(at 15.24 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4077,241 +3588,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol ".TVS_bidir_template"
-		(pin_numbers
-			(hide yes)
-		)
-		(pin_names
-			(hide yes)
-		)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "D"
-			(at 20.32 -2.54 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" ".TVS_bidir_template"
-			(at 20.32 -5.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Hardware Components Footprints:['PGB1010603MR']"
-			(at 20.32 -7.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 20.32 -10.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "Bidirectional TVS, discharge_voltage,  package, working+voltage, capacitance"
-			(at 20.32 -17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 20.32 -12.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 20.32 -15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "ki_keywords" "DIODE, SEMICONDUCTOR, TVS, ESD"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_0_0"
-			(text ""
-				(at 7.62 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_0_1"
-			(polyline
-				(pts
-					(xy 0.635 0) (xy 4.445 0)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_1_1"
-			(polyline
-				(pts
-					(xy 1.016 -1.016) (xy 1.016 1.016) (xy 2.54 0) (xy 1.016 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 1.016) (xy 2.159 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 1.016) (xy 2.54 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.921 -1.016) (xy 2.54 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 4.064 1.016) (xy 4.064 -1.016) (xy 2.54 0) (xy 4.064 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(pin passive line
-				(at 0 0 0)
-				(length 0.635)
-				(name "C"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 5.08 0 180)
-				(length 0.635)
-				(name "A"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
 	(symbol "PGB1010603MR"
 		(extends ".TVS_bidir_template")
 		(property "Reference" "D"
@@ -4339,7 +3615,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PGB1010603MR']"
+		(property "Footprint" "Hardware Components Footprints:D_0603_1608Metric"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4441,241 +3717,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol ".TVS_bidir_template"
-		(pin_numbers
-			(hide yes)
-		)
-		(pin_names
-			(hide yes)
-		)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "D"
-			(at 20.32 -2.54 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" ".TVS_bidir_template"
-			(at 20.32 -5.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Hardware Components Footprints:['SMAJ18CA']"
-			(at 20.32 -7.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 20.32 -10.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "Bidirectional TVS, discharge_voltage,  package, working+voltage, capacitance"
-			(at 20.32 -17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 20.32 -12.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 20.32 -15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "ki_keywords" "DIODE, SEMICONDUCTOR, TVS, ESD"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_0_0"
-			(text ""
-				(at 7.62 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_0_1"
-			(polyline
-				(pts
-					(xy 0.635 0) (xy 4.445 0)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_1_1"
-			(polyline
-				(pts
-					(xy 1.016 -1.016) (xy 1.016 1.016) (xy 2.54 0) (xy 1.016 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 1.016) (xy 2.159 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 1.016) (xy 2.54 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.921 -1.016) (xy 2.54 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 4.064 1.016) (xy 4.064 -1.016) (xy 2.54 0) (xy 4.064 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(pin passive line
-				(at 0 0 0)
-				(length 0.635)
-				(name "C"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 5.08 0 180)
-				(length 0.635)
-				(name "A"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
 	(symbol "SMAJ18CA"
 		(extends ".TVS_bidir_template")
 		(property "Reference" "D"
@@ -4703,7 +3744,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SMAJ18CA']"
+		(property "Footprint" "Hardware Components Footprints:D_SMA"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4841,7 +3882,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SMBJ33A']"
+		(property "Footprint" ""
 			(at 20.32 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5057,7 +4098,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SMBJ33A']"
+		(property "Footprint" "Hardware Components Footprints:D_SMB"
 			(at 21.59 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5159,241 +4200,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol ".TVS_bidir_template"
-		(pin_numbers
-			(hide yes)
-		)
-		(pin_names
-			(hide yes)
-		)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "D"
-			(at 20.32 -2.54 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" ".TVS_bidir_template"
-			(at 20.32 -5.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Hardware Components Footprints:['SMBJ60CA']"
-			(at 20.32 -7.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 20.32 -10.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "Bidirectional TVS, discharge_voltage,  package, working+voltage, capacitance"
-			(at 20.32 -17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 20.32 -12.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 20.32 -15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "ki_keywords" "DIODE, SEMICONDUCTOR, TVS, ESD"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_0_0"
-			(text ""
-				(at 7.62 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_0_1"
-			(polyline
-				(pts
-					(xy 0.635 0) (xy 4.445 0)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_1_1"
-			(polyline
-				(pts
-					(xy 1.016 -1.016) (xy 1.016 1.016) (xy 2.54 0) (xy 1.016 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 1.016) (xy 2.159 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 1.016) (xy 2.54 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.921 -1.016) (xy 2.54 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 4.064 1.016) (xy 4.064 -1.016) (xy 2.54 0) (xy 4.064 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(pin passive line
-				(at 0 0 0)
-				(length 0.635)
-				(name "C"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 5.08 0 180)
-				(length 0.635)
-				(name "A"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
 	(symbol "SMBJ60CA"
 		(extends ".TVS_bidir_template")
 		(property "Reference" "D"
@@ -5421,7 +4227,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SMBJ60CA']"
+		(property "Footprint" "Hardware Components Footprints:D_SMB"
 			(at 21.59 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5523,169 +4329,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "F_template_Current_Package"
-		(pin_numbers
-			(hide yes)
-		)
-		(pin_names
-			(hide yes)
-		)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "F"
-			(at 21.59 -5.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "F_template_Current_Package"
-			(at 21.59 -7.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Hardware Components Footprints:['PTC_3A_2920_SMD']"
-			(at 21.59 -10.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 21.59 -12.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "Fuse template"
-			(at 21.59 -20.32 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 21.59 -15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 21.59 -17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(symbol "F_template_Current_Package_1_1"
-			(rectangle
-				(start 0.889 0.889)
-				(end 4.191 -0.762)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0.889 0) (xy 4.191 0)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(pin passive line
-				(at 0 0 0)
-				(length 0.75)
-				(name "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 5.08 0 180)
-				(length 0.75)
-				(name "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
 	(symbol "PTC_3A_2920_SMD"
 		(extends "F_template_Current_Package")
 		(property "Reference" "F"
@@ -5713,7 +4356,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PTC_3A_2920_SMD']"
+		(property "Footprint" "Hardware Components Footprints:F_2920_SMD"
 			(at 15.24 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5815,241 +4458,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol ".TVS_bidir_template"
-		(pin_numbers
-			(hide yes)
-		)
-		(pin_names
-			(hide yes)
-		)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "D"
-			(at 20.32 -2.54 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" ".TVS_bidir_template"
-			(at 20.32 -5.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Hardware Components Footprints:['SMF4L12CA']"
-			(at 20.32 -7.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 20.32 -10.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "Bidirectional TVS, discharge_voltage,  package, working+voltage, capacitance"
-			(at 20.32 -17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 20.32 -12.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 20.32 -15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "ki_keywords" "DIODE, SEMICONDUCTOR, TVS, ESD"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_0_0"
-			(text ""
-				(at 7.62 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_0_1"
-			(polyline
-				(pts
-					(xy 0.635 0) (xy 4.445 0)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_1_1"
-			(polyline
-				(pts
-					(xy 1.016 -1.016) (xy 1.016 1.016) (xy 2.54 0) (xy 1.016 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 1.016) (xy 2.159 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 1.016) (xy 2.54 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.921 -1.016) (xy 2.54 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 4.064 1.016) (xy 4.064 -1.016) (xy 2.54 0) (xy 4.064 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(pin passive line
-				(at 0 0 0)
-				(length 0.635)
-				(name "C"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 5.08 0 180)
-				(length 0.635)
-				(name "A"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
 	(symbol "SMF4L12CA"
 		(extends ".TVS_bidir_template")
 		(property "Reference" "D"
@@ -6077,7 +4485,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SMF4L12CA']"
+		(property "Footprint" "Hardware Components Footprints:SOD-123FL"
 			(at 26.67 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6179,231 +4587,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol ".TVS_unidir_template"
-		(pin_numbers
-			(hide yes)
-		)
-		(pin_names
-			(hide yes)
-		)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "D"
-			(at 20.32 -2.54 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" ".TVS_unidir_template"
-			(at 20.32 -5.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Hardware Components Footprints:['SMF4L15A']"
-			(at 20.32 -7.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 20.32 -10.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "Unidirectional TVS, discharge_voltage,  package, working+voltage, capacitance"
-			(at 20.32 -17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 20.32 -12.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 20.32 -15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "ki_keywords" "DIODE, SEMICONDUCTOR, TVS, ESD"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(symbol ".TVS_unidir_template_0_1"
-			(polyline
-				(pts
-					(xy 1.905 0) (xy 0.635 0)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 4.445 0) (xy 3.175 0)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-		)
-		(symbol ".TVS_unidir_template_1_1"
-			(polyline
-				(pts
-					(xy 1.778 1.016) (xy 1.397 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 1.778 1.016) (xy 1.778 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.159 -1.016) (xy 1.778 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.302 1.016) (xy 3.302 -1.016) (xy 1.778 0) (xy 3.302 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(pin passive line
-				(at 0 0 0)
-				(length 0.635)
-				(name "C"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 5.08 0 180)
-				(length 0.635)
-				(name "A"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
 	(symbol "SMF4L15A"
 		(extends ".TVS_unidir_template")
 		(property "Reference" "D"
@@ -6431,7 +4614,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SMF4L15A']"
+		(property "Footprint" "Hardware Components Footprints:SOD-123FL"
 			(at 26.67 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6533,241 +4716,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol ".TVS_bidir_template"
-		(pin_numbers
-			(hide yes)
-		)
-		(pin_names
-			(hide yes)
-		)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "D"
-			(at 20.32 -2.54 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" ".TVS_bidir_template"
-			(at 20.32 -5.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Hardware Components Footprints:['SP00R6-01WTG']"
-			(at 20.32 -7.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 20.32 -10.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "Bidirectional TVS, discharge_voltage,  package, working+voltage, capacitance"
-			(at 20.32 -17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 20.32 -12.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 20.32 -15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "ki_keywords" "DIODE, SEMICONDUCTOR, TVS, ESD"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_0_0"
-			(text ""
-				(at 7.62 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_0_1"
-			(polyline
-				(pts
-					(xy 0.635 0) (xy 4.445 0)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_1_1"
-			(polyline
-				(pts
-					(xy 1.016 -1.016) (xy 1.016 1.016) (xy 2.54 0) (xy 1.016 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 1.016) (xy 2.159 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 1.016) (xy 2.54 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.921 -1.016) (xy 2.54 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 4.064 1.016) (xy 4.064 -1.016) (xy 2.54 0) (xy 4.064 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(pin passive line
-				(at 0 0 0)
-				(length 0.635)
-				(name "C"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 5.08 0 180)
-				(length 0.635)
-				(name "A"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
 	(symbol "SP00R6-01WTG"
 		(extends ".TVS_bidir_template")
 		(property "Reference" "D"
@@ -6795,7 +4743,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SP00R6-01WTG']"
+		(property "Footprint" "Hardware Components Footprints:D_0201_0603Metric_SP00R6"
 			(at 15.24 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6932,7 +4880,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SP1001-04_SOT-553']"
+		(property "Footprint" "Hardware Components Footprints:SOT-553"
 			(at 22.86 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7417,7 +5365,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SP3011-06UTG']"
+		(property "Footprint" "Hardware Components Footprints:USON-14_3.5x1.35_P0.5mm"
 			(at 13.97 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8216,7 +6164,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SP33R6-04UTG']"
+		(property "Footprint" "Hardware Components Footprints:UDFN-10_1x2.5mm_P0.5mm"
 			(at 22.86 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8758,231 +6706,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol ".TVS_unidir_template"
-		(pin_numbers
-			(hide yes)
-		)
-		(pin_names
-			(hide yes)
-		)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "D"
-			(at 20.32 -2.54 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" ".TVS_unidir_template"
-			(at 20.32 -5.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Hardware Components Footprints:['SZSMF4L14AT3G']"
-			(at 20.32 -7.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 20.32 -10.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "Unidirectional TVS, discharge_voltage,  package, working+voltage, capacitance"
-			(at 20.32 -17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 20.32 -12.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 20.32 -15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "ki_keywords" "DIODE, SEMICONDUCTOR, TVS, ESD"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(symbol ".TVS_unidir_template_0_1"
-			(polyline
-				(pts
-					(xy 1.905 0) (xy 0.635 0)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 4.445 0) (xy 3.175 0)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-		)
-		(symbol ".TVS_unidir_template_1_1"
-			(polyline
-				(pts
-					(xy 1.778 1.016) (xy 1.397 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 1.778 1.016) (xy 1.778 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.159 -1.016) (xy 1.778 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.302 1.016) (xy 3.302 -1.016) (xy 1.778 0) (xy 3.302 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(pin passive line
-				(at 0 0 0)
-				(length 0.635)
-				(name "C"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 5.08 0 180)
-				(length 0.635)
-				(name "A"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
 	(symbol "SZSMF4L14AT3G"
 		(extends ".TVS_unidir_template")
 		(property "Reference" "D"
@@ -9010,7 +6733,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SZSMF4L14AT3G']"
+		(property "Footprint" "Hardware Components Footprints:SOD-123FL"
 			(at 15.24 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9112,241 +6835,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol ".TVS_bidir_template"
-		(pin_numbers
-			(hide yes)
-		)
-		(pin_names
-			(hide yes)
-		)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "D"
-			(at 20.32 -2.54 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" ".TVS_bidir_template"
-			(at 20.32 -5.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Hardware Components Footprints:['SZSMF4L36CAT3G']"
-			(at 20.32 -7.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 20.32 -10.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "Bidirectional TVS, discharge_voltage,  package, working+voltage, capacitance"
-			(at 20.32 -17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 20.32 -12.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 20.32 -15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "ki_keywords" "DIODE, SEMICONDUCTOR, TVS, ESD"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_0_0"
-			(text ""
-				(at 7.62 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_0_1"
-			(polyline
-				(pts
-					(xy 0.635 0) (xy 4.445 0)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_1_1"
-			(polyline
-				(pts
-					(xy 1.016 -1.016) (xy 1.016 1.016) (xy 2.54 0) (xy 1.016 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 1.016) (xy 2.159 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 1.016) (xy 2.54 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.921 -1.016) (xy 2.54 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 4.064 1.016) (xy 4.064 -1.016) (xy 2.54 0) (xy 4.064 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(pin passive line
-				(at 0 0 0)
-				(length 0.635)
-				(name "C"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 5.08 0 180)
-				(length 0.635)
-				(name "A"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
 	(symbol "SZSMF4L36CAT3G"
 		(extends ".TVS_bidir_template")
 		(property "Reference" "D"
@@ -9374,7 +6862,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SZSMF4L36CAT3G']"
+		(property "Footprint" "Hardware Components Footprints:SOD-123FL"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9476,241 +6964,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol ".TVS_bidir_template"
-		(pin_numbers
-			(hide yes)
-		)
-		(pin_names
-			(hide yes)
-		)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "D"
-			(at 20.32 -2.54 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" ".TVS_bidir_template"
-			(at 20.32 -5.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Hardware Components Footprints:['SZSMF4L40CAT3G']"
-			(at 20.32 -7.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 20.32 -10.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "Bidirectional TVS, discharge_voltage,  package, working+voltage, capacitance"
-			(at 20.32 -17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 20.32 -12.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 20.32 -15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "ki_keywords" "DIODE, SEMICONDUCTOR, TVS, ESD"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_0_0"
-			(text ""
-				(at 7.62 -1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_0_1"
-			(polyline
-				(pts
-					(xy 0.635 0) (xy 4.445 0)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-		)
-		(symbol ".TVS_bidir_template_1_1"
-			(polyline
-				(pts
-					(xy 1.016 -1.016) (xy 1.016 1.016) (xy 2.54 0) (xy 1.016 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 1.016) (xy 2.159 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 1.016) (xy 2.54 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.921 -1.016) (xy 2.54 -1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 4.064 1.016) (xy 4.064 -1.016) (xy 2.54 0) (xy 4.064 1.016)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(pin passive line
-				(at 0 0 0)
-				(length 0.635)
-				(name "C"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 5.08 0 180)
-				(length 0.635)
-				(name "A"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
 	(symbol "SZSMF4L40CAT3G"
 		(extends ".TVS_bidir_template")
 		(property "Reference" "D"
@@ -9738,7 +6991,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SZSMF4L40CAT3G']"
+		(property "Footprint" "Hardware Components Footprints:SOD-123FL"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9877,7 +7130,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['R_0R01_250mW_0402']"
+		(property "Footprint" ""
 			(at 20.32 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10071,7 +7324,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['R_0R01_250mW_0402']"
+		(property "Footprint" "Hardware Components Footprints:R_0402_1005Metric"
 			(at 20.32 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -33,7 +33,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bluetooth_BLE112-A-V1']"
+		(property "Footprint" "Hardware Components Footprints:Bluetooth_Module_BLE112-A-V1"
 			(at 38.1 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -723,7 +723,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['CP2103-GM']"
+		(property "Footprint" "Hardware Components Footprints:QFN-28-1EP_5x5mm_P0.5mm_EP3.1x3.1mm"
 			(at 38.1 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1397,7 +1397,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['CP2108-B02-GM']"
+		(property "Footprint" "Hardware Components Footprints:QFN-64-1EP_9x9mm_P0.5mm"
 			(at 63.5 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2715,7 +2715,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['EFM32GG12B410F1024_BGA']"
+		(property "Footprint" "Hardware Components Footprints:BGA-169-120_7x7mm_Layout13x13_P0.5mm"
 			(at 43.18 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5069,7 +5069,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['EFM8SB10F2G-A-QFN20']"
+		(property "Footprint" "Hardware Components Footprints:QFN-20-1EP_3x3mm_P0.5mm_SI"
 			(at 35.56 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5603,7 +5603,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['EFR32BG22_QFN-40']"
+		(property "Footprint" "Hardware Components Footprints:UQFN-40-1EP_5x5mm_P0.4mm_EP3.8x3.8mm"
 			(at 38.1 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6487,7 +6487,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Si1133']"
+		(property "Footprint" "Hardware Components Footprints:DFN-10_2x2mm_P0.5mm_Si1133"
 			(at 33.02 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6815,7 +6815,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['RF_SI4703-C19-GM']"
+		(property "Footprint" "Hardware Components Footprints:QFN-20-1EP_3x3mm_P0.5mm_SI"
 			(at 35.56 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7344,7 +7344,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Si7021']"
+		(property "Footprint" "Hardware Components Footprints:DFN-6-1EP_3x3mm_P1mm_EP1.5x2.4mm"
 			(at 30.48 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7629,7 +7629,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Si7210_SOT']"
+		(property "Footprint" "Hardware Components Footprints:SOT-23-5"
 			(at 30.48 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7865,7 +7865,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['WiFi_WF121-A-V2']"
+		(property "Footprint" "Hardware Components Footprints:WiFi_Module_WF121-A-V2"
 			(at 53.34 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)

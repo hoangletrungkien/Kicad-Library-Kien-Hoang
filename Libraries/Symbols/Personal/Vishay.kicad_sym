@@ -925,7 +925,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Vishay:VEML6035"
+		(property "Footprint" "PERSONAL_Vishay:VEML6035"
 			(at 0 16.51 0)
 			(effects
 				(font
@@ -1082,7 +1082,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_LGA_Kampi:OPLGA-6"
+		(property "Footprint" "PERSONAL_Packages:OPLGA-6"
 			(at 0 16.51 0)
 			(effects
 				(font
@@ -1257,7 +1257,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Vishay:VEML7700"
+		(property "Footprint" "PERSONAL_Vishay:VEML7700"
 			(at 0 0 0)
 			(effects
 				(font

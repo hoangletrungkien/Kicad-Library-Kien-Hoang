@@ -33,7 +33,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FFC_TE_1-1734742-2']"
+		(property "Footprint" "Hardware Components Footprints:Conn_FFC_TE_1-1734742-2"
 			(at 21.59 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -545,7 +545,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FFC_TE_1-1734742-6']"
+		(property "Footprint" "Hardware Components Footprints:Conn_FFC_TE_1-1734742-6"
 			(at 21.59 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1173,7 +1173,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['TE_MULTILOCK_174971-2']"
+		(property "Footprint" "Hardware Components Footprints:Conn_TE_MULTILOCK_174971-2"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1554,7 +1554,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SW_1-1825027-1_THT']"
+		(property "Footprint" "Hardware Components Footprints:SW_1-1825027-1_THT"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1849,7 +1849,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_M.2_1-2199119-5']"
+		(property "Footprint" "Hardware Components Footprints:Bus_M.2_Socket_Key_M_TE_1-2199119-5"
 			(at 45.72 -17.018 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2583,7 +2583,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_M.2_1-2199230-0']"
+		(property "Footprint" "Hardware Components Footprints:Bus_M.2_Socket_Key_B_TE_1-2199230-0"
 			(at 45.72 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3977,7 +3977,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_M.2_1-2199230-6']"
+		(property "Footprint" "Hardware Components Footprints:Bus_M.2_Socket_Key_M_TE_1-2199230-6"
 			(at 45.72 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5416,7 +5416,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_TE_MULTI-BEAM_2x5_1-2212115-4']"
+		(property "Footprint" "Hardware Components Footprints:Socket_TE_MULTI-BEAM_2x5_1-2212115-4"
 			(at 19.05 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5742,7 +5742,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_TE_2x84_1-2340321-2']"
+		(property "Footprint" "Hardware Components Footprints:TE_1-2340321-2"
 			(at 58.42 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8998,7 +8998,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FFC_TE_1-84953-5']"
+		(property "Footprint" "Hardware Components Footprints:Conn_FFC_TE_1-84953-5"
 			(at 21.59 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9608,7 +9608,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Wire2Board_1x2_P3.5mm_1546551-2']"
+		(property "Footprint" "Hardware Components Footprints:TerminalBlock_Wire2Board_1x2_P3.5mm_1546551-2"
 			(at 8.89 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9871,7 +9871,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FFC_TE_1734742-6']"
+		(property "Footprint" "Hardware Components Footprints:Conn_FFC_TE_1734742-6"
 			(at 21.59 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10212,7 +10212,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SW_1825910-6_THT']"
+		(property "Footprint" ""
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10567,7 +10567,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SW_1825910-6_THT']"
+		(property "Footprint" "Hardware Components Footprints:SW_1825910-6_THT"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10700,7 +10700,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['USB-Micro-B_TE_1981568-1']"
+		(property "Footprint" "Hardware Components Footprints:USB-Micro-B_Receptacle_TE_1981568-1"
 			(at 15.24 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11106,7 +11106,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['USB-Micro-B_TE_1981584-1']"
+		(property "Footprint" "Hardware Components Footprints:USB-Micro-B_Receptacle_TE_1981584-1"
 			(at 15.24 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11512,7 +11512,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_DDR3_SODIMM_TE_2-2013289-1']"
+		(property "Footprint" "Hardware Components Footprints:Bus_DDR3_SODIMM_TE_2-2013289-1"
 			(at 36.83 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15371,7 +15371,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PCIe_x4_Conn_EdgeMount_Open']"
+		(property "Footprint" "Hardware Components Footprints:PCIE_TE_2-2387405-2"
 			(at 48.26 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16671,7 +16671,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['HDMI-A_TE_2007435-1']"
+		(property "Footprint" "Hardware Components Footprints:HDMI-A_Receptacle_TE_2007435-1"
 			(at 35.56 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17261,7 +17261,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['HDMI-Mini-C_TE_2013978-1']"
+		(property "Footprint" "Hardware Components Footprints:HDMI-Mini-C_Receptacle_TE_2013978-1"
 			(at 59.69 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17857,7 +17857,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['DisplayPort-Mini_TE_2129320-3']"
+		(property "Footprint" "Hardware Components Footprints:DisplayPort-Mini_Receptacle_TE_2129320-3"
 			(at 45.72 -2.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18519,7 +18519,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_M.2-2199119-4']"
+		(property "Footprint" "Hardware Components Footprints:Bus_M.2_Socket_Key_E_TE_2199119-4"
 			(at 48.26 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19902,7 +19902,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_M.2_2199119-5']"
+		(property "Footprint" "Hardware Components Footprints:Bus_M.2_Socket_Key_B_TE_2199119-5"
 			(at 45.72 -4.572 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21220,7 +21220,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_M.2_2199119-6']"
+		(property "Footprint" "Hardware Components Footprints:Bus_M.2_Socket_Key_E_TE_1-2199119-6"
 			(at 48.26 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22604,7 +22604,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_DDR4_2199155-1']"
+		(property "Footprint" "Hardware Components Footprints:Bus_DDR4_Socket_DIMM_2199155-1"
 			(at 49.53 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28133,7 +28133,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_M.2_2199230-2']"
+		(property "Footprint" "Hardware Components Footprints:Bus_M.2_Socket_Key_E_TE_2199230-6"
 			(at 45.72 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29528,7 +29528,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_M.2_2199230-4']"
+		(property "Footprint" "Hardware Components Footprints:Bus_M.2_Socket_Key_E_TE_2199230-4"
 			(at 55.88 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30923,7 +30923,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_M.2_2199230-6']"
+		(property "Footprint" "Hardware Components Footprints:Bus_M.2_Socket_Key_E_TE_2199230-6"
 			(at 45.72 -6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32317,7 +32317,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_TE_MULTI-BEAM_2x8_2214913-7']"
+		(property "Footprint" "Hardware Components Footprints:Socket_TE_MULTI-BEAM_2x8_2214913-7"
 			(at 26.67 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32763,7 +32763,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_DDR4_SODIMM_TE_2309409']"
+		(property "Footprint" "Hardware Components Footprints:Bus_DDR4_SODIMM_TE_2309409"
 			(at 36.83 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -37649,7 +37649,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_DDR4_SODIMM']"
+		(property "Footprint" "Hardware Components Footprints:TE_2309413"
 			(at 36.83 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42551,7 +42551,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['2822541-1']"
+		(property "Footprint" "Hardware Components Footprints:SIM_Micro_2822541-1"
 			(at 40.64 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43027,7 +43027,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['USB-A_TE_292336-1_Vertical']"
+		(property "Footprint" "Hardware Components Footprints:USB-A_Receptacle_TE_292336-1"
 			(at 27.94 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43366,7 +43366,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['TE_MATE-N-LOK_2x4_3-794680-8']"
+		(property "Footprint" "Hardware Components Footprints:Conn_TE_MATE-N-LOK_2x4_3-794680-8"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43750,7 +43750,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['L_160n_0.28A_0603']"
+		(property "Footprint" ""
 			(at 13.97 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44007,7 +44007,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['L_160n_0.28A_0603']"
+		(property "Footprint" "Hardware Components Footprints:L_TE_0603_1811Metric"
 			(at 13.97 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44179,7 +44179,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_SDRAM_SODIMM_TE_390112-1']"
+		(property "Footprint" "Hardware Components Footprints:Bus_SDRAM_SODIMM_TE_390112-1"
 			(at 35.56 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46994,7 +46994,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_RJ45_5-2337992-8']"
+		(property "Footprint" "Hardware Components Footprints:RJ45_X-2337992-8_Horizontal"
 			(at 35.56 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47656,7 +47656,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_TE_AMP_2x70_5177984-6']"
+		(property "Footprint" "Hardware Components Footprints:Conn_TE_AMP_2x70_5177984-6"
 			(at 36.83 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50333,7 +50333,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['RJ12_TE_5555154-1']"
+		(property "Footprint" "Hardware Components Footprints:RJ12_TE_5555154-1"
 			(at 34.29 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50778,7 +50778,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['D-Sub_TE_5747840-3']"
+		(property "Footprint" "Hardware Components Footprints:Conn_D-Sub_TE_5747840-3"
 			(at 26.67 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51415,7 +51415,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PCIe_x4_Conn_EdgeMount_NoMilling']"
+		(property "Footprint" "Hardware Components Footprints:PCIE_TE_6-1734857-5"
 			(at 48.26 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -52715,7 +52715,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_RJ45_6-2301994-2']"
+		(property "Footprint" "Hardware Components Footprints:RJ45_6-2301994-2"
 			(at 41.91 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -53294,7 +53294,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_RJ45_6-2337992-8']"
+		(property "Footprint" "Hardware Components Footprints:RJ45_X-2337992-8_Horizontal"
 			(at 35.56 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -53959,7 +53959,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Conn_FAKRA_7-2287906-0']"
+		(property "Footprint" "Hardware Components Footprints:Conn_FAKRA_7-2287906-0"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54260,7 +54260,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['TE_MATE-N-LOK_1x4_770829-1']"
+		(property "Footprint" "Hardware Components Footprints:Conn_TE_MATE-N-LOK_1x4_770829-1"
 			(at 15.24 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54522,7 +54522,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Conn_FFC_8-188275-2']"
+		(property "Footprint" "Hardware Components Footprints:Conn_FFC_8-188275-2"
 			(at 15.24 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55027,7 +55027,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['arty_chipKIT_connector']"
+		(property "Footprint" "Hardware Components Footprints:ARTY_A7_SHIELD"
 			(at 33.02 -2.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -56419,7 +56419,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_DDR4_9-2199155-6']"
+		(property "Footprint" "Hardware Components Footprints:Bus_DDR4_DIMM_TE_9-2199155-6"
 			(at 49.53 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -61883,368 +61883,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "SW_template_4-pin"
-		(pin_names
-			(hide yes)
-		)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "SW"
-			(at 25.4 -2.54 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "SW_template_4-pin"
-			(at 25.4 -7.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Hardware Components Footprints:['SW_FSM14JHX_SMD']"
-			(at 25.4 -10.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 25.4 -12.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "Tactile Switch, template"
-			(at 25.4 -22.86 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MPN" ""
-			(at 25.4 -5.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 25.4 -15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 25.4 -17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 25.4 -20.32 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "ki_keywords" "SWITCH, MECHANICAL, TACTILE"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(symbol "SW_template_4-pin_1_1"
-			(polyline
-				(pts
-					(xy 2.54 0) (xy 3.302 0)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 -2.54) (xy 3.302 -2.54)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.302 1.27) (xy 6.858 1.27)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(circle
-				(center 3.556 0)
-				(radius 0.254)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.556 -0.3048) (xy 3.556 -2.1844)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(circle
-				(center 3.556 -2.54)
-				(radius 0.254)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 4.064 2.794) (xy 6.096 2.794)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 5.08 1.27) (xy 5.08 2.794)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(circle
-				(center 6.604 0)
-				(radius 0.254)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 6.604 -0.254) (xy 6.604 -2.1844)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(circle
-				(center 6.604 -2.54)
-				(radius 0.254)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 7.62 0) (xy 6.858 0)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 7.62 -2.54) (xy 6.858 -2.54)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(pin passive line
-				(at 0 0 0)
-				(length 2.54)
-				(name "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 0 -2.54 0)
-				(length 2.54)
-				(name "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 10.16 0 180)
-				(length 2.54)
-				(name "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 10.16 -2.54 180)
-				(length 2.54)
-				(name "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
 	(symbol "SW_FSM14JHX_SMD"
 		(extends "SW_template_4-pin")
 		(property "Reference" "SW"
@@ -62272,7 +61910,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SW_FSM14JHX_SMD']"
+		(property "Footprint" "Hardware Components Footprints:SW_FSM14JHX_SMD"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62374,368 +62012,6 @@
 		)
 		(embedded_fonts no)
 	)
-	(symbol "SW_template_4-pin"
-		(pin_names
-			(hide yes)
-		)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "SW"
-			(at 25.4 -2.54 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "SW_template_4-pin"
-			(at 25.4 -7.62 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Hardware Components Footprints:['SW_FSM4JSMATR_SMD']"
-			(at 25.4 -10.16 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Datasheet" ""
-			(at 25.4 -12.7 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Description" "Tactile Switch, template"
-			(at 25.4 -22.86 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "MPN" ""
-			(at 25.4 -5.08 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Manufacturer" ""
-			(at 25.4 -15.24 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Author" "Antmicro"
-			(at 25.4 -17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "License" "Apache-2.0"
-			(at 25.4 -20.32 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "ki_keywords" "SWITCH, MECHANICAL, TACTILE"
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(hide yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(symbol "SW_template_4-pin_1_1"
-			(polyline
-				(pts
-					(xy 2.54 0) (xy 3.302 0)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 -2.54) (xy 3.302 -2.54)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.302 1.27) (xy 6.858 1.27)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(circle
-				(center 3.556 0)
-				(radius 0.254)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 3.556 -0.3048) (xy 3.556 -2.1844)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(circle
-				(center 3.556 -2.54)
-				(radius 0.254)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 4.064 2.794) (xy 6.096 2.794)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 5.08 1.27) (xy 5.08 2.794)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(circle
-				(center 6.604 0)
-				(radius 0.254)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 6.604 -0.254) (xy 6.604 -2.1844)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(circle
-				(center 6.604 -2.54)
-				(radius 0.254)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 7.62 0) (xy 6.858 0)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 7.62 -2.54) (xy 6.858 -2.54)
-				)
-				(stroke
-					(width 0.254)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(pin passive line
-				(at 0 0 0)
-				(length 2.54)
-				(name "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 0 -2.54 0)
-				(length 2.54)
-				(name "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 10.16 0 180)
-				(length 2.54)
-				(name "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 10.16 -2.54 180)
-				(length 2.54)
-				(name "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-		)
-		(embedded_fonts no)
-	)
 	(symbol "SW_FSM4JSMATR_SMD"
 		(extends "SW_template_4-pin")
 		(property "Reference" "SW"
@@ -62763,7 +62039,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SW_FSM4JSMATR_SMD']"
+		(property "Footprint" "Hardware Components Footprints:SW_FSM4JSMATR_SMD"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62899,7 +62175,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['TE_JJA_JJAV0UJ253NONMRTR']"
+		(property "Footprint" "Hardware Components Footprints:EndSwitch_TE_JJA_JJAV0UJ253NONMRTR"
 			(at 25.4 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -63215,7 +62491,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['TE_JJL_JJLV0UG1070NOPPRTB']"
+		(property "Footprint" "Hardware Components Footprints:EndSwitch_TE_JJL_JJLV0UG1070NOPPRTB"
 			(at 19.685 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -63531,7 +62807,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['TE_JJL_JJLV0UG840NOPPRTR']"
+		(property "Footprint" "Hardware Components Footprints:EndSwitch_TE_JJL_JJLV0UG840NOPPRTR"
 			(at 25.4 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -63846,7 +63122,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['TP_1206_SMD_RCW-0C']"
+		(property "Footprint" "Hardware Components Footprints:TP_1206_SMD_RCW-0C"
 			(at 17.78 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -64017,7 +63293,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['R_0R255_1206']"
+		(property "Footprint" ""
 			(at 20.32 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -64211,7 +63487,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['R_0R255_1206']"
+		(property "Footprint" "Hardware Components Footprints:R_1206_3216Metric"
 			(at 20.32 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -64369,7 +63645,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Conn_M12_T4145035081-002']"
+		(property "Footprint" "Hardware Components Footprints:Conn_M12_T4145035081-002"
 			(at 20.32 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -64776,7 +64052,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Conn_M12_T4145515041-001']"
+		(property "Footprint" "Hardware Components Footprints:Conn_M12_T4145515041-001"
 			(at 20.32 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)

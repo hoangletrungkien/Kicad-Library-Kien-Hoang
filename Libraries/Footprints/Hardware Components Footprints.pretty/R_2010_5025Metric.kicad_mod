@@ -370,7 +370,7 @@
 		(uuid "f36c3001-6284-447f-8524-0f51745ee7f9")
 	)
 	(embedded_fonts no)
-	(model ""
+	(model "${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_2010_5025Metric.step"
 		(offset
 			(xyz 0 0 0)
 		)

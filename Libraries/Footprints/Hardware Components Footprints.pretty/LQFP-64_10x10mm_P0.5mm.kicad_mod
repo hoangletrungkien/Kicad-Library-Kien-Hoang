@@ -8900,7 +8900,7 @@
 		(uuid "85875828-1aee-45c3-881b-186cb17afc74")
 	)
 	(embedded_fonts no)
-	(model ""
+	(model "${KICAD10_3DMODEL_DIR}/Package_QFP.3dshapes/LQFP-64_10x10mm_P0.5mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

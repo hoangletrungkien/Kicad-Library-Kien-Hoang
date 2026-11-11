@@ -2403,7 +2403,7 @@
 		(uuid "be2f39d9-f630-4dff-805d-51e2757c7dff")
 	)
 	(embedded_fonts no)
-	(model ""
+	(model "${KICAD_LIBRARY}/3D/Packages/SC70-5.stp"
 		(offset
 			(xyz -0.005762 -0.035 0.71)
 		)

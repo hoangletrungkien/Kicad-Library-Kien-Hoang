@@ -33,7 +33,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SW_DS04-254-1-01BK-SMT']"
+		(property "Footprint" "Hardware Components Footprints:SW_DS04-254-1-01BK-SMT"
 			(at 26.67 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -286,7 +286,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PDQE30-Q48-S12-D']"
+		(property "Footprint" "Hardware Components Footprints:CONV_PDQE30-Q48-S12-D"
 			(at 35.56 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -540,7 +540,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PDQE30-Q48-S24-D']"
+		(property "Footprint" "Hardware Components Footprints:CONV_PDQE30-Q48-S24-D"
 			(at 35.56 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -794,7 +794,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PDQE30-Q48-S5-D']"
+		(property "Footprint" "Hardware Components Footprints:CONV_PDQE30-Q48-S5-D"
 			(at 35.56 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1048,7 +1048,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['BarrelJack_Pin2mm_PJ-002AH']"
+		(property "Footprint" "Hardware Components Footprints:BarrelJack_Pin2mm_PJ-002AH"
 			(at 15.24 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1330,7 +1330,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['BarrelJack_Pin2mm_PJ-051A']"
+		(property "Footprint" "Hardware Components Footprints:BarrelJack_Pin2mm_PJ-051A"
 			(at 15.24 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1630,7 +1630,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['BarrelJack_Pin2.5mm_PJ-063BH']"
+		(property "Footprint" "Hardware Components Footprints:BarrelJack_Pin2.5mm_PJ-063BH"
 			(at 17.78 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1912,7 +1912,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['BarrelJack_Pin2mm_PJ-102A']"
+		(property "Footprint" "Hardware Components Footprints:BarrelJack_Pin2mm_PJ-102A"
 			(at 15.24 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2194,7 +2194,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['BarrelJack_Pin2mm_PJ-102AH']"
+		(property "Footprint" "Hardware Components Footprints:BarrelJack_Pin2mm_PJ-102AH"
 			(at 17.78 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2476,7 +2476,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['BarrelJack_Pin2.5mm_PJ-102BH']"
+		(property "Footprint" "Hardware Components Footprints:BarrelJack_Pin2.5mm_PJ-102BH"
 			(at 17.78 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2758,7 +2758,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['BarrelJack_Pin2mm_PJ-202A']"
+		(property "Footprint" "Hardware Components Footprints:BarrelJack_Pin2mm_PJ-202A"
 			(at 15.24 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3040,7 +3040,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['RCA_Jack_RCJ-014-SMT']"
+		(property "Footprint" "Hardware Components Footprints:RCA_Jack_RCJ-014-SMT"
 			(at 13.97 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3333,7 +3333,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Phone_TRS_MiniJack_SJ-3523-SMT-TR']"
+		(property "Footprint" "Hardware Components Footprints:Phone_TRS_MiniJack_SJ-3523-SMT-TR"
 			(at 15.24 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3569,7 +3569,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Phone_TRRS_MiniJack_SJ-43516-SMT-BE']"
+		(property "Footprint" "Hardware Components Footprints:Phone_TRRS_MiniJack_SJ-43516-SMT-BE"
 			(at 13.97 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4026,7 +4026,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Phone_TRRS_MiniJack_SJ-43516-SMT-GR']"
+		(property "Footprint" "Hardware Components Footprints:Phone_TRRS_MiniJack_SJ-43516-SMT-GR"
 			(at 13.97 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4483,7 +4483,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Phone_TRRS_MiniJack_SJ-43516-SMT-TR']"
+		(property "Footprint" "Hardware Components Footprints:Phone_TRRS_MiniJack_SJ-43516-SMT-TR"
 			(at 13.97 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4940,7 +4940,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Phone_TRS_MicroJack_SJ1-2503A']"
+		(property "Footprint" "Hardware Components Footprints:Phone_TRS_MicroJack_SJ1-2503A"
 			(at 15.24 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5209,7 +5209,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Phone_TRS_MiniJack_SJ1-3523N']"
+		(property "Footprint" "Hardware Components Footprints:Phone_TRS_MiniJack_SJ1-3523N"
 			(at 15.24 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5445,7 +5445,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['USB-C_CUI_UJC-HP-3-SMT-TR']"
+		(property "Footprint" "Hardware Components Footprints:USB-C_Receptacle_CUI_UJC-HP-3-SMT-TR"
 			(at 30.48 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)

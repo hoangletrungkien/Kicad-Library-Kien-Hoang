@@ -33,7 +33,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Kria-K24']"
+		(property "Footprint" "Hardware Components Footprints:XILINX-KRIA-K24"
 			(at 25.4 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -179,7 +179,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Kria-K26']"
+		(property "Footprint" "Hardware Components Footprints:XILINX-KRIA-K26"
 			(at 25.4 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -325,7 +325,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['XC7A100T-1CSG324C']"
+		(property "Footprint" "Hardware Components Footprints:BGA-324_15x15mm_Layout18x18_P0.8mm_CSG324"
 			(at 74.93 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6451,7 +6451,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['XC7A100T-FGG484']"
+		(property "Footprint" "Hardware Components Footprints:BGA-484_23x23mm_Layout22x22_P1mm_FGG484"
 			(at 76.2 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15588,7 +15588,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['XC7A200T-1SBG484C']"
+		(property "Footprint" "Hardware Components Footprints:BGA-484_19x19mm_Layout22x22_P0.8mm_FCVG484"
 			(at 19.05 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15735,7 +15735,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['XC7A35T-1CPG236C']"
+		(property "Footprint" "Hardware Components Footprints:BGA-238_10x10mm_Layout19x19_P0.5mm_CPG236"
 			(at 60.96 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20379,7 +20379,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['XC7A35T-1CSG324C']"
+		(property "Footprint" "Hardware Components Footprints:BGA-324_15x15mm_Layout18x18_P0.8mm_CSG324"
 			(at 95.25 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26529,7 +26529,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['XC7A35T-FGG484']"
+		(property "Footprint" "Hardware Components Footprints:BGA-484_23x23mm_Layout22x22_P1mm_FGG484"
 			(at 71.12 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34976,7 +34976,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['XC7K160T-FBG676']"
+		(property "Footprint" "Hardware Components Footprints:BGA-676_27x27mm_Layout26x26_P1x1mm_FBG676"
 			(at 86.36 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47674,7 +47674,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['XC7K160T-FFG676']"
+		(property "Footprint" "Hardware Components Footprints:BGA-676_27x27mm_Layout26x26_P1x1mm_FFG676"
 			(at 86.36 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -60372,7 +60372,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['XC7K410T-2FFG900I']"
+		(property "Footprint" "Hardware Components Footprints:BGA-900_31x31mm_Layout30x30_P1x1mm_FFG900"
 			(at 82.55 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -77263,7 +77263,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['XC7K70T-FBG484']"
+		(property "Footprint" "Hardware Components Footprints:BGA-484_23x23mm_Layout22x22_P1mm_FBG484"
 			(at 78.74 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -86408,7 +86408,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['XC7Z030-1FFG676I']"
+		(property "Footprint" "Hardware Components Footprints:BGA-676_27x27mm_Layout26x26_P1x1mm_FFG676"
 			(at 68.58 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -99154,7 +99154,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['XCAU25P-2FFVB676I']"
+		(property "Footprint" "Hardware Components Footprints:BGA-676_27x27mm_Layout26x26_P1x1mm_FFVB676"
 			(at 63.5 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -112388,7 +112388,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['XCVM2202-NSVH1369']"
+		(property "Footprint" "Hardware Components Footprints:BGA-1369_35x35mm_Layout37x37_P0.92mm_NSVH1369"
 			(at 58.42 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -138144,7 +138144,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['XCVP1202-2MSEVSVA2785']"
+		(property "Footprint" "Hardware Components Footprints:BGA-2809-2736_50x50mm_Layout53x53_P0.92mm_AMD-Xilinx_VSVA2785-VP1202"
 			(at 68.58 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -190499,7 +190499,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['XCVU13P-2FHGA2104E']"
+		(property "Footprint" "Hardware Components Footprints:BGA-2116-2104_52.5x52.5mm_Layout46x46_P1mm"
 			(at 54.61 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -230290,7 +230290,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['XCZU11EG-2FFVC1760I']"
+		(property "Footprint" "Hardware Components Footprints:BGA-1764-1760_42.5x42.5mm_Layout42x42_P1mm"
 			(at 24.13 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -230437,7 +230437,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['XCZU19EG-2FFVC1760I']"
+		(property "Footprint" "Hardware Components Footprints:BGA-1764-1760_42.5x42.5mm_Layout42x42_P1mm"
 			(at 24.13 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -230584,7 +230584,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['XCZU4CG-1FBVB900E']"
+		(property "Footprint" "Hardware Components Footprints:BGA-900_31x31mm_Layout30x30_P1x1mm_FFG900"
 			(at 19.05 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -230731,7 +230731,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['XCZU7EV-2FFVC1156I']"
+		(property "Footprint" "Hardware Components Footprints:BGA-1156_35x35mm_Layout34x34_P1mm"
 			(at 114.3 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)

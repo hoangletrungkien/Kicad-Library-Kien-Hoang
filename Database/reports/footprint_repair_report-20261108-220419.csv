@@ -1,0 +1,219 @@
+﻿library_file,symbol,old_value,new_value,status
+Antmicro_Abracon.kicad_sym,Resonator_template_4pin,Hardware Components Footprints:['Resonator_48MHz_ABM10W'],,SKIPPED_TEMPLATE
+Antmicro_Abracon.kicad_sym,Resonator_template_2pin,Hardware Components Footprints:['Resonator_27MHz_ABM7'],,SKIPPED_TEMPLATE
+Antmicro_Abracon.kicad_sym,Oscillator_template_6pin,Hardware Components Footprints:['Oscillator_156.25MHz_AK2LPHEF1'],,SKIPPED_TEMPLATE
+Antmicro_Abracon.kicad_sym,Oscillator_template_4pin,Hardware Components Footprints:['Oscillator_100MHz_AMJMEFB'],,SKIPPED_TEMPLATE
+Antmicro_Abracon.kicad_sym,L_template_name,Hardware Components Footprints:['L_2u2_1.2A_0603'],,SKIPPED_TEMPLATE
+Antmicro_AVX.kicad_sym,C_template_name_0402,Hardware Components Footprints:['C_180p_0402'],,SKIPPED_TEMPLATE
+Antmicro_AVX.kicad_sym,C_template_name_0603,Hardware Components Footprints:['C_33p_0603'],,SKIPPED_TEMPLATE
+Antmicro_AVX.kicad_sym,C_template_name_misc,Hardware Components Footprints:['C_22u_0805_10V'],,SKIPPED_TEMPLATE
+Antmicro_Bel_Fuse.kicad_sym,DQD50-48-S24,Hardware Components Footprints:['DQD50-48-S24'],,SKIPPED_FOOTPRINT_FILE_MISSING
+Antmicro_Bourns.kicad_sym,R_template_name_0402,Hardware Components Footprints:['R_0R01_330mW_0402'],,SKIPPED_TEMPLATE
+Antmicro_Bourns.kicad_sym,R_template_name_0603,Hardware Components Footprints:['R_0R01_0603'],,SKIPPED_TEMPLATE
+Antmicro_Bourns.kicad_sym,R_template_name_0201,Hardware Components Footprints:['R_0R_0201'],,SKIPPED_TEMPLATE
+Antmicro_Bourns.kicad_sym,R_template_name_0805,Hardware Components Footprints:['R_0R1_0805'],,SKIPPED_TEMPLATE
+Antmicro_Bourns.kicad_sym,R_template_name_1206,Hardware Components Footprints:['R_0R025_1206'],,SKIPPED_TEMPLATE
+Antmicro_Bourns.kicad_sym,R_template_name_2010,Hardware Components Footprints:['R_0R1_2010'],,SKIPPED_TEMPLATE
+Antmicro_Bourns.kicad_sym,R_template_name_2512,Hardware Components Footprints:['R_10R_2512'],,SKIPPED_TEMPLATE
+Antmicro_Bourns.kicad_sym,Choke_template_name,Hardware Components Footprints:['Choke_DR331-513AE'],,SKIPPED_TEMPLATE
+Antmicro_Bourns.kicad_sym,L_template_name,Hardware Components Footprints:['L_4u7_3A_Bourns-SRN6045'],,SKIPPED_TEMPLATE
+Antmicro_C_K.kicad_sym,SW_template_2-pin,Hardware Components Footprints:['SW_ATS2D1G_NC_LFS_SMD'],,SKIPPED_TEMPLATE
+Antmicro_C_K.kicad_sym,SW_template_4-pin,Hardware Components Footprints:['SW_KMR211NGLFS_SMD'],,SKIPPED_TEMPLATE
+Antmicro_Coilcraft.kicad_sym,L_template_name,Hardware Components Footprints:['L_6u8_1A_Coilcraft-1210POC'],,SKIPPED_TEMPLATE
+Antmicro_Diodes_Incorporated.kicad_sym,.D_template,Hardware Components Footprints:['1N4148W-7-F'],,SKIPPED_TEMPLATE
+Antmicro_Diodes_Incorporated.kicad_sym,.D_schottky_template,Hardware Components Footprints:['1N5819HW-7-F'],,SKIPPED_TEMPLATE
+Antmicro_Diodes_Incorporated.kicad_sym,.D_zener_template,Hardware Components Footprints:['BZT52C15-7-F'],,SKIPPED_TEMPLATE
+Antmicro_Diodes_Incorporated.kicad_sym,TEMPLATE_NMOS_GSD,Hardware Components Footprints:['DMG1012T-7'],,SKIPPED_TEMPLATE
+Antmicro_Diodes_Incorporated.kicad_sym,TEMPLATE_PMOS_PowerPAK_SO-8,Hardware Components Footprints:['DMP4015SPS-13'],,SKIPPED_TEMPLATE
+Antmicro_Diodes_Incorporated.kicad_sym,Oscillator_template_6pin,Hardware Components Footprints:['Oscillator_100MHz_NX324'],,SKIPPED_TEMPLATE
+Antmicro_Diodes_Incorporated.kicad_sym,.TVS_unidir_template,Hardware Components Footprints:['SMAJ58A-13-F'],,SKIPPED_TEMPLATE
+Antmicro_Diodes_Incorporated.kicad_sym,TEMPLATE_PMOS_GSD,Hardware Components Footprints:['ZXMP3A13F'],,SKIPPED_TEMPLATE
+Antmicro_ECS_Inc_International.kicad_sym,Oscillator_template_4pin,Hardware Components Footprints:['Oscillator_8MHz_ECS_1612MV'],,SKIPPED_TEMPLATE
+Antmicro_ECS_Inc_International.kicad_sym,Resonator_template_4pin,Hardware Components Footprints:['Resonator_24MHz_ECX-2236Q'],,SKIPPED_TEMPLATE
+Antmicro_ECS_Inc_International.kicad_sym,Resonator_template_2pin,Hardware Components Footprints:['Resonator_32.768kHz_ECX-1210'],,SKIPPED_TEMPLATE
+Antmicro_Infineon.kicad_sym,TEMPLATE_NMOS_DSG,Hardware Components Footprints:['IRHNPC9A7014'],,SKIPPED_TEMPLATE
+Antmicro_Infineon.kicad_sym,TEMPLATE_NMOS_GSD,Hardware Components Footprints:['IRLML2030TRPBF'],,SKIPPED_TEMPLATE
+Antmicro_Infineon.kicad_sym,TEMPLATE_NMOS_GDS,Hardware Components Footprints:['IRLML2502TRPBF'],,SKIPPED_TEMPLATE
+Antmicro_Infineon.kicad_sym,.TVS_bidir_template,Hardware Components Footprints:['SMF4L15CA'],,SKIPPED_TEMPLATE
+Antmicro_KEMET.kicad_sym,C_template_name_pol,Hardware Components Footprints:['C_Pol_1m_16V_KEMET-A770-MS-D10mm-H12.2mm'],,SKIPPED_TEMPLATE
+Antmicro_KEMET.kicad_sym,C_template_name_0402,Hardware Components Footprints:['C_1u_16V_0402'],,SKIPPED_TEMPLATE
+Antmicro_KEMET.kicad_sym,C_template_name_0603,Hardware Components Footprints:['C_1n2_0603'],,SKIPPED_TEMPLATE
+Antmicro_KEMET.kicad_sym,C_template_name_misc,Hardware Components Footprints:['C_10u_10V_X7R_0805'],,SKIPPED_TEMPLATE
+Antmicro_KEMET.kicad_sym,L_template_name,Hardware Components Footprints:['L_470n_12A_Kemet-MPX-D0520'],,SKIPPED_TEMPLATE
+Antmicro_KYOCERA_AVX.kicad_sym,C_template_name_misc,Hardware Components Footprints:['C_4n7_10V_X7R_0201'],,SKIPPED_TEMPLATE
+Antmicro_KYOCERA_AVX.kicad_sym,C_template_name_0402,Hardware Components Footprints:['C_10p_25V_0402'],,SKIPPED_TEMPLATE
+Antmicro_KYOCERA_AVX.kicad_sym,C_template_name_0603,Hardware Components Footprints:['C_1u_0603'],,SKIPPED_TEMPLATE
+Antmicro_KYOCERA_AVX.kicad_sym,C_template_name_pol,Hardware Components Footprints:['C_Pol_47u_100V_KYOCERA-AVX-APZ-D10mm-H12.5mm'],,SKIPPED_TEMPLATE
+Antmicro_KYOCERA_AVX.kicad_sym,Resonator_template_4pin,Hardware Components Footprints:['Resonator_40MHz_CS2016'],,SKIPPED_TEMPLATE
+Antmicro_KYOCERA_AVX.kicad_sym,Oscillator_template_4pin,Hardware Components Footprints:['Oscillator_100MHz_KC2016Z'],,SKIPPED_TEMPLATE
+Antmicro_Lite_On.kicad_sym,.LED_template,Hardware Components Footprints:['LED_G_0805_LTST-C170GKT'],,SKIPPED_TEMPLATE
+Antmicro_Littelfuse.kicad_sym,F_template_Current_Package,Hardware Components Footprints:['F_1A_1206'],,SKIPPED_TEMPLATE
+Antmicro_Littelfuse.kicad_sym,.TVS_bidir_template,Hardware Components Footprints:['AXGD10402KR'],,SKIPPED_TEMPLATE
+Antmicro_Littelfuse.kicad_sym,.TVS_unidir_template,Hardware Components Footprints:['SMBJ33A'],,SKIPPED_TEMPLATE
+Antmicro_Littelfuse.kicad_sym,R_template_name_0402,Hardware Components Footprints:['R_0R01_250mW_0402'],,SKIPPED_TEMPLATE
+Antmicro_Microchip_Technology.kicad_sym,Oscillator_template_6pin,Hardware Components Footprints:['Oscillator_125MHz_DSC1103DI2'],,SKIPPED_TEMPLATE
+Antmicro_Microchip_Technology.kicad_sym,MCP3464_QFN,Hardware Components Footprints:['MCP3464_QFN'],,SKIPPED_FOOTPRINT_FILE_MISSING
+Antmicro_Microchip_Technology.kicad_sym,Oscillator_template_4pin,Hardware Components Footprints:['Oscillator_100MHz_OS-68338-1157C100M00000BB'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,SW_template_4-pin,Hardware Components Footprints:['SW_SKRPABE010'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,.LED_template,Hardware Components Footprints:['LED_B_0402_BL-HB337A-AV-TRB'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,.TVS_bidir_template,Hardware Components Footprints:['STS321045B502'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,Resonator_template_2pin,Hardware Components Footprints:['Resonator_12MHz_445'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,Resonator_template_4pin,Hardware Components Footprints:['Resonator_24MHz_CTS_SA324'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,SW_template_2-pin,Hardware Components Footprints:['SW_GPTS203211B_THT'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,.TVS_unidir_template,Hardware Components Footprints:['ESD5Z5V0'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,Q_PNP_template_BCE,Hardware Components Footprints:['MMBT2907A'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,L_template_name,Hardware Components Footprints:['L_68u_0.89A_Eaton-DR73'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,C_template_name_pol,Hardware Components Footprints:['C_Pol_1F_5.5V_Eaton-KW-D21.5mm-H8.85mm'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,R_template_name_0805,Hardware Components Footprints:['R_0R001_0805'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,Oscillator_template_4pin,Hardware Components Footprints:['Oscillator_50MHz_SG3225CAN'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,Oscillator_template_6pin,Hardware Components Footprints:['Oscillator_100MHz_SG3225EAN'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,C_template_name_misc,Hardware Components Footprints:['C_10u_0805'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,C_template_name_0603,Hardware Components Footprints:['C_10p_0603'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,R_template_name_0402,Hardware Components Footprints:['R_135k_0402'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,R_template_name_0603,Hardware Components Footprints:['R_100R_0.1%_0603'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,R_template_name_1206,Hardware Components Footprints:['R_470R_1W_1206'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,Choke_template_name,Hardware Components Footprints:['Choke_CC2824E105R-10'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,Q_Bipolar_template_BCE,Hardware Components Footprints:['MMBT3904-TP'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,TEMPLATE_NMOS_GSD,Hardware Components Footprints:['PJA3404'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,TEMPLATE_PMOS_GSD,Hardware Components Footprints:['PJA3441'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,MP_SMD_template,Hardware Components Footprints:['MP_Terminal_M4_SMD_Horizontal_SMTRAM4-9-7ET'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,Spacer_template_DrillXmm_HYmm_MPN,Hardware Components Footprints:['Spacer_Drill2.5mm_H1mm_SMTSO-M1.4-1ET'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,.D_zener_template,Hardware Components Footprints:['BZT52B15SV-T'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,R_template_name_1210,Hardware Components Footprints:['R_2R_1210'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,R_template_name_0201,Hardware Components Footprints:['R_39R_0201'],,SKIPPED_TEMPLATE
+Antmicro_Misc.kicad_sym,C_template_name_0402,Hardware Components Footprints:['C_270p_50V_0402'],,SKIPPED_TEMPLATE
+Antmicro_Molex.kicad_sym,Molex_Micro-Fit_2x2_430450418,Hardware Components Footprints:['Molex_Micro-Fit_2x2_430450418'],,SKIPPED_FOOTPRINT_FILE_MISSING
+Antmicro_Monolithic_Power_Systems.kicad_sym,L_template_name,Hardware Components Footprints:['L_6u8_6.1A_MPS-MPL-AL5050'],,SKIPPED_TEMPLATE
+Antmicro_Multicomp_Pro.kicad_sym,R_template_name_0402,Hardware Components Footprints:['R_80R6_0402_EIA'],,SKIPPED_TEMPLATE
+Antmicro_Multicomp_Pro.kicad_sym,R_template_name_1206,Hardware Components Footprints:['R_0R_1206'],,SKIPPED_TEMPLATE
+Antmicro_Murata.kicad_sym,L_template_name,Hardware Components Footprints:['L_2u2_1.5A_0806'],,SKIPPED_TEMPLATE
+Antmicro_Murata.kicad_sym,FB_template_name,Hardware Components Footprints:['FB_600Z_0.3A_Murata-BLM15AG_0402'],,SKIPPED_TEMPLATE
+Antmicro_Murata.kicad_sym,Choke_template_name,Hardware Components Footprints:['Choke_DLW21SH900HQ2L'],,SKIPPED_TEMPLATE
+Antmicro_Murata.kicad_sym,C_template_name_0603,Hardware Components Footprints:['C_4u7_6.3V_X7S_0603'],,SKIPPED_TEMPLATE
+Antmicro_Murata.kicad_sym,C_template_name_0402,Hardware Components Footprints:['C_10p_0402'],,SKIPPED_TEMPLATE
+Antmicro_Murata.kicad_sym,C_template_name_misc,Hardware Components Footprints:['C_47u_10V_X7S_1210'],,SKIPPED_TEMPLATE
+Antmicro_Murata.kicad_sym,RT_NTC_template_name_0402,Hardware Components Footprints:['RT_NTC_10k_0402'],,SKIPPED_TEMPLATE
+Antmicro_Murata.kicad_sym,Resonator_template_4pin,Hardware Components Footprints:['Resonator_24MHz_XRCGB'],,SKIPPED_TEMPLATE
+Antmicro_Nexperia.kicad_sym,TEMPLATE_NMOS_GSD,Hardware Components Footprints:['NX138BKMYL'],,SKIPPED_TEMPLATE
+Antmicro_Nexperia.kicad_sym,.TVS_bidir_template,Hardware Components Footprints:['PESD18VF1BSFYL'],,SKIPPED_TEMPLATE
+Antmicro_Nexperia.kicad_sym,.TVS_unidir_template,Hardware Components Footprints:['PESD5V0X1UB'],,SKIPPED_TEMPLATE
+Antmicro_Nexperia.kicad_sym,.D_schottky_template,"Hardware Components Footprints:['PMEG2020EJ,115']",,SKIPPED_TEMPLATE
+Antmicro_Nexperia.kicad_sym,TEMPLATE_PMOS_GSD,Hardware Components Footprints:['PMV32UP'],,SKIPPED_TEMPLATE
+Antmicro_Nexperia.kicad_sym,.D_zener_template,Hardware Components Footprints:['PZU6.2B'],,SKIPPED_TEMPLATE
+Antmicro_ON_Semiconductor.kicad_sym,.D_template,Hardware Components Footprints:['1N4148WS'],,SKIPPED_TEMPLATE
+Antmicro_ON_Semiconductor.kicad_sym,TEMPLATE_NMOS_GSD,Hardware Components Footprints:['BSS138AKA'],,SKIPPED_TEMPLATE
+Antmicro_ON_Semiconductor.kicad_sym,.TVS_bidir_template,Hardware Components Footprints:['ESD5B5_0ST1G'],,SKIPPED_TEMPLATE
+Antmicro_ON_Semiconductor.kicad_sym,.TVS_unidir_template,Hardware Components Footprints:['ESD9X5.0ST5G'],,SKIPPED_TEMPLATE
+Antmicro_ON_Semiconductor.kicad_sym,.D_schottky_template,Hardware Components Footprints:['MBR0520LT1G'],,SKIPPED_TEMPLATE
+Antmicro_ON_Semiconductor.kicad_sym,.D_zener_template,Hardware Components Footprints:['MM3Z3V0C'],,SKIPPED_TEMPLATE
+Antmicro_Onsemi.kicad_sym,.D_zener_template,Hardware Components Footprints:['1SMA5917BT3G'],,SKIPPED_TEMPLATE
+Antmicro_Onsemi.kicad_sym,.TVS_unidir_template,Hardware Components Footprints:['ESD5Z12T1G'],,SKIPPED_TEMPLATE
+Antmicro_Onsemi.kicad_sym,.D_schottky_template,Hardware Components Footprints:['MBRS540T3G'],,SKIPPED_TEMPLATE
+Antmicro_Onsemi.kicad_sym,Q_Bipolar_template_BCE,Hardware Components Footprints:['MMBT3904LT1G'],,SKIPPED_TEMPLATE
+Antmicro_Panasonic.kicad_sym,C_template_name_pol,Hardware Components Footprints:['C_Pol_100u_16V_Panasonic-SVPC-C6-D6.3mm-H5.9mm'],,SKIPPED_TEMPLATE
+Antmicro_Panasonic.kicad_sym,L_template_name,Hardware Components Footprints:['L_4u7_1.2A_Panasonic_ELLVGG'],,SKIPPED_TEMPLATE
+Antmicro_Panasonic.kicad_sym,R_template_name_0402,Hardware Components Footprints:['R_15k4_0.1%_0402'],,SKIPPED_TEMPLATE
+Antmicro_Panasonic.kicad_sym,R_template_name_0805,Hardware Components Footprints:['R_200m_0805'],,SKIPPED_TEMPLATE
+Antmicro_Panasonic.kicad_sym,R_template_name_0603,Hardware Components Footprints:['R_330R_0.25W_0603'],,SKIPPED_TEMPLATE
+Antmicro_Panasonic.kicad_sym,SW_template_4-pin,Hardware Components Footprints:['SW_EVQPUA02K_SMD'],,SKIPPED_TEMPLATE
+Antmicro_Renesas.kicad_sym,Oscillator_template_6pin,Hardware Components Footprints:['Oscillator_27MHz_JU6'],,SKIPPED_TEMPLATE
+Antmicro_Samsung_Electro_Mechanics.kicad_sym,C_template_name_0402,Hardware Components Footprints:['C_100n_25V_0402'],,SKIPPED_TEMPLATE
+Antmicro_Samsung_Electro_Mechanics.kicad_sym,C_template_name_0603,Hardware Components Footprints:['C_1u_25V_0603'],,SKIPPED_TEMPLATE
+Antmicro_Samsung_Electro_Mechanics.kicad_sym,C_template_name_misc,Hardware Components Footprints:['C_22u_25V_0805'],,SKIPPED_TEMPLATE
+Antmicro_Samtec.kicad_sym,Spacer_template_DrillXmm_HYmm_MPN,Hardware Components Footprints:['Spacer_Drill4.45mm_H5.15mm_JSOM-0515-01'],,SKIPPED_TEMPLATE
+Antmicro_Semtech.kicad_sym,.TVS_bidir_template,Hardware Components Footprints:['SD05C.TCT'],,SKIPPED_TEMPLATE
+Antmicro_Semtech.kicad_sym,.TVS_unidir_template,Hardware Components Footprints:['UCLAMP2501T.TCT'],,SKIPPED_TEMPLATE
+Antmicro_Stackpole_Electronics.kicad_sym,R_template_name_0402,Hardware Components Footprints:['R_127R_0402'],,SKIPPED_TEMPLATE
+Antmicro_Stackpole_Electronics.kicad_sym,R_template_name_1206,Hardware Components Footprints:['R_220R_2W_1206'],,SKIPPED_TEMPLATE
+Antmicro_STMicroelectronics.kicad_sym,.TVS_unidir_template,Hardware Components Footprints:['ESDA25P35-1U1M'],,SKIPPED_TEMPLATE
+Antmicro_STMicroelectronics.kicad_sym,STPMIC1APQR,Hardware Components Footprints:['STPMIC1APQR'],,SKIPPED_FOOTPRINT_FILE_MISSING
+Antmicro_TDK.kicad_sym,C_template_name_misc,Hardware Components Footprints:['C_22u_1206_35V'],,SKIPPED_TEMPLATE
+Antmicro_TDK.kicad_sym,Choke_template_name,Hardware Components Footprints:['Choke_ACM9070-701-2PL-TL01'],,SKIPPED_TEMPLATE
+Antmicro_TDK.kicad_sym,C_template_name_0402,Hardware Components Footprints:['C_3u3_6.3V_0402'],,SKIPPED_TEMPLATE
+Antmicro_TDK.kicad_sym,C_template_name_0603,Hardware Components Footprints:['C_2n2_0603_50V'],,SKIPPED_TEMPLATE
+Antmicro_TDK.kicad_sym,L_template_name,Hardware Components Footprints:['L_20n_0.35A_0402'],,SKIPPED_TEMPLATE
+Antmicro_TDK.kicad_sym,FB_template_name,Hardware Components Footprints:['FB_120Z_0.6A_TDK-MMZ_0603'],,SKIPPED_TEMPLATE
+Antmicro_TE_Connectivity.kicad_sym,SW_template_4-pin,Hardware Components Footprints:['SW_1825910-6_THT'],,SKIPPED_TEMPLATE
+Antmicro_TE_Connectivity.kicad_sym,L_template_name,Hardware Components Footprints:['L_160n_0.28A_0603'],,SKIPPED_TEMPLATE
+Antmicro_TE_Connectivity.kicad_sym,R_template_name_1206,Hardware Components Footprints:['R_0R255_1206'],,SKIPPED_TEMPLATE
+Antmicro_Texas_Instruments.kicad_sym,CD74HC4067M96,Hardware Components Footprints:['CD74HC4067M96'],,SKIPPED_FOOTPRINT_FILE_MISSING
+Antmicro_Texas_Instruments.kicad_sym,INA745AIRELR,Hardware Components Footprints:['INA745AIRELR'],,SKIPPED_FOOTPRINT_FILE_MISSING
+Antmicro_Texas_Instruments.kicad_sym,.TVS_bidir_template,Hardware Components Footprints:['TPD1E0B04_XDFN-2'],,SKIPPED_TEMPLATE
+Antmicro_Vishay.kicad_sym,C_template_name_pol,Hardware Components Footprints:['C_Pol_47u_6.3V_Vishay-293D-B'],,SKIPPED_TEMPLATE
+Antmicro_Vishay.kicad_sym,.D_schottky_template,Hardware Components Footprints:['B360A-M3'],,SKIPPED_TEMPLATE
+Antmicro_Vishay.kicad_sym,R_template_name_0201,Hardware Components Footprints:['R_10k_0201'],,SKIPPED_TEMPLATE
+Antmicro_Vishay.kicad_sym,R_template_name_0402,Hardware Components Footprints:['R_0R_3A_0402'],,SKIPPED_TEMPLATE
+Antmicro_Vishay.kicad_sym,R_template_name_0805,Hardware Components Footprints:['R_0R_0805'],,SKIPPED_TEMPLATE
+Antmicro_Vishay.kicad_sym,R_template_name_2010,Hardware Components Footprints:['R_0R_2010'],,SKIPPED_TEMPLATE
+Antmicro_Vishay.kicad_sym,R_template_name_2512,Hardware Components Footprints:['R_2k2_2512'],,SKIPPED_TEMPLATE
+Antmicro_Vishay.kicad_sym,L_template_name,Hardware Components Footprints:['L_2u2_3.1A_Vishay-IFSC-1515AH-01'],,SKIPPED_TEMPLATE
+Antmicro_Vishay.kicad_sym,.TVS_unidir_template,Hardware Components Footprints:['MSMP20A-M3_89A'],,SKIPPED_TEMPLATE
+Antmicro_Vishay.kicad_sym,R_template_name_1206,Hardware Components Footprints:['R_68m_1206'],,SKIPPED_TEMPLATE
+Antmicro_Vishay.kicad_sym,R_template_name_1210,Hardware Components Footprints:['R_0R75_1210'],,SKIPPED_TEMPLATE
+Antmicro_Vishay.kicad_sym,TEMPLATE_PMOS_PowerPAK_SO-8,Hardware Components Footprints:['SI7155DP-T1-GE3'],,SKIPPED_TEMPLATE
+Antmicro_Vishay.kicad_sym,TEMPLATE_PMOS_PowerPAK1212,Hardware Components Footprints:['SI7613DN-T1-GE3'],,SKIPPED_TEMPLATE
+Antmicro_Vishay.kicad_sym,TEMPLATE_NMOS_PowerPAK_SO-8,Hardware Components Footprints:['SIR104LDP-T1-RE3'],,SKIPPED_TEMPLATE
+Antmicro_Vishay.kicad_sym,TEMPLATE_NMOS_PowerPAK1212,Hardware Components Footprints:['SIS862DN-T1-GE3'],,SKIPPED_TEMPLATE
+Antmicro_Vishay.kicad_sym,.LED_template,Hardware Components Footprints:['LED_B_0402_VLMB1500-GS08'],,SKIPPED_TEMPLATE
+Antmicro_Walsin.kicad_sym,C_template_name_0402,Hardware Components Footprints:['C_1n8_0402'],,SKIPPED_TEMPLATE
+Antmicro_Walsin.kicad_sym,C_template_name_misc,Hardware Components Footprints:['C_100n_6V3_0402'],,SKIPPED_TEMPLATE
+Antmicro_Walsin.kicad_sym,C_template_name_0603,Hardware Components Footprints:['C_1n8_0603'],,SKIPPED_TEMPLATE
+Antmicro_Wurth_Elektronik.kicad_sym,SW_template_2-pin,Hardware Components Footprints:['SW_434113050826_SMD'],,SKIPPED_TEMPLATE
+Antmicro_Wurth_Elektronik.kicad_sym,FB_template_name,Hardware Components Footprints:['FB_240Z_0.2A_WE-TMSB_0201'],,SKIPPED_TEMPLATE
+Antmicro_Wurth_Elektronik.kicad_sym,L_template_name,Hardware Components Footprints:['L_33u_0.42A_WE-TPC-3816'],,SKIPPED_TEMPLATE
+Antmicro_Wurth_Elektronik.kicad_sym,Choke_template_name,Hardware Components Footprints:['Choke_744235900'],,SKIPPED_TEMPLATE
+Antmicro_Wurth_Elektronik.kicad_sym,Spacer_template_DrillXmm_HYmm_MPN,Hardware Components Footprints:['Spacer_Drill1.2mm_H7mm_7466103'],,SKIPPED_TEMPLATE
+Antmicro_Wurth_Elektronik.kicad_sym,Oscillator_template_4pin,Hardware Components Footprints:['Oscillator_32.768kHz_SPXO'],,SKIPPED_TEMPLATE
+Antmicro_Wurth_Elektronik.kicad_sym,C_template_name_pol,Hardware Components Footprints:['C_Pol_47u_35V_Wurth-Elektronik-WCAP-ASLI-D6.3mm-H5.5mm'],,SKIPPED_TEMPLATE
+Antmicro_Wurth_Elektronik.kicad_sym,C_template_name_0402,Hardware Components Footprints:['C_1n0_0402'],,SKIPPED_TEMPLATE
+Antmicro_YAGEO.kicad_sym,C_template_name_0402,Hardware Components Footprints:['C_2p_0402'],,SKIPPED_TEMPLATE
+Antmicro_YAGEO.kicad_sym,R_template_name_0402,Hardware Components Footprints:['R_2k43_0402'],,SKIPPED_TEMPLATE
+Antmicro_YAGEO.kicad_sym,R_template_name_0603,Hardware Components Footprints:['R_60R4_0.2W_0603'],,SKIPPED_TEMPLATE
+Antmicro_YAGEO.kicad_sym,R_template_name_1206,Hardware Components Footprints:['R_0R008_1206'],,SKIPPED_TEMPLATE
+Antmicro_YAGEO.kicad_sym,C_template_name_misc,Hardware Components Footprints:['C_1u_0201_6.3V'],,SKIPPED_TEMPLATE
+Antmicro_YAGEO.kicad_sym,C_template_name_0603,Hardware Components Footprints:['C_1p_0603'],,SKIPPED_TEMPLATE
+Antmicro_YAGEO.kicad_sym,R_template_name_0805,Hardware Components Footprints:['R_0R002_0805'],,SKIPPED_TEMPLATE
+Antmicro_YAGEO.kicad_sym,R_template_name_0201,Hardware Components Footprints:['R_5k1_0201'],,SKIPPED_TEMPLATE
+Antmicro_YAGEO.kicad_sym,.TVS_unidir_template,Hardware Components Footprints:['SMAJ6.5A'],,SKIPPED_TEMPLATE
+Analog Devices.kicad_sym,MAX1811ESA+,,,SKIPPED_EMPTY
+Analog Devices.kicad_sym,MAX32664-I2C-WLP,,,SKIPPED_EMPTY
+Analog Devices.kicad_sym,MAX86161,AnalogDevices:MAX8616,,SKIPPED_LIBRARY_NOT_FOUND
+Apem.kicad_sym,MU,,,SKIPPED_EMPTY
+Connector SODIMM.kicad_sym,Conn_02x130_Odd_Even,,,SKIPPED_EMPTY
+E-Switch.kicad_sym,JS1400,JS1400,,SKIPPED_NO_LIBRARY
+Espressif.kicad_sym,ESP32,,,SKIPPED_EMPTY
+Fanstel.kicad_sym,BC15C,Fanstel:BC15C,,SKIPPED_LIBRARY_NOT_FOUND
+Fanstel.kicad_sym,BT40,,,SKIPPED_EMPTY
+Logic.kicad_sym,74AHC273,,,SKIPPED_EMPTY
+Logic.kicad_sym,74HC138,,,SKIPPED_EMPTY
+Logic.kicad_sym,74HC148,,,SKIPPED_EMPTY
+Logic.kicad_sym,74AHCT273,,,SKIPPED_EMPTY
+Logic.kicad_sym,74HC273,,,SKIPPED_EMPTY
+Logic.kicad_sym,74HCT273,,,SKIPPED_EMPTY
+Maxim.kicad_sym,MAX6775,,,SKIPPED_EMPTY
+MaxLinear.kicad_sym,SP490ECN-L_TR,SOIC127P600X175-8N,,SKIPPED_NO_LIBRARY
+Mechanical.kicad_sym,Light_Pipe,,,SKIPPED_EMPTY
+Microchip.kicad_sym,ATF16V8B,https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0364-PLD-ATF16V8B-8BQ-8BQL-Datasheet.pdf,,SKIPPED_LIBRARY_NOT_FOUND
+Misc.kicad_sym,Jumper,,,SKIPPED_EMPTY
+Misc.kicad_sym,Module,,,SKIPPED_EMPTY
+Misc.kicad_sym,Screw,,,SKIPPED_EMPTY
+Nordic.kicad_sym,nRF52832-CIXX,,,SKIPPED_EMPTY
+NXP.kicad_sym,NX3DV42,,,SKIPPED_EMPTY
+RECOM.kicad_sym,RAC05-05SK,RAC05-05SK_277_W:CONV_RAC05-05SK_277_W,,SKIPPED_LIBRARY_NOT_FOUND
+Renesas.kicad_sym,AT25SL128A,,,SKIPPED_EMPTY
+Rohm.kicad_sym,KXTJ3-1057,,,SKIPPED_EMPTY
+Seven Segment.kicad_sym,Single_CommonCathode_15,,,SKIPPED_EMPTY
+Seven Segment.kicad_sym,Single_CommonCathode_38,,,SKIPPED_EMPTY
+Snubber.kicad_sym,RC,,,SKIPPED_EMPTY
+ST.kicad_sym,LIS2MDLTR,,,SKIPPED_EMPTY
+ST.kicad_sym,M24C04-FMH6TG,Package_DFN_Kampi:DFN5,,SKIPPED_LIBRARY_NOT_FOUND
+ST.kicad_sym,STM32F072CBT6,,,SKIPPED_EMPTY
+TDK.kicad_sym,ICT-153x,Package_BGA_Kampi:WLP-4_0.83x0.83mm_P0.4mm,,SKIPPED_LIBRARY_NOT_FOUND
+Texas Instruments.kicad_sym,BQ51003,,,SKIPPED_EMPTY
+Texas Instruments.kicad_sym,TPS61023DRLT,,,SKIPPED_EMPTY
+Texas Instruments.kicad_sym,TPS61240-BGA,,,SKIPPED_EMPTY
+Texas Instruments.kicad_sym,TS3USB221A,,,SKIPPED_EMPTY
+Texas Instruments.kicad_sym,TXU0202,,,SKIPPED_EMPTY
+Vishay.kicad_sym,TSOP38238,,,SKIPPED_EMPTY
+Wuerth.kicad_sym,ConBarrel,Wuerth:BarrelJack_Wuerth_6941xx301002,,SKIPPED_LIBRARY_NOT_FOUND
+Wuerth.kicad_sym,Jack-DC,Wuerth:BarrelJack_Wuerth_6941xx301002,,SKIPPED_LIBRARY_NOT_FOUND

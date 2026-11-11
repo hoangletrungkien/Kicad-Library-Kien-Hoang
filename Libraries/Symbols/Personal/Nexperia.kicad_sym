@@ -1308,7 +1308,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SOT_SMD_Kampi:SOT-1220"
+		(property "Footprint" "PERSONAL_Package_SOT_SMD:SOT-1220"
 			(at 5.08 2.54 0)
 			(effects
 				(font
@@ -1961,7 +1961,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_Kampi:DFN-1006-3"
+		(property "Footprint" "PERSONAL_Package_DFN:DFN-1006-3"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2259,7 +2259,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SOT_SMD:SOT-883"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-883"
 			(at -15.24 0 0)
 			(effects
 				(font
@@ -2556,7 +2556,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_DFN_Kampi:DFN-1006-3"
+		(property "Footprint" "PERSONAL_Package_DFN:DFN-1006-3"
 			(at -12.7 0 0)
 			(effects
 				(font

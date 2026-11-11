@@ -645,7 +645,7 @@
 		(uuid "fe4035be-cbcf-409c-b366-789e98e62f9d")
 	)
 	(embedded_fonts no)
-	(model ""
+	(model "${KICAD10_3DMODEL_DIR}/Package_SON.3dshapes/WSON-10-1EP_4x4mm_P0.8mm_EP2.6x3mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

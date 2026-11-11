@@ -14428,7 +14428,7 @@
 		(uuid "e83fb67d-f8b6-42ae-8459-1d43860764b5")
 	)
 	(embedded_fonts no)
-	(model ""
+	(model "${KICAD10_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-80_12x12mm_P0.5mm.step"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -277,15 +277,4 @@
 		(uuid "a4a7ea99-cfa6-4ed5-8b88-9a9c41453d08")
 	)
 	(embedded_fonts no)
-	(model "${KICAD_LIBRARY}/3D/Packages/WLCSP-16_1.6x1.6_0.35mm.stp"
-		(offset
-			(xyz 0 0 0)
-		)
-		(scale
-			(xyz 1 1 1)
-		)
-		(rotate
-			(xyz 0 0 90)
-		)
-	)
 )

@@ -36,7 +36,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Conn_BNC_031-70526-21']"
+		(property "Footprint" "Hardware Components Footprints:Conn_BNC_031-70526-21"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -277,7 +277,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PCIe_x16_10018783-10113TLF']"
+		(property "Footprint" "Hardware Components Footprints:PCIe_x16_10018783-10113TLF"
 			(at 36.83 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3388,7 +3388,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PCIe_x16_10025026-10103TLF']"
+		(property "Footprint" "Hardware Components Footprints:PCIe_x16_10025026-10103TLF"
 			(at 48.26 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6600,7 +6600,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Amphenol_SATA_1x22_10034814-001LF']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Amphenol_SATA_1x22_10034814-001LF"
 			(at 33.02 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7155,7 +7155,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SD_10067847-001RLF']"
+		(property "Footprint" "Hardware Components Footprints:SD_10067847-001RLF"
 			(at 33.02 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7536,7 +7536,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MicroSD_Amphenol_101-00660-68-6']"
+		(property "Footprint" "Hardware Components Footprints:MicroSD_Amphenol_101-00660-68-6"
 			(at 38.1 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7875,7 +7875,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Amphenol_HPCE_2x17_10107844-002LF']"
+		(property "Footprint" "Hardware Components Footprints:Socket_Amphenol_HPCE_2x17_10107844-002LF"
 			(at 50.8 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8807,7 +8807,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Amphenol_HPCE_2x17_10114587-001LF']"
+		(property "Footprint" "Hardware Components Footprints:Socket_Amphenol_HPCE_2x17_10114587-001LF"
 			(at 55.88 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9740,7 +9740,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['USB-Micro-B_Amphenol_10118192-0001LF']"
+		(property "Footprint" "Hardware Components Footprints:USB-Micro-B_Receptacle_Amphenol_10118192"
 			(at 33.02 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10148,7 +10148,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['USB-Micro-B_Amphenol_10118194-0001LF']"
+		(property "Footprint" "Hardware Components Footprints:USB-Micro-B_Receptacle_Amphenol_10118194"
 			(at 33.02 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10556,7 +10556,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_M.2_10128796-004RLF']"
+		(property "Footprint" "Hardware Components Footprints:Bus_M.2_Socket_Key_B_Amphenol_10128796-004RLF"
 			(at 45.72 -4.572 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11874,7 +11874,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x6_P2.54mm_Drill1.1mm_Horizontal']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x6_P2.54mm_Drill1.1mm_Horizontal"
 			(at 24.13 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12369,7 +12369,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_M.2_10131758-004RLF']"
+		(property "Footprint" "Hardware Components Footprints:Bus_M.2_Socket_Key_M_Amphenol_10131758-005RLF"
 			(at 45.72 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13807,7 +13807,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_M.2_10131758-005RLF']"
+		(property "Footprint" "Hardware Components Footprints:Bus_M.2_Socket_Key_M_Amphenol_10131758-005RLF"
 			(at 45.72 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15245,7 +15245,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Amphenol_Minitek_1x2_10136654-0211LF']"
+		(property "Footprint" "Hardware Components Footprints:Amphenol_Minitek_1x2_10136654-0211LF"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15449,7 +15449,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PCIe_x16_10146070-113Y0LF-vertical']"
+		(property "Footprint" "Hardware Components Footprints:AMPHENOL_10146070-113Y0LF"
 			(at 35.56 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18635,7 +18635,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PCIe_x16_10151422-0222120LF']"
+		(property "Footprint" "Hardware Components Footprints:PCIe_x16_10151422-0222120LF"
 			(at 36.83 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21745,7 +21745,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_DDR5_SODIMM_Amphenol_10161033-002RHLF']"
+		(property "Footprint" "Hardware Components Footprints:Bus_DDR5_SODIMM_Amphenol_10161033-002RHLF"
 			(at 50.8 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26916,7 +26916,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MicroSD_1140084168']"
+		(property "Footprint" "Hardware Components Footprints:MicroSD_Amphenol_1140084168"
 			(at 38.1 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27272,7 +27272,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['USB-C_Amphenol_12401598E4']"
+		(property "Footprint" "Hardware Components Footprints:USB-C_Receptacle_Amphenol_12401598E4"
 			(at 33.02 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28056,7 +28056,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x4_P1.27mm_SMD']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x4_P1.27mm_SMD"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28437,7 +28437,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Conn_FAKRA_2FAI-NZSP-PCBB6']"
+		(property "Footprint" "Hardware Components Footprints:Conn_FAKRA_2FAI-NXSP-PCBB6"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28735,7 +28735,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Conn_M12_43-01209']"
+		(property "Footprint" "Hardware Components Footprints:Conn_M12_43-01209"
 			(at 20.32 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29026,7 +29026,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Conn_M12_43-02740']"
+		(property "Footprint" "Hardware Components Footprints:Conn_M12_43-02740"
 			(at 19.05 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29433,7 +29433,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinSocket_2x10_P2mm_SMD_55510-120LF']"
+		(property "Footprint" "Hardware Components Footprints:PinSocket_2x10_P2mm_SMD"
 			(at 27.94 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29939,7 +29939,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FFC_Amphenol_1x40_62684-401100AHLF']"
+		(property "Footprint" "Hardware Components Footprints:Conn_FFC_Amphenol_1x40_62684-401100AHLF"
 			(at 21.59 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -30823,7 +30823,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FFC_Amphenol_1x40_62684-402100AHLF']"
+		(property "Footprint" "Hardware Components Footprints:Conn_FFC_Amphenol_1x40_62684-402100AHLF"
 			(at 21.59 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -31710,7 +31710,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x17_P2.54mm_SMD_Shrouded']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x17_P2.54mm_SMD_Shrouded"
 			(at 30.48 -16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -32864,7 +32864,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x26_P2.54mm_Drill1.1mm']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x26_P2.54mm_Drill1.1mm"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -34618,7 +34618,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_DDR5_DDR504111002KQ']"
+		(property "Footprint" "Hardware Components Footprints:Bus_DDR5_Socket_Amphenol_DDR504111002KQ"
 			(at 45.72 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40163,7 +40163,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FFC_Amphenol_1x24_F31W-1A7H1-11024']"
+		(property "Footprint" "Hardware Components Footprints:Conn_FFC_Amphenol_1x24_F31W-1A7H1-11024"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41034,7 +41034,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['F52R-1A7H1-11020']"
+		(property "Footprint" "Hardware Components Footprints:F52R-1A7H1-11020"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41588,7 +41588,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['OCuLink_x4_Amphenol_G14A421211112HR']"
+		(property "Footprint" "Hardware Components Footprints:Amphenol_G14A421211112HR"
 			(at 39.37 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42522,7 +42522,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['OCuLink_x4_Amphenol_G14A422216121HR']"
+		(property "Footprint" "Hardware Components Footprints:Amphenol_G14A422216121HR"
 			(at 39.37 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43456,7 +43456,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PCIe_x8_Amphenol_G630H9812248EU']"
+		(property "Footprint" "Hardware Components Footprints:PCIe_x8_Amphenol_G630H9812248EU"
 			(at 48.26 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45435,7 +45435,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_1x4_P2mm_Drill0.85mm']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_1x4_P2mm_Drill0.85mm"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45698,7 +45698,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['USB-A_Amphenol_GSB3112311HR']"
+		(property "Footprint" "Hardware Components Footprints:USB-A_Receptacle_Amphenol_GSB3112311HR"
 			(at 15.24 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46436,7 +46436,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['USB-A_Plug_Amphenol_GSB316441CEU_Vertical']"
+		(property "Footprint" "Hardware Components Footprints:USB-A_Plug_Amphenol_GSB316441CEU_Vertical"
 			(at 16.51 -17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46884,7 +46884,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['USB-A_Amphenol_GSB4112312HR']"
+		(property "Footprint" "Hardware Components Footprints:USB-A_Amphenol_GSB4112312HR"
 			(at 27.94 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47488,7 +47488,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Amphenol_M12A-05PFFP-SF8001']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Amphenol_M12A-05PFFP-SF8001"
 			(at 20.32 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47779,7 +47779,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Amphenol_M12A-12PFFP-SF8001']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Amphenol_M12A-12PFFP-SF8001"
 			(at 20.32 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48273,7 +48273,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_M.2_MDT180M03001']"
+		(property "Footprint" "Hardware Components Footprints:Bus_M.2_Socket_Key_M_Amphenol_MDT180M03001"
 			(at 45.72 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -49693,7 +49693,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_M.2_MDT420M01003']"
+		(property "Footprint" "Hardware Components Footprints:Bus_M.2_Socket_Key_M_Amphenol_MDT420M01003"
 			(at 53.34 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51132,7 +51132,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_M.2_MDT580M01001']"
+		(property "Footprint" "Hardware Components Footprints:Bus_M.2_Socket_Key_M_Amphenol_MDT580M01001"
 			(at 52.07 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -52571,7 +52571,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Amphenol_ME1016813401101']"
+		(property "Footprint" "Hardware Components Footprints:Socket_Amphenol_ME1016813401101"
 			(at 75.946 -9.906 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55909,7 +55909,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Amphenol_RJE361882415']"
+		(property "Footprint" "Hardware Components Footprints:RJ45_RJE361882415"
 			(at 39.37 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57030,7 +57030,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['RJ45_HDMI_Amphenol_RJE36188244H']"
+		(property "Footprint" "Hardware Components Footprints:RJ45_HDMI_RJE36188244H_Horizontal"
 			(at 39.116 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -58012,7 +58012,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Amphenol_RJE361883343']"
+		(property "Footprint" "Hardware Components Footprints:RJ45_RJE361883343"
 			(at 39.37 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -58745,7 +58745,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Amphenol_SFP28_Cage_U773GC16382071']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Amphenol_SFP28_Cage_U773GC16382071"
 			(at 15.24 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -58920,7 +58920,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Amphenol_QSFP+_Cage_U90A1011001']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Amphenol_QSFP+_Cage_U90A1011001"
 			(at 12.7 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -59095,7 +59095,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['USB-A_Amphenol_UE27AC54100']"
+		(property "Footprint" "Hardware Components Footprints:USB-A_Receptacle_Amphenol_UE27AC54100"
 			(at 15.24 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -59434,7 +59434,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Amphenol_SFP28_1x20_UE763GA202600T']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Amphenol_SFP28_1x20_UE763GA202600T"
 			(at 38.1 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)

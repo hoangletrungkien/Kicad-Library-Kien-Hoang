@@ -300,7 +300,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SON_Kampi:WSON-10-1EP_2.0x2.0mm_P0.4mm_EP0.9x1.5mm"
+		(property "Footprint" "PERSONAL_Package_SON:WSON-10-1EP_2.0x2.0mm_P0.4mm_EP0.9x1.5mm"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1960,7 +1960,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Package_BGA_Kampi:DSBGA-28_1.9x3.0mm_4x7_P0.4mm"
+		(property "Footprint" "PERSONAL_Package_BGA:DSBGA-28_1.9x3.0mm_4x7_P0.4mm"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3847,7 +3847,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TexasInstruments:PICOSTAR-3"
+		(property "Footprint" "PERSONAL_Texas Instruments:PICOSTAR-3"
 			(at -6.35 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4150,7 +4150,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TexasInstruments:PICOSTAR-3"
+		(property "Footprint" "PERSONAL_Texas Instruments:PICOSTAR-3"
 			(at -6.35 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5416,7 +5416,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_QFN:WQFN-10_2x2mm_P0.5mm"
+		(property "Footprint" "PERSONAL_Package_QFN:WQFN-10_2x2mm_P0.5mm"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6121,7 +6121,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SON_Kampi:VSON-14-1EP_5x6mm_P0.8mm_EP3.2x5mm"
+		(property "Footprint" "PERSONAL_Package_SON:VSON-14-1EP_5x6mm_P0.8mm_EP3.2x5mm"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6857,7 +6857,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_QFN:RPH0016A"
+		(property "Footprint" "PERSONAL_Package_QFN:RPH0016A"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7247,7 +7247,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SOT_SMD:SOT-5X3-8"
+		(property "Footprint" "PERSONAL_Package_SOT_SMD:SOT-5X3-8"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8006,7 +8006,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Package_QFN:WQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm"
+		(property "Footprint" "PERSONAL_Package_QFN:WQFN-16-1EP_4x4mm_P0.65mm_EP2.7x2.7mm"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10088,7 +10088,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Texas Instruments:RUX0012A"
+		(property "Footprint" "PERSONAL_Texas Instruments:RUX0012A"
 			(at 24.13 -87.3 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10382,7 +10382,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm_ThermalVias"
+		(property "Footprint" "Package_SON:Texas_DSG0008A_WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm_ThermalVias"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10633,7 +10633,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_QFN_Kampi:VQFN-HR-20"
+		(property "Footprint" "PERSONAL_Package_QFN:VQFN-HR-20"
 			(at 26.67 -84.76 0)
 			(show_name no)
 			(do_not_autoplace no)

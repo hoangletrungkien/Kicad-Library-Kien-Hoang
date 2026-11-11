@@ -654,7 +654,7 @@
 		(uuid "e2ecc642-82b9-4bf7-b469-472802065b25")
 	)
 	(embedded_fonts no)
-	(model ""
+	(model "${KICAD_LIBRARY}/3D/Vishay/VEML7700.stp"
 		(offset
 			(xyz -0.005 0.071 0.85)
 		)

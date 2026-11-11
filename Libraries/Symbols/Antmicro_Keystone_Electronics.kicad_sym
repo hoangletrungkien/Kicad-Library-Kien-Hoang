@@ -36,7 +36,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Battery_Holder_2994']"
+		(property "Footprint" "Hardware Components Footprints:Battery_Holder_2994"
 			(at 17.78 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -259,7 +259,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Battery_Holder_2998TR']"
+		(property "Footprint" "Hardware Components Footprints:Battery_Holder_2998TR"
 			(at 11.43 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -529,7 +529,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['F_30A_3557-10']"
+		(property "Footprint" "Hardware Components Footprints:F_3557-10"
 			(at 35.56 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -892,7 +892,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['TP_2.54mm_THT_5000']"
+		(property "Footprint" "Hardware Components Footprints:TP_2.54mm_THT_Keystone_500x"
 			(at 15.24 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1057,7 +1057,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['TP_2.54mm_THT_5001']"
+		(property "Footprint" "Hardware Components Footprints:TP_2.54mm_THT_Keystone_500x"
 			(at 8.89 -15.24 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1218,7 +1218,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['TP_2.54mm_THT_5002']"
+		(property "Footprint" "Hardware Components Footprints:TP_2.54mm_THT_Keystone_500x"
 			(at 15.24 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1385,7 +1385,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['TP_2.54mm_THT_5011']"
+		(property "Footprint" "Hardware Components Footprints:TP_3.17mm_THT_5011"
 			(at 15.24 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1552,7 +1552,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['TP_1004_SMD_5015']"
+		(property "Footprint" "Hardware Components Footprints:TP_1004_SMD_5015"
 			(at 15.24 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1719,7 +1719,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['TP_1813_SMD_5016']"
+		(property "Footprint" "Hardware Components Footprints:TP_1813_SMD_5016"
 			(at 15.24 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1886,7 +1886,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['TP_1508_SMD_5029']"
+		(property "Footprint" "Hardware Components Footprints:TP_1508_SMD_5029"
 			(at 15.24 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2050,7 +2050,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Banana_4.5mm_575-4']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Banana_4.5mm_575-4"
 			(at 20.32 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2226,7 +2226,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MP_Terminal_M3_THT_7760']"
+		(property "Footprint" "Hardware Components Footprints:MP_Terminal_M3_THT_7760"
 			(at 22.86 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)

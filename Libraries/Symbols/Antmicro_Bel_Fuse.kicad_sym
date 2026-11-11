@@ -33,7 +33,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['0895-2C1R-GVH']"
+		(property "Footprint" "Hardware Components Footprints:0895-2C1R-GVH"
 			(at 40.64 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2404,7 +2404,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['F_5A_2920']"
+		(property "Footprint" "Hardware Components Footprints:F_2920"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2607,7 +2607,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['F_20mA_0603']"
+		(property "Footprint" "Hardware Components Footprints:F_0603_1608Metric"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2809,7 +2809,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['F_7A_1206-C1Q7']"
+		(property "Footprint" "Hardware Components Footprints:F_1206_3216Metric"
 			(at 21.59 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3005,7 +3005,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['DQD50-48-S24']"
+		(property "Footprint" ""
 			(at 35.56 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3259,7 +3259,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bus_RJ45_L829-1J1T-JM']"
+		(property "Footprint" "Hardware Components Footprints:Bus_RJ45_L829-1J1T-JM"
 			(at 41.91 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3873,7 +3873,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['L834-1G1T-S7']"
+		(property "Footprint" "Hardware Components Footprints:RJ45_BEL_L834-1G1T-S7"
 			(at 33.02 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4707,7 +4707,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['RJ45_Bel_SI-51005-F']"
+		(property "Footprint" "Hardware Components Footprints:RJ45_Bel_SI-51005-F"
 			(at 27.94 -2.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5362,7 +5362,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SS-60400-001']"
+		(property "Footprint" "Hardware Components Footprints:RJ45_Bel_SS-60400-001"
 			(at 45.72 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5897,7 +5897,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bel-Fuse_SFP+_Cage_SS-79100-001']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Bel-Fuse_SFP+_Cage_SS-79100-001"
 			(at 39.37 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6072,7 +6072,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bel-Fuse_SFP+_1x20_SS-79100-004']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Bel-Fuse_SFP+_1x20_SS-79100-004"
 			(at 39.37 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6593,7 +6593,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Bel-Fuse_SFP+_2x20_SS-79100-010']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Bel-Fuse_SFP+_2x20_SS-79100-010"
 			(at 41.91 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7529,7 +7529,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['SSQE48T07120-NABNG']"
+		(property "Footprint" "Hardware Components Footprints:SSQE48T07120-NABNG"
 			(at 44.45 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)

@@ -28,7 +28,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_BGA_Kampi:WLCSP-25_2x2mm_P0.4mm"
+		(property "Footprint" "PERSONAL_Package_BGA:WLCSP-25_2x2mm_P0.4mm"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1094,7 +1094,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_BGA:WLCSP-35_3.1x2.4mm_P0.42mm"
+		(property "Footprint" "PERSONAL_Package_BGA:WLCSP-35_3.1x2.4mm_P0.42mm"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)

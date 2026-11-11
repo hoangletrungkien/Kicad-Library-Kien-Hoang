@@ -12751,7 +12751,7 @@
 		)
 	)
 	(embedded_fonts no)
-	(model ""
+	(model "${KICAD10_3DMODEL_DIR}/Package_SO.3dshapes/MSOP-16_3x4.039mm_P0.5mm.step"
 		(offset
 			(xyz 0 0 0.5)
 		)

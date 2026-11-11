@@ -33,7 +33,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Mini-Fit-Jr_2x4_0455860005']"
+		(property "Footprint" "Hardware Components Footprints:Molex_Mini-Fit-Jr_2x4_0455860005"
 			(at 26.67 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -341,7 +341,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_KK_1x4_0470531000']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_KK_1x4_0470531000"
 			(at 20.32 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -603,7 +603,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['HDMI-A_Molex_476591100']"
+		(property "Footprint" "Hardware Components Footprints:HDMI-A_Receptacle_Molex_476591100"
 			(at 40.64 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1193,7 +1193,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_52207_1x4_0522070433']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_52207_1x4_0522070433"
 			(at 15.24 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1495,7 +1495,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_1x22_0525592253']"
+		(property "Footprint" "Hardware Components Footprints:Conn_FFC_Molex_1x22_0525592253"
 			(at 22.86 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2301,7 +2301,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_PicoBlade_1x4_0533980471']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_PicoBlade_1x4_0533980471"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2621,7 +2621,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_54104_1x50_0541045031']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_54104_1x50_0541045031"
 			(at 19.05 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4238,7 +4238,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_SL_1x4_0705430003']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_SL_1x4_705430003"
 			(at 15.24 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4503,7 +4503,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_SL_1x6_0705430005']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_SL_1x6_705430005"
 			(at 22.86 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4826,7 +4826,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Conn_Molex_SMA_0733910083']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_SMA_0733910083"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5115,7 +5115,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PCIe_x8_Molex_0755860007']"
+		(property "Footprint" "Hardware Components Footprints:PCIe_x8_Molex_0755860007"
 			(at 52.07 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6505,7 +6505,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['USB-Micro-B_Molex_1050170001']"
+		(property "Footprint" "Hardware Components Footprints:USB-Micro-B_Molex_1050170001"
 			(at 15.24 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6913,7 +6913,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Nano-Fit_1x2_105309-1202']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Nano-Fit_1x2_105309-1202"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7117,7 +7117,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Nano-Fit_1x2_105309-2202']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Nano-Fit_1x2_105309-2202"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7321,7 +7321,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Nano-Fit_2x2_105310-1204']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Nano-Fit_2x2_105310-1204"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7583,7 +7583,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Nano-Fit_2x3_1053101206']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Nano-Fit_2x3_1053101206"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7903,7 +7903,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Nano-Fit_2x2_1053121104']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Nano-Fit_2x2_1053121104"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8139,7 +8139,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Nano-Fit_1x2_105313-2202_Horizontal']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Nano-Fit_1x2_105313-2202_Horizontal"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8343,7 +8343,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Nano-Fit_1x2_1053131102']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Nano-Fit_1x2_1053131102"
 			(at 13.335 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8547,7 +8547,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Nano-Fit_1x3_1053131103']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Nano-Fit_1x3_1053131103"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8780,7 +8780,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Nano-Fit_1x6_1053131106']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Nano-Fit_1x6_1053131106"
 			(at 20.32 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9100,7 +9100,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Nano-Fit_1x2_1053131202']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Nano-Fit_1x2_105313-1202_Compliant_105309"
 			(at 13.335 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9304,7 +9304,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Nano-Fit_2x2_105314-2104_Horizontal']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Nano-Fit_2x2_105314-2104_Horizontal"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9566,7 +9566,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Nano-Fit_2x5_105405-1110']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Nano-Fit_2x5_105405-1110"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10023,7 +10023,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Nano-Fit_2x2_SMD_105429-1104_Horizontal']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Nano-Fit_2x2_SMD_105429-1104_Horizontal"
 			(at 22.86 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10256,7 +10256,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Nano-Fit_2x5_105429-1210']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Nano-Fit_2x5_105429-1210"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10710,7 +10710,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Nano-Fit_1x2_SMD_1054301202']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Nano-Fit_1x2_SMD_1054301202"
 			(at 26.67 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10943,7 +10943,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['USB-C_Molex_1054500101']"
+		(property "Footprint" "Hardware Components Footprints:USB-C_Receptacle_Molex_1054500101"
 			(at 46.99 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11727,7 +11727,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x6_P2.54mm_Drill1.14mm_Horizontal']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x6_P2.54mm_Drill1.14mm_Horizontal"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12222,7 +12222,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinSocket_2x10_P2.54mm_Drill0.9mm']"
+		(property "Footprint" "Hardware Components Footprints:PinSocket_2x10_P2.54mm_Drill0.9mm"
 			(at 25.4 -13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12948,7 +12948,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x3_P2.54mm_SMD']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x3_P2.54mm_SMD"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13268,7 +13268,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Mini-Fit_2x3_172448-0006_Horizontal']"
+		(property "Footprint" "Hardware Components Footprints:Molex_Mini-Fit_2x3_172448-0006_Horizontal"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13522,7 +13522,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Mini-Fit_2x4_172448-0008_Horizontal']"
+		(property "Footprint" "Hardware Components Footprints:Molex_Mini-Fit_2x4_172448-0008_Horizontal"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13815,7 +13815,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Pico-Clasp_1x7_Horizontal_SMD_2023960707']"
+		(property "Footprint" "Hardware Components Footprints:Molex_Pico-Clasp_1x7_Horizontal_SMD_2023960707"
 			(at 8.89 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14191,7 +14191,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Hermaphroditic_Molex_203456-0003']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Hermaphroditic_Molex_203456-0003"
 			(at 19.05 -9.652 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27051,7 +27051,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Hermaphroditic_Molex_204843-0001']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Hermaphroditic_Molex_204843-0001"
 			(at 25.654 -11.176 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -39916,7 +39916,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Pico-Lock_1x2_205338-0002']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Pico-Lock_1x2_205338-0002"
 			(at 8.89 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40149,7 +40149,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['HDMI-A_Molex_2086581001']"
+		(property "Footprint" "Hardware Components Footprints:HDMI-A_Receptacle_Molex_2086581001"
 			(at 45.72 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40739,7 +40739,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Micro-Lock_1x2_2159310270']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Micro-Lock_1x2_2159310270"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -40972,7 +40972,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_KK_1x4_22-05-3041_Horizontal']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_KK_1x4_22-05-3041_Horizontal"
 			(at 20.32 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41234,7 +41234,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_KK_1x2_22-23-2021']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_KK_1x2_22-23-2021"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41438,7 +41438,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_KK_1x3_22-23-2031']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_KK_1x3_22-23-2031"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41671,7 +41671,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_KK_1x4_22-23-2041']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_KK_1x4_22-23-2041"
 			(at 13.335 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -41933,7 +41933,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_KK_1x4_22-27-2041']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_KK_1x4_22-27-2041"
 			(at 13.335 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42195,7 +42195,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Mini-Fit-Jr_2x5_39-28-1103']"
+		(property "Footprint" "Hardware Components Footprints:MOLEX_39281103"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42532,7 +42532,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Mini-Fit-Jr_2x4_39-28-8080']"
+		(property "Footprint" "Hardware Components Footprints:MOLEX_39288080"
 			(at 26.67 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -42833,7 +42833,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Mini-Fit_2x3_39-30-1060']"
+		(property "Footprint" "Hardware Components Footprints:Molex_Mini-Fit_2x3_39-30-1060"
 			(at 30.48 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43087,7 +43087,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Mini-Fit_2x8_39-30-1161']"
+		(property "Footprint" "Hardware Components Footprints:Molex_Mini-Fit_2x8_39-30-1161"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43521,7 +43521,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Wire2Board_1x2_P3.5mm_393570002']"
+		(property "Footprint" "Hardware Components Footprints:TerminalBlock_Wire2Board_1x2_P3.5mm_393570002"
 			(at 8.89 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -43784,7 +43784,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Header_1x4_P3.5mm_395021002_Shrouded']"
+		(property "Footprint" "Hardware Components Footprints:TerminalBlock_Header_1x4_P3.5mm_395021002_Shrouded"
 			(at 8.89 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44047,7 +44047,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Micro-Fit_2x4_430450801']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Micro-Fit_2x4_430450801"
 			(at 29.21 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44337,7 +44337,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Micro-Fit_2x4_430450812']"
+		(property "Footprint" "Hardware Components Footprints:Molex_Micro-Fit_2x4_430450812"
 			(at 29.21 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44627,7 +44627,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Micro-Fit_2x6_430451201']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Micro-Fit_2x6_430451201"
 			(at 29.21 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -44989,7 +44989,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Micro-Fit_2x2_430450402']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Micro-Fit_2x2_430450402"
 			(at 29.21 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45251,7 +45251,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Micro-Fit_2x2_430450418']"
+		(property "Footprint" ""
 			(at 29.21 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -45487,7 +45487,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Micro-Fit_2x12_44428-2402_Horizontal']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Micro-Fit_2x12_444282402"
 			(at 29.21 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46065,7 +46065,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Mini-Fit_2x3_45558-0003_Horizontal']"
+		(property "Footprint" "Hardware Components Footprints:Molex_Mini-Fit_2x3_45558-0003_Horizontal"
 			(at 25.4 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46319,7 +46319,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Mini-Fit-Jr_2x3_45718-0002']"
+		(property "Footprint" "Hardware Components Footprints:Molex_Mini-Fit_2x3_45718-0002"
 			(at 26.67 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -46584,7 +46584,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['HDMI-Micro-D_Molex_467561001']"
+		(property "Footprint" "Hardware Components Footprints:HDMI-Micro-D_Receptacle_Molex_467651001"
 			(at 38.1 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47182,7 +47182,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['HDMI-A_Molex_471511001']"
+		(property "Footprint" "Hardware Components Footprints:HDMI-A_Receptacle_Molex_471511001"
 			(at 45.72 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -47772,7 +47772,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['DisplayPort_Molex_472720001']"
+		(property "Footprint" "Hardware Components Footprints:DisplayPort_Receptacle_Molex_472720001"
 			(at 40.64 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48433,7 +48433,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['USB-Micro-B_Molex_473460001']"
+		(property "Footprint" "Hardware Components Footprints:USB-Micro-B_Receptacle_Molex_473460001"
 			(at 25.4 -2.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -48841,7 +48841,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['47948-0001']"
+		(property "Footprint" "Hardware Components Footprints:47948-0001"
 			(at 25.4 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -49103,7 +49103,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PCIe_Latch_Molex_48099-5701']"
+		(property "Footprint" "Hardware Components Footprints:PCIe_Latch_Molex_48099-5701"
 			(at 15.24 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -49269,7 +49269,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['USB-A_Molex_483930001']"
+		(property "Footprint" "Hardware Components Footprints:USB-A_Receptacle_Molex_483930001"
 			(at 38.1 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -49698,7 +49698,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Molex_SlimStack_2x20_5019204001']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Molex_SlimStack_2x20_5019204001"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -50588,7 +50588,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Molex_SlimStack_2x25_5019205001']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Molex_SlimStack_2x25_5019205001"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51658,7 +51658,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Conn_FFC_Molex_5019510550']"
+		(property "Footprint" "Hardware Components Footprints:Conn_FFC_Molex_5019510550"
 			(at 22.86 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -51968,7 +51968,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['MicroSD_5025700893']"
+		(property "Footprint" "Hardware Components Footprints:MicroSD_Molex_5025700893"
 			(at 38.1 -8.89 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -52324,7 +52324,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['FFC_Molex_1x40_502790-4091']"
+		(property "Footprint" "Hardware Components Footprints:Conn_FFC_Molex_1x40_502790-4091"
 			(at 19.05 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -53211,7 +53211,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Mini-Fit_2x3_50362462']"
+		(property "Footprint" "Hardware Components Footprints:Molex_Mini-Fit_2x3_50362462"
 			(at 29.21 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -53465,7 +53465,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Molex_SlimStack_2x12_5037722410']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Molex_SlimStack_2x12_5037722410"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54088,7 +54088,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Pico-Lock_1x2_504050-0291']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Pico-Lock_1x2_504050-0291"
 			(at 8.89 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54353,7 +54353,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Pico-Lock_1x4_504050-0491']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Pico-Lock_1x4_504050-0491"
 			(at 8.89 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54647,7 +54647,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Pico-Lock_1x6_504050-0691']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Pico-Lock_1x6_504050-0691"
 			(at 8.89 -5.08 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -54996,7 +54996,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Conn_FFC_Molex_5051101097']"
+		(property "Footprint" "Hardware Components Footprints:Conn_FFC_Molex_5051101097"
 			(at 19.05 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55468,7 +55468,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['5051101992']"
+		(property "Footprint" "Hardware Components Footprints:5051101992"
 			(at 22.86 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -55956,7 +55956,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Molex_SlimStack_2x5_5055501020']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Molex_SlimStack_2x5_5055501020"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -56323,7 +56323,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Molex_SlimStack_2x15_5055503020']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Molex_SlimStack_2x15_5055503020"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57050,7 +57050,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Molex_SlimStack_2x17_5055503420']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Molex_SlimStack_2x17_5055503420"
 			(at 25.4 -7.366 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -57832,7 +57832,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Molex_SlimStack_2x20_529910408']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Molex_SlimStack_2x20_529910408"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -58721,7 +58721,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Molex_SlimStack_2x25_529910508']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Molex_SlimStack_2x25_529910508"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -59793,7 +59793,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_PicoBlade_1x04_532610471']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_PicoBlade_1x04_532610471"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -60087,7 +60087,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_PicoBlade_1x08_532610871']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_PicoBlade_1x08_532610871"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -60497,7 +60497,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_PicoBlade_1x12_532611271']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_PicoBlade_1x12_532611271"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -61023,7 +61023,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_PicoBlade_1x2_533980271']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_PicoBlade_1x2_533980271"
 			(at 20.32 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -61275,7 +61275,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Molex_SlimStack_2x20_537480408']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Molex_SlimStack_2x20_537480408"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62165,7 +62165,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Molex_SlimStack_2x15_538850308']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Molex_SlimStack_2x15_538850308"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -62875,7 +62875,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Molex_SlimStack_2x8_541020164']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Molex_SlimStack_2x8_541020164"
 			(at 26.67 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -63333,7 +63333,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Molex_SlimStack_2x15_541020304']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Molex_SlimStack_2x15_541020304"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -64043,7 +64043,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Socket_Molex_SlimStack_2x20_543630489']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Socket_Molex_SlimStack_2x20_543630489"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -64951,7 +64951,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Molex_SlimStack_2x20_556500488']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Molex_SlimStack_2x20_556500488"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -65859,7 +65859,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Plug_Molex_SlimStack_2x12_559092474']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Plug_Molex_SlimStack_2x12_559092474"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -66479,7 +66479,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PCIe_x4_Molex_67910-5700']"
+		(property "Footprint" "Hardware Components Footprints:PCIe_x4_Molex_67910-5700"
 			(at 27.94 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -67582,7 +67582,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Conn_BNC_73171-6611']"
+		(property "Footprint" "Hardware Components Footprints:Conn_BNC_73171-6611"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -67823,7 +67823,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['DVI-I_Molex_74320-9010']"
+		(property "Footprint" "Hardware Components Footprints:Conn_DVI-I_Molex_74320-9010"
 			(at 41.91 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -68879,7 +68879,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PCIe_x8_Guide_74540-0201']"
+		(property "Footprint" "Hardware Components Footprints:PCIe_x8_Guide_74540-0201"
 			(at 15.24 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -69061,7 +69061,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinSocket_2x20_P2mm_SMD_873814063']"
+		(property "Footprint" "Hardware Components Footprints:PinSocket_2x20_P2mm_SMD"
 			(at 27.94 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -69930,7 +69930,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Molex_Pico-SPOX_1x2_87437-0273']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Molex_Pico-SPOX_1x2_87437-0273"
 			(at 8.89 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -70134,7 +70134,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x20_P2mm_SMD']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x20_P2mm_SMD"
 			(at 27.94 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -71480,7 +71480,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x7_P2mm_Drill0.9mm_878311420']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x7_P2mm_Drill0.9mm_878311420"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -72032,7 +72032,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x7_P2mm_SMD_Shrouded_no-locator']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x7_P2mm_SMD_Shrouded_no-locator"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -72584,7 +72584,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x7_P2mm_SMD_878321420']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x7_P2mm_SMD_878321420"
 			(at 25.4 -7.62 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -73136,7 +73136,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['PinHeader_2x6_P2.54mm_Drill1.1mm']"
+		(property "Footprint" "Hardware Components Footprints:PinHeader_2x6_P2.54mm_Drill1.1mm"
 			(at 25.4 -11.43 0)
 			(show_name no)
 			(do_not_autoplace no)

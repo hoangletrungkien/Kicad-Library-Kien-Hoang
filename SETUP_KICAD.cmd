@@ -1,94 +1,115 @@
 ﻿@echo off
+setlocal DisableDelayedExpansion
 chcp 65001 >nul
 title KiCad Library Kien Hoang - Universal Auto Setup
 color 0B
 
+set "ROOT=%~dp0"
+set "PS1=%ROOT%Tools\powershell\setup_kicad_ecosystem.ps1"
+set "EXITCODE=1"
+
+cls
 echo.
 echo  ==============================================================
 echo     KiCad Library Kien Hoang - Universal Auto Setup
-echo     Tu dong tim KiCad - Apply thu vien truc tiep - Toi uu RAM
+echo     Safe library integration - Backup and rollback enabled
 echo  ==============================================================
 echo.
-echo  Thu muc thu vien: %~dp0
+echo  Library directory: "%ROOT%"
 echo.
 
-:: 1. Kiem tra PowerShell
-where powershell >nul 2>&1
+where powershell.exe >nul 2>&1
 if errorlevel 1 (
-    echo  [LOI] Khong tim thay PowerShell tren Windows!
+    echo  [ERROR] Windows PowerShell was not found.
+    echo  Please enable Windows PowerShell and try again.
     pause
     exit /b 1
 )
-
-:: 2. Xac dinh script PS1
-set "PS1=%~dp0Tools\powershell\setup_kicad_ecosystem.ps1"
 
 if not exist "%PS1%" (
-    echo  [LOI] Khong tim thay script: %PS1%
-    echo  Hay dam bao file SETUP_KICAD.cmd nam o thu muc goc Kicad_Library_KienHoang\
+    echo  [ERROR] Setup script not found:
+    echo  "%PS1%"
+    echo.
+    echo  Expected structure:
+    echo  KiCad_Library_KienHoang\
+    echo      SETUP_KICAD.cmd
+    echo      Tools\powershell\setup_kicad_ecosystem.ps1
     pause
     exit /b 1
 )
 
-:: 3. Canh bao tien trinh KiCad dang chay
-tasklist /FI "IMAGENAME eq kicad.exe" 2>nul | find /I /N "kicad.exe">nul
-if "%ERRORLEVEL%"=="0" (
-    echo  [CANH BAO] KiCad dang duoc mo tren may tinh!
-    echo  De KiCad khong ghi de file cau hinh, ban nen DONG KICAD truoc khi tiep tuc.
-    echo.
-)
-
-:: 4. Menu lua chon tu dong
-echo  Chon che do cai dat:
+echo  Select an action:
 echo.
-echo    [1] FULL    - Tat ca thu vien (Chinh thuc KiCad + Antmicro + Personal) [Khuyen nghi]
-echo    [2] CUSTOM  - Chi thu vien Antmicro + Personal (Khoi dong KiCad cuc nhanh)
-echo    [3] DRY RUN - Chi kiem tra, KHONG ghi thay doi
-echo    [4] Thoat
+echo    [1] FULL       - Complete library collection
+echo    [2] CUSTOM     - Additional and personal libraries
+echo    [3] DRY RUN    - Validate without changing files
+echo    [4] ROLLBACK   - Restore a previous setup backup
+echo    [5] EXIT
 echo.
-set /p "choice=  Nhap lua chon [1-4, mac dinh=1]: "
+choice /C 12345 /N /M "  Enter your choice [1-5]: "
 
-if "%choice%"==""  set "choice=1"
-if "%choice%"=="4" exit /b 0
+if errorlevel 5 goto :end
+if errorlevel 4 goto :rollback
+if errorlevel 3 goto :dryrun
+if errorlevel 2 goto :custom
+if errorlevel 1 goto :full
 
-if "%choice%"=="1" (
-    set "ARGS=-Profile FULL"
-    echo.
-    echo  [INFO] Che do: FULL profile (Apply toan bo 342 symbols + 256 footprints)
-)
-if "%choice%"=="2" (
-    set "ARGS=-Profile CUSTOM_ONLY"
-    echo.
-    echo  [INFO] Che do: CUSTOM_ONLY profile (Apply 119 symbols + 101 footprints)
-)
-if "%choice%"=="3" (
-    set "ARGS=-Profile FULL -DryRun"
-    echo.
-    echo  [INFO] Che do: DRY RUN (Kiem tra mo phong)
-)
+goto :end
 
+:full
 echo.
-echo  Dang tu dong tim KiCad, apply thu vien va toi uu RAM...
+echo  [INFO] Selected profile: FULL
+set "ARGS=-Profile FULL"
+goto :run
+
+:custom
+echo.
+echo  [INFO] Selected profile: CUSTOM_ONLY
+set "ARGS=-Profile CUSTOM_ONLY"
+goto :run
+
+:dryrun
+echo.
+echo  [INFO] Selected mode: DRY RUN
+set "ARGS=-Profile FULL -DryRun"
+goto :run
+
+:rollback
+echo.
+echo  Backups are stored under:
+echo  %LOCALAPPDATA%\KiCad Library Kien Hoang\Backups\
+echo.
+set /p "ROLLBACK_ID=  Enter backup timestamp (YYYYMMDD-HHMMSS): "
+if not defined ROLLBACK_ID (
+    echo  [ERROR] No backup timestamp was provided.
+    goto:finish
+)
+set "ARGS=-Rollback "%ROLLBACK_ID%""
+goto :run
+
+:run
+echo.
+echo  --------------------------------------------------------------
+echo  Starting KiCad Library Kien Hoang setup...
 echo  --------------------------------------------------------------
 echo.
+powershell.exe -NoLogo -NoProfile -ExecutionPolicy Bypass -File "%PS1%" %ARGS%
+set "EXITCODE=%ERRORLEVEL%"
+goto:finish
 
-powershell.exe -ExecutionPolicy Bypass -NoProfile -File "%PS1%" %ARGS%
-
-set "EXITCODE=%errorlevel%"
-
+:finish
 echo.
 echo  --------------------------------------------------------------
-if %EXITCODE%==0 (
-    echo  [THANH CONG] Toan bo quy trinh da duoc thuc hien tu dong!
-    if not "%choice%"=="3" (
-        echo.
-        echo  >>> HAY RESTART HOAC MO KICAD DE SU DUNG THU VIEN MOI NGAY! <<<
-    )
+if "%EXITCODE%"=="0" (
+    echo  [SUCCESS] Operation completed.
 ) else (
-    echo  [CANH BAO] Qua trinh ket thuc voi ma loi %EXITCODE%. Vui long kiem tra thong bao o tren.
+    echo  [WARNING] Operation ended with exit code %EXITCODE%.
+    echo  Review the messages above before using KiCad.
 )
-
+echo  --------------------------------------------------------------
 echo.
 pause
 exit /b %EXITCODE%
 
+:end
+exit /b 0

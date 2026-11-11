@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SIMCom:SIM28"
+		(property "Footprint" "PERSONAL_SIMCom:SIM28"
 			(at 0 0 0)
 			(effects
 				(font
@@ -472,7 +472,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SIMCom:SIM28ML"
+		(property "Footprint" "PERSONAL_SIMCom:SIM28ML"
 			(at 0 0 0)
 			(effects
 				(font

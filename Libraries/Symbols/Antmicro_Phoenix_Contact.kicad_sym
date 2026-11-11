@@ -33,7 +33,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['RJ45_1149611']"
+		(property "Footprint" "Hardware Components Footprints:RJ45_1149611"
 			(at 35.56 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -539,7 +539,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Wire2Board_1x3_P2.5mm_1770966']"
+		(property "Footprint" "Hardware Components Footprints:TerminalBlock_Wire2Board_1x3_P2.5mm_1770966"
 			(at 11.43 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -844,7 +844,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Phoenix_XS_1x2_1778764_Horizontal']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Phoenix_XS_1x2_1778764_Horizontal"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1077,7 +1077,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Phoenix_XS_1x2_1815264']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Phoenix_XS_1x2_1815264"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1281,7 +1281,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Phoenix_MC_1x8_1821300_Horizontal']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Phoenix_MC_1x8_1821300_Horizontal"
 			(at 20.32 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1689,7 +1689,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Phoenix_MCV_1x8_1821452_Vertical']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Phoenix_MCV_1x8_1821452_Vertical"
 			(at 20.32 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2097,7 +2097,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Phoenix_MSTBV_1x3_1830606_Vertical']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Phoenix_MCV_1x3_1830606_Vertical"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2360,7 +2360,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Phoenix_MCV_1x4_1830619_Vertical']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Phoenix_MCV_1x4_1830619_Vertical"
 			(at 20.32 -12.7 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2652,7 +2652,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Phoenix_MSTBV_1x2_1924525_Vertical']"
+		(property "Footprint" "Hardware Components Footprints:Conn_Phoenix_MSTBV_1x2_1924525_Vertical"
 			(at 20.32 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2886,7 +2886,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "Hardware Components Footprints:['Wire2Board_1x2_P5mm_1935161']"
+		(property "Footprint" "Hardware Components Footprints:TerminalBlock_Wire2Board_1x2_P5mm_1935161"
 			(at 12.065 -10.16 0)
 			(show_name no)
 			(do_not_autoplace no)

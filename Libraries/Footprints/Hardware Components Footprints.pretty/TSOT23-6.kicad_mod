@@ -1093,7 +1093,7 @@
 		(uuid "23f24374-dffa-42c0-992d-bcb5a2874397")
 	)
 	(embedded_fonts no)
-	(model ""
+	(model "${KICAD10_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TSOT-23-6.step"
 		(offset
 			(xyz -1 0.96 0)
 		)

@@ -887,7 +887,7 @@
 		(uuid "e471442d-3af3-4c70-9330-031fd6acd7a5")
 	)
 	(embedded_fonts no)
-	(model ""
+	(model "${KICAD10_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_Bourns_SRP1050WA.step"
 		(offset
 			(xyz -0 -0 0)
 		)
