@@ -2,8 +2,6 @@
 
 Thư viện KiCad tổng hợp và chuẩn hóa do **Hoàng Lê Trung Kiên** xây dựng, bao gồm Symbols, Footprints, 3D Models và cơ sở dữ liệu linh kiện.
 
-Toàn bộ thư viện được kiểm tra bằng KiCad 10, đảm bảo các symbol, footprint và liên kết mô hình 3D hoạt động chính xác.
-
 ## Nội dung thư viện
 
 | Thành phần | Số lượng |
