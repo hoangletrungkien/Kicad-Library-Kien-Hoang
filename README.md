@@ -1,60 +1,116 @@
-# KiCad Library — Kien Hoang
+KiCad Library — Kien Hoang
 
-Thư viện KiCad tổng hợp và chuẩn hóa do **Hoàng Lê Trung Kiên** xây dựng, bao gồm Symbols, Footprints, 3D Models và cơ sở dữ liệu linh kiện.
+Thư viện KiCad tổng hợp và chuẩn hóa do Hoàng Lê Trung Kiên xây dựng, cung cấp hệ sinh thái linh kiện điện tử bao gồm Symbols, Footprints, 3D Models và cơ sở dữ liệu linh kiện.
 
-## Nội dung thư viện
+1. Library Overview
 
-| Thành phần | Số lượng |
-|---|---:|
-| Symbol | 121 thư viện |
-| Footprint | 1.852 tệp |
-| 3D Models | 637 tệp STEP/WRL |
-| Linh kiện trong database | 3.573 |
-| Hãng sản xuất | 243 |
-| Cấu hình thư viện | 6 profiles |
+Thành phần
 
-## Cấu trúc chính
+Số lượng
 
-- `Official/` — Dữ liệu KiCad gốc.
-- `Libraries/` — Symbols, Footprints và 3D Models.
-- `Templates/` — Template schematic và PCB.
-- `Database/` — Cơ sở dữ liệu linh kiện CSV và SQLite.
-- `Tools/` — Công cụ cài đặt, chuẩn hóa và kiểm tra.
-- `SETUP_KICAD.cmd` — Bộ cài đặt tự động.
-- `README.md` — Hướng dẫn sử dụng.
+Symbol
 
-## Cài đặt
+121 thư viện
 
-1. Đóng KiCad.
-2. Chạy `SETUP_KICAD.cmd`.
-3. Chọn một trong các chế độ:
-   - **FULL:** Cài đặt toàn bộ thư viện.
-   - **CUSTOM:** Chỉ sử dụng thư viện tùy chỉnh.
-   - **DRY RUN:** Kiểm tra mà không thay đổi cấu hình.
-   - **ROLLBACK:** Khôi phục cấu hình trước đó.
+Footprint
 
-Công cụ tự động phát hiện phiên bản KiCad, cấu hình đường dẫn, sao lưu dữ liệu và giữ nguyên các thư viện người dùng đã cài đặt.
+1.852 tệp
 
-## Kiểm chứng
+3D Models
 
-Chạy lệnh:
+637 tệp STEP/WRL
 
-```bash
-python Tools/python/validate_library.py
-```
+Linh kiện trong Database
 
-Kết quả kiểm tra hiện tại:
+3.573
 
-```text
-symbol_parse_failures      0
-footprint_parse_failures   0
-footprint_refs             3738
-model_refs                  302
-symbol_dup_files             0
-```
+Hãng sản xuất
 
-**Mục tiêu:** Xây dựng một hệ sinh thái thư viện KiCad tập trung, nhất quán, dễ triển khai và có thể sử dụng trên nhiều máy tính.
+243
 
----
+Cấu hình thư viện
 
-**Copyright © Hoang Le Trung Kien.**
+6 profiles
+
+2. Directory Structure
+
+KiCad_Library_KienHoang/
+│
+├── Official/               # Dữ liệu KiCad gốc
+│
+├── Libraries/
+│   ├── Symbols/            # Symbol libraries
+│   ├── Footprints/         # Footprint libraries
+│   └── 3D_Models/          # STEP / WRL models
+│
+├── Templates/              # Schematic và PCB templates
+│
+├── Database/               # CSV và SQLite component database
+│
+├── Tools/
+│   ├── powershell/         # Automation và setup scripts
+│   └── python/             # Validation và library utilities
+│
+├── SETUP_KICAD.cmd         # Universal automatic installer
+│
+└── README.md               # Documentation
+
+3. Installation
+
+Requirements
+
+Windows 10/11
+
+KiCad 7.x–10.x
+
+Windows PowerShell
+
+Python (chỉ cần thiết khi sử dụng các công cụ Python)
+
+Installation procedure
+
+Đóng toàn bộ ứng dụng KiCad đang chạy.
+
+Chạy SETUP_KICAD.cmd.
+
+Chọn chế độ cài đặt phù hợp.
+
+Option
+
+Mode
+
+Description
+
+1
+
+FULL SETUP
+
+Tích hợp toàn bộ thư viện và tối ưu hiệu năng KiCad
+
+2
+
+CUSTOM SETUP
+
+Tích hợp thư viện bổ sung và thư viện cá nhân
+
+3
+
+MAINTENANCE
+
+Quản lý tối ưu hiệu năng, Dry Run và Rollback
+
+Trong chế độ MAINTENANCE, người dùng có thể lựa chọn:
+
+Optimize Only: Tối ưu RAM và hiệu năng KiCad.
+
+Dry Run: Kiểm tra cấu hình và quá trình cài đặt mà không thay đổi dữ liệu.
+
+Rollback: Khôi phục cấu hình từ bản sao lưu trước đó.
+
+4. Copyright
+
+KiCad Library — Kien Hoang
+
+Developed and maintained by Hoang Le Trung Kien.
+
+Copyright © Hoang Le Trung Kien. All rights reserved.
