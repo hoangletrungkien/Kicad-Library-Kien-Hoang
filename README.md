@@ -1,116 +1,77 @@
-KiCad Library — Kien Hoang
+# KiCad Library — Kien Hoang
 
-Thư viện KiCad tổng hợp và chuẩn hóa do Hoàng Lê Trung Kiên xây dựng, cung cấp hệ sinh thái linh kiện điện tử bao gồm Symbols, Footprints, 3D Models và cơ sở dữ liệu linh kiện.
+Thư viện KiCad tổng hợp và chuẩn hóa do **Hoàng Lê Trung Kiên** phát triển, cung cấp hệ sinh thái linh kiện điện tử bao gồm Symbols, Footprints, 3D Models và cơ sở dữ liệu linh kiện.
 
-1. Library Overview
+## Tổng quan
 
-Thành phần
+| Thành phần | Số lượng |
+|:---|---:|
+| Symbol Libraries | 121 thư viện |
+| Footprint Files | 1.852 tệp |
+| 3D Models | 637 tệp STEP/WRL |
+| Components Database | 3.573 linh kiện |
+| Manufacturers | 243 hãng |
+| Library Profiles | 6 profiles |
 
-Số lượng
+## Cấu trúc thư mục
 
-Symbol
-
-121 thư viện
-
-Footprint
-
-1.852 tệp
-
-3D Models
-
-637 tệp STEP/WRL
-
-Linh kiện trong Database
-
-3.573
-
-Hãng sản xuất
-
-243
-
-Cấu hình thư viện
-
-6 profiles
-
-2. Directory Structure
-
+```text
 KiCad_Library_KienHoang/
 │
-├── Official/               # Dữ liệu KiCad gốc
+├── Official/                       # Dữ liệu thư viện KiCad gốc
 │
 ├── Libraries/
-│   ├── Symbols/            # Symbol libraries
-│   ├── Footprints/         # Footprint libraries
-│   └── 3D_Models/          # STEP / WRL models
+│   ├── Symbols/                    # Symbol libraries
+│   ├── Footprints/                 # Footprint libraries
+│   └── 3D_Models/                  # STEP and WRL models
 │
-├── Templates/              # Schematic và PCB templates
+├── Templates/                      # Schematic and PCB templates
 │
-├── Database/               # CSV và SQLite component database
+├── Database/                       # Component database (CSV / SQLite)
 │
 ├── Tools/
-│   ├── powershell/         # Automation và setup scripts
-│   └── python/             # Validation và library utilities
+│   ├── powershell/                 # Installation and automation tools
+│   └── python/                     # Validation and library utilities
 │
-├── SETUP_KICAD.cmd         # Universal automatic installer
+├── SETUP_KICAD.cmd                 # Automated setup utility
 │
-└── README.md               # Documentation
+└── README.md                       # Project documentation
+```
 
-3. Installation
+## Yêu cầu hệ thống
 
-Requirements
+| Thành phần | Yêu cầu |
+|:---|:---|
+| Operating System | Windows 10 / 11 |
+| KiCad | Version 7.x – 10.x |
+| PowerShell | Windows PowerShell |
+| Python | Chỉ cần khi sử dụng các công cụ Python |
 
-Windows 10/11
+## Cài đặt
 
-KiCad 7.x–10.x
+### 1. Chuẩn bị
 
-Windows PowerShell
+- Giải nén thư viện vào thư mục mong muốn.
+- Đóng tất cả ứng dụng KiCad đang chạy.
+- Đảm bảo cấu trúc thư mục không bị thay đổi.
 
-Python (chỉ cần thiết khi sử dụng các công cụ Python)
+### 2. Khởi chạy
 
-Installation procedure
+Chạy tệp `SETUP_KICAD.cmd` bằng quyền người dùng thông thường.
 
-Đóng toàn bộ ứng dụng KiCad đang chạy.
+### 3. Chọn chế độ cài đặt
 
-Chạy SETUP_KICAD.cmd.
+| Lựa chọn | Chế độ | Chức năng |
+|:---:|:---|:---|
+| 1 | **FULL SETUP** | Tích hợp toàn bộ thư viện và tối ưu hiệu năng KiCad. |
+| 2 | **CUSTOM SETUP** | Tích hợp thư viện bổ sung, thư viện cá nhân và tối ưu hiệu năng. |
+| 3 | **MAINTENANCE** | Truy cập các công cụ bảo trì và khôi phục hệ thống. |
 
-Chọn chế độ cài đặt phù hợp.
 
-Option
+## Copyright
 
-Mode
+**KiCad Library — Kien Hoang**
 
-Description
-
-1
-
-FULL SETUP
-
-Tích hợp toàn bộ thư viện và tối ưu hiệu năng KiCad
-
-2
-
-CUSTOM SETUP
-
-Tích hợp thư viện bổ sung và thư viện cá nhân
-
-3
-
-MAINTENANCE
-
-Quản lý tối ưu hiệu năng, Dry Run và Rollback
-
-Trong chế độ MAINTENANCE, người dùng có thể lựa chọn:
-
-Optimize Only: Tối ưu RAM và hiệu năng KiCad.
-
-Dry Run: Kiểm tra cấu hình và quá trình cài đặt mà không thay đổi dữ liệu.
-
-Rollback: Khôi phục cấu hình từ bản sao lưu trước đó.
-
-4. Copyright
-
-KiCad Library — Kien Hoang
-
-Developed and maintained by Hoang Le Trung Kien.
+Developed and maintained by **Hoang Le Trung Kien**.
 
 Copyright © Hoang Le Trung Kien. All rights reserved.
