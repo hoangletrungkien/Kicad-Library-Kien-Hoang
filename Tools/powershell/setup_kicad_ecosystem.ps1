@@ -1,4 +1,4 @@
-﻿<#
+<#
 .SYNOPSIS
     KiCad Library Kien Hoang - Universal Safe Setup.
 
@@ -24,6 +24,12 @@ param(
     [string]$Rollback,
 
     [switch]$SkipTemplates,
+
+    [switch]$OptimizePerformance,
+
+    [switch]$OptimizeOnly,
+
+    [switch]$SkipOptimization,
 
     [ValidatePattern('^\d+\.\d+$')]
     [string]$KiCadVersion
@@ -928,6 +934,278 @@ function Set-KiCadPathVariables {
     return $true
 }
 
+function Set-JsonNestedProperty {
+    param(
+        [object]$TargetObject,
+        [string[]]$PropertyPath,
+        [object]$Value
+    )
+
+    $current = $TargetObject
+    for ($i = 0; $i -lt ($PropertyPath.Count - 1); $i++) {
+        $propName = $PropertyPath[$i]
+        $prop = $current.PSObject.Properties[$propName]
+        if (-not $prop -or $null -eq $prop.Value -or -not (Test-ObjectNode -Value $prop.Value)) {
+            $newNode = [pscustomobject]@{}
+            if ($prop) {
+                $prop.Value = $newNode
+            }
+            else {
+                $current | Add-Member -NotePropertyName $propName -NotePropertyValue $newNode -Force
+            }
+            $current = $newNode
+        }
+        else {
+            $current = $prop.Value
+        }
+    }
+
+    $leafName = $PropertyPath[-1]
+    $leafProp = $current.PSObject.Properties[$leafName]
+    if (-not $leafProp -or $leafProp.Value -ne $Value) {
+        $current | Add-Member -NotePropertyName $leafName -NotePropertyValue $Value -Force
+        return $true
+    }
+
+    return $false
+}
+
+function Update-KiCadJsonConfig {
+    param(
+        [string]$Path,
+        [hashtable]$PropertyUpdates,
+        [string]$Description
+    )
+
+    $json = [pscustomobject]@{}
+    if (Test-Path -LiteralPath $Path -PathType Leaf) {
+        try {
+            $json = Read-TextFile -Path $Path | ConvertFrom-Json
+        }
+        catch {
+            Write-WARN "Could not parse $(Split-Path -Leaf $Path) as JSON. Skipping. Error: $_"
+            return $false
+        }
+    }
+
+    $fileChanged = $false
+    foreach ($keyPath in $PropertyUpdates.Keys) {
+        $pathTokens = $keyPath -split '\.'
+        $val = $PropertyUpdates[$keyPath]
+        $nodeChanged = Set-JsonNestedProperty -TargetObject $json -PropertyPath $pathTokens -Value $val
+        if ($nodeChanged) {
+            $fileChanged = $true
+        }
+    }
+
+    if ($fileChanged) {
+        $fileName = Split-Path -Leaf $Path
+        if ($DryRun) {
+            Write-STEP "Would optimize $fileName : $Description"
+        }
+        else {
+            Register-Backup -Path $Path
+            $jsonText = ConvertTo-Json -InputObject $json -Depth 100
+            Write-TextAtomic -Path $Path -Content $jsonText
+            Write-OK "$fileName : $Description"
+        }
+        return $true
+    }
+    else {
+        $fileName = Split-Path -Leaf $Path
+        Write-INFO "$fileName : Settings already optimized."
+        return $false
+    }
+}
+
+function Optimize-KiCadPerformance {
+    param(
+        [string]$ConfigDir
+    )
+
+    Write-H1 "KiCad RAM & Performance Optimization"
+    Write-INFO "Target folder: $ConfigDir"
+
+    $changesCount = 0
+
+    # 1. kicad_advanced: Engine flags & memory cache
+    $advancedPath = Join-Path $ConfigDir 'kicad_advanced'
+    $flags = [ordered]@{
+        'Skip3DModelMemoryCache'      = '1'
+        'Skip3DModelFileCache'        = '1'
+        'MaximumThreads'              = '4'
+        'EnableCacheFriendlyFracture' = '1'
+        'MaxFileSystemWatchers'       = '32'
+        'ImportSkipComponentBodies'   = '1'
+        'ShowRouterDebugGraphics'     = '0'
+        'DrawBoundingBoxes'           = '0'
+        'ShowEventCounters'           = '0'
+        'DebugZoneFiller'             = '0'
+        'DebugPDFWriter'              = '0'
+        'ShowPcbnewExportNetlist'     = '0'
+        'HotkeysDumper'               = '0'
+    }
+
+    $existingLines = @()
+    if (Test-Path -LiteralPath $advancedPath -PathType Leaf) {
+        $existingLines = (Read-TextFile -Path $advancedPath) -split "`r?`n"
+    }
+
+    $currentMap = [ordered]@{}
+    foreach ($line in $existingLines) {
+        $trimmed = $line.Trim()
+        if ([string]::IsNullOrWhiteSpace($trimmed) -or $trimmed.StartsWith('#')) {
+            continue
+        }
+        $parts = $trimmed -split '=', 2
+        if ($parts.Count -eq 2) {
+            $currentMap[$parts[0].Trim()] = $parts[1].Trim()
+        }
+    }
+
+    $advancedModified = $false
+    foreach ($key in $flags.Keys) {
+        if (-not $currentMap.Contains($key) -or $currentMap[$key] -ne $flags[$key]) {
+            $currentMap[$key] = $flags[$key]
+            $advancedModified = $true
+        }
+    }
+
+    if ($advancedModified -or -not (Test-Path -LiteralPath $advancedPath -PathType Leaf)) {
+        $newContent = ($currentMap.GetEnumerator() | ForEach-Object { "$($_.Key)=$($_.Value)" }) -join "`r`n" + "`r`n"
+        if ($DryRun) {
+            Write-STEP "Would optimize kicad_advanced (Skip3DModelMemoryCache=1, MaximumThreads=4, MaxFileSystemWatchers=32, debug flags=0)."
+        }
+        else {
+            Register-Backup -Path $advancedPath
+            Write-TextAtomic -Path $advancedPath -Content $newContent
+            Write-OK "kicad_advanced: Prevent 3D model RAM caching, capped threads to 4, & disabled debug overhead."
+            $changesCount++
+        }
+    }
+    else {
+        Write-INFO "kicad_advanced: Already optimized."
+    }
+
+    # 2. eeschema.json: Disable footprint_preview (stops loading heavy 3D/footprints on symbol chooser) & cap undo history
+    $eeschemaUpdated = Update-KiCadJsonConfig `
+        -Path (Join-Path $ConfigDir 'eeschema.json') `
+        -PropertyUpdates @{
+            'appearance.footprint_preview' = $false
+            'system.max_undo_items'        = 50
+        } `
+        -Description "Disabled symbol chooser footprint/3D auto-preview & capped undo history to 50"
+    if ($eeschemaUpdated) { $changesCount++ }
+
+    # 3. pcbnew.json: Disable live_3d_refresh & cap undo history
+    $pcbnewUpdated = Update-KiCadJsonConfig `
+        -Path (Join-Path $ConfigDir 'pcbnew.json') `
+        -PropertyUpdates @{
+            'pcb_display.live_3d_refresh' = $false
+            'system.max_undo_items'       = 50
+        } `
+        -Description "Disabled live 3D background refresh & capped undo history to 50"
+    if ($pcbnewUpdated) { $changesCount++ }
+
+    # 4. kicad.json: Cap project-level undo history
+    $kicadUpdated = Update-KiCadJsonConfig `
+        -Path (Join-Path $ConfigDir 'kicad.json') `
+        -PropertyUpdates @{
+            'system.max_undo_items' = 50
+        } `
+        -Description "Capped project-level undo history to 50"
+    if ($kicadUpdated) { $changesCount++ }
+
+    # 5. 3d_viewer.json: Optimize 3D viewport rendering (disable heavy MSAA, disable raytrace overhead)
+    $viewerUpdated = Update-KiCadJsonConfig `
+        -Path (Join-Path $ConfigDir '3d_viewer.json') `
+        -PropertyUpdates @{
+            'render.opengl_render_bbox_only_OnMove' = $true
+            'render.opengl_AA_mode'                 = 0
+            'render.opengl_AA_disableOnMove'        = $true
+            'render.raytrace_anti_aliasing'         = $false
+            'render.raytrace_procedural_textures'   = $false
+            'render.raytrace_post_processing'       = $false
+            'render.raytrace_reflections'           = $false
+            'render.raytrace_refractions'           = $false
+            'render.raytrace_shadows'               = $false
+            'render.opengl_copper_thickness'        = $false
+        } `
+        -Description "Optimized 3D viewport (disabled heavy MSAA, enabled bbox on move, disabled heavy raytrace/textures)"
+    if ($viewerUpdated) { $changesCount++ }
+
+    # 6. kicad_common.json: Set clear_3d_cache_interval to 1 day
+    $commonUpdated = Update-KiCadJsonConfig `
+        -Path (Join-Path $ConfigDir 'kicad_common.json') `
+        -PropertyUpdates @{ 'system.clear_3d_cache_interval' = 1 } `
+        -Description "Set 3D model cache auto-purge interval to 1 day"
+    if ($commonUpdated) { $changesCount++ }
+
+    # 7. Deduplicate official libraries in sym-lib-table & fp-lib-table
+    # When individual official libraries are present, having (type "Table") loads all 223/155 official libraries TWICE!
+    $symTablePath = Join-Path $ConfigDir 'sym-lib-table'
+    if (Test-Path -LiteralPath $symTablePath -PathType Leaf) {
+        $symText = Read-TextFile -Path $symTablePath
+        $hasIndividualSym = ($symText -match '\(name "4xxx"\)')
+        $hasActiveTableSym = [regex]::IsMatch($symText, '(?s)\(lib\s+\(name\s+"KiCad"\)\s+\(type\s+"Table"\)(?:(?!\(disabled\)).)*?\)')
+        if ($hasIndividualSym -and $hasActiveTableSym) {
+            $symNew = [regex]::Replace($symText, '(\(lib\s+\(name\s+"KiCad"\)\s+\(type\s+"Table"\)[^\)]*)\)', '$1 (disabled))')
+            if ($symNew -ne $symText) {
+                if ($DryRun) {
+                    Write-STEP "Would disable duplicate recursive 'KiCad' Table entry in sym-lib-table (saves loading 223 libraries twice)."
+                }
+                else {
+                    Register-Backup -Path $symTablePath
+                    Write-TextAtomic -Path $symTablePath -Content $symNew
+                    Write-OK "sym-lib-table: Disabled duplicate 'KiCad' Table entry (prevents double-loading 223 official symbol libraries)."
+                    $changesCount++
+                }
+            }
+        }
+    }
+
+    $fpTablePath = Join-Path $ConfigDir 'fp-lib-table'
+    if (Test-Path -LiteralPath $fpTablePath -PathType Leaf) {
+        $fpText = Read-TextFile -Path $fpTablePath
+        $hasIndividualFp = ($fpText -match '\(name "Capacitor_SMD"\)')
+        $hasActiveTableFp = [regex]::IsMatch($fpText, '(?s)\(lib\s+\(name\s+"KiCad"\)\s+\(type\s+"Table"\)(?:(?!\(disabled\)).)*?\)')
+        if ($hasIndividualFp -and $hasActiveTableFp) {
+            $fpNew = [regex]::Replace($fpText, '(\(lib\s+\(name\s+"KiCad"\)\s+\(type\s+"Table"\)[^\)]*)\)', '$1 (disabled))')
+            if ($fpNew -ne $fpText) {
+                if ($DryRun) {
+                    Write-STEP "Would disable duplicate recursive 'KiCad' Table entry in fp-lib-table (saves loading 155 libraries twice)."
+                }
+                else {
+                    Register-Backup -Path $fpTablePath
+                    Write-TextAtomic -Path $fpTablePath -Content $fpNew
+                    Write-OK "fp-lib-table: Disabled duplicate 'KiCad' Table entry (prevents double-loading 155 official footprint libraries)."
+                    $changesCount++
+                }
+            }
+        }
+
+        # Also check for uncompiled recursive kicad-footprints
+        $hasBloatedLib = ($fpText -match 'hardware-components-main[/\\]kicad-footprints')
+        $isAlreadyDisabled = [regex]::IsMatch($fpText, '(?s)\(lib\s+\(name\s+"kicad-footprints"\).*?\(disabled\).*?\)')
+        if ($hasBloatedLib -and -not $isAlreadyDisabled) {
+            $fpNew = [regex]::Replace($fpText, '(\(lib\s+\(name\s+"kicad-footprints"\)[^\)]*)\)', '$1 (disabled))')
+            if ($fpNew -ne $fpText) {
+                if ($DryRun) {
+                    Write-STEP "Would disable uncompiled recursive 'kicad-footprints' library in fp-lib-table."
+                }
+                else {
+                    Register-Backup -Path $fpTablePath
+                    Write-TextAtomic -Path $fpTablePath -Content $fpNew
+                    Write-OK "fp-lib-table: Disabled uncompiled recursive 'kicad-footprints' library (prevents startup RAM crash)."
+                    $changesCount++
+                }
+            }
+        }
+    }
+
+    return $changesCount
+}
+
 function Copy-MissingTemplates {
     param(
         [string]$SourceTemplates,
@@ -1089,6 +1367,13 @@ function Invoke-Setup {
         Write-WARN 'Template integration skipped by request.'
     }
 
+    $optChanges = 0
+    if ($OptimizePerformance -and -not $SkipOptimization) {
+        Write-H1 'STEP 6 - Optimize KiCad RAM & Performance'
+        $optChanges = Optimize-KiCadPerformance -ConfigDir $target.ConfigDir
+        Write-OK "KiCad RAM and performance optimization applied ($optChanges file(s) updated)."
+    }
+
     Write-H1 'SETUP SUMMARY'
     Write-Host "  Product          : KiCad Library Kien Hoang" -ForegroundColor White
     Write-Host "  Profile          : $Profile" -ForegroundColor White
@@ -1097,6 +1382,9 @@ function Invoke-Setup {
     Write-Host "  Symbol libraries : +$($symbolResult.Added) (total $($symbolResult.Total))" -ForegroundColor White
     Write-Host "  Footprint libs   : +$($footprintResult.Added) (total $($footprintResult.Total))" -ForegroundColor White
     Write-Host "  Templates copied : $templateCount" -ForegroundColor White
+    if ($OptimizePerformance -and -not $SkipOptimization) {
+        Write-Host "  RAM Optimization : Applied ($optChanges file(s) updated)" -ForegroundColor White
+    }
 
     if ($DryRun) {
         Write-Host '  Mode             : DRY RUN - no files were changed' -ForegroundColor Yellow
@@ -1126,7 +1414,12 @@ try {
     $runningProcesses = @(Get-KiCadProcessList)
     if ($runningProcesses.Count -gt 0) {
         $names = ($runningProcesses | Select-Object -ExpandProperty ProcessName -Unique) -join ', '
-        throw "KiCad is currently running ($names). Save your work and close KiCad before setup or rollback. No changes were made."
+        if ($DryRun) {
+            Write-WARN "KiCad is currently running ($names). In a real run, close KiCad first."
+        }
+        else {
+            throw "KiCad is currently running ($names). Save your work and close KiCad before setup or rollback. No changes were made."
+        }
     }
 
     if ($Rollback) {
@@ -1139,6 +1432,42 @@ try {
 
     if ($DryRun) {
         Write-WARN 'DRY RUN is enabled. No configuration, table, template, or backup files will be written.'
+    }
+
+    if ($OptimizeOnly) {
+        Write-H1 'STEP 1 - Detect KiCad'
+        $target = Resolve-KiCadTarget -RequestedVersion $KiCadVersion
+        $script:KiCadConfigDirectory = $target.ConfigDir
+        Write-OK "Target KiCad version: $($target.Version)"
+        Write-INFO "Configuration folder: $($target.ConfigDir)"
+
+        Write-H1 'STEP 2 - Optimize KiCad RAM & Performance'
+        $optChanges = Optimize-KiCadPerformance -ConfigDir $target.ConfigDir
+
+        Write-H1 'OPTIMIZATION SUMMARY'
+        Write-Host "  Product          : KiCad Library Kien Hoang" -ForegroundColor White
+        Write-Host "  Action           : RAM & Performance Optimization" -ForegroundColor White
+        Write-Host "  KiCad version    : $($target.Version)" -ForegroundColor White
+        Write-Host "  Config directory : $($target.ConfigDir)" -ForegroundColor White
+        Write-Host "  Optimizations    : $optChanges file(s) updated" -ForegroundColor White
+
+        if ($DryRun) {
+            Write-Host '  Mode             : DRY RUN - no files were changed' -ForegroundColor Yellow
+        }
+        elseif ($script:Manifest.Count -gt 0) {
+            Write-Host "  Backup timestamp : $script:Stamp" -ForegroundColor White
+            Write-Host "  Backup directory : $script:BackupDir" -ForegroundColor White
+        }
+        else {
+            Write-Host '  Backup           : Not required; settings were already optimized' -ForegroundColor White
+        }
+
+        Write-Host ''
+        Write-Host '  Restart KiCad for optimizations to take effect.' -ForegroundColor Yellow
+        Write-Host '============================================================' -ForegroundColor Cyan
+        Write-Host ''
+        Write-Host "Completed: $($script:StepOK) OK, $($script:StepWarn) warning(s), $($script:StepFail) failure(s)." -ForegroundColor Cyan
+        exit 0
     }
 
     Invoke-Setup
